@@ -1,5 +1,5 @@
 ---
-title:"Deffkilla Wartrike"
+title:Deffkilla Wartrike
 notetype: feed
 date: 21-10-2021
 ---
