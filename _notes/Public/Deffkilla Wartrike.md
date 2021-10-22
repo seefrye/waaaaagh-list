@@ -10,7 +10,7 @@ date : 21-10-2021
 > - **Shokka Hull:** When targeted by a melee attack, 4+ d3 mortal wounds
 > - **Explodes:** 3" 1 mortal wound
 > - **Ramshackle**
-> > - **Friendship:** Friends with [[Mozrog Skragbad]]
+> - **Friendship:** Friends with [[Mozrog Skragbad]]
 
 | M   | WS  | BS  | S   | T   | W   | A   | Ld  | Sv     |
 |:--- |:--- |:--- |:--- |:--- |:--- |:--- |:--- |:------ |
