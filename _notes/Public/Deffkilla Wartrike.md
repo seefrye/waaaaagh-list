@@ -4,6 +4,8 @@ notetype : feed
 date : 21-10-2021
 ---
 
+---
+
 > - **Big Red Button:** Advance 6"
 > - **Fuel Mixa Grot:** Advance 9" once per battle
 > - **Roadkilla:** After charging, select one enemy unit within 1" and roll one D6: 2+ D3 mortal wounds
@@ -12,9 +14,13 @@ date : 21-10-2021
 > - **Ramshackle**
 > - **Friendship:** Friends with [[Mozrog Skragbad]]
 
+---
+
 | M   | WS  | BS  | S   | T   | W   | A   | Ld  | Sv     |
 |:--- |:--- |:--- |:--- |:--- |:--- |:--- |:--- |:------ |
 | 14" | 2+  | 5+  | 5   | 6   | 8   | 5   | 7   | 4+/5++ |
+
+---
 
 | Weapon            | Range | Type       | S   | AP  | D   | Abilities                     |
 |:----------------- |:----- |:---------- |:--- |:--- |:--- |:----------------------------- |
