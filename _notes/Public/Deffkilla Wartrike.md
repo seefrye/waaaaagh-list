@@ -4,8 +4,6 @@ notetype : feed
 date : 21-10-2021
 ---
 
-# Deffkilla Wartrike
-
 > - **Big Red Button:** Advance 6"
 > - **Fuel Mixa Grot:** Advance 9" once per battle
 > - **Roadkilla:** After charging, select one enemy unit within 1" and roll one D6: 2+ D3 mortal wounds

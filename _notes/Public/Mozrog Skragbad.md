@@ -1,4 +1,8 @@
-# **Mozrog Skragbad**
+---
+title : Mozrog Skragbad
+notetype : feed
+date : 21-10-2021
+---
 
 > - **Beast Snagga:** +1 to hit against MONSTER/VEHICLE
 > - **Beastboss (Aura):** BEAST SNAGGA CORE or  BEAST SNAGGA CHARACTER unit is within 6", +1 to melee hits
