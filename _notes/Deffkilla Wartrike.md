@@ -1,3 +1,9 @@
+---
+title:"Deffkilla Wartrike"
+notetype: feed
+date: 21-10-2021
+---
+
 # Deffkilla Wartrike
 
 **Big Red Button:** Advance 6"
