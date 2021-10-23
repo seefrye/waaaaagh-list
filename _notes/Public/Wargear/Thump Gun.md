@@ -1,5 +1,5 @@
 ---
-name: "Thump Gun"
+name: Thump Gun
 notetype: nofeed
 date: 23-10-2021
 ---
