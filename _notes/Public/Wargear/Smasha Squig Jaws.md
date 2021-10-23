@@ -1,5 +1,5 @@
 ---
-title: Slugga
+title: Smasha Squig Jaws
 notetype: nofeed
 date: 23-10-2021
 ---
