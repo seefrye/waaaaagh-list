@@ -12,14 +12,14 @@ date : 21-10-2021
 ---
 
 ### HQ
->* [[Mozrog Skragbad]]
->* [[Deffkilla Wartrike]]
->* [[Weirdboy]]
->> - [[Da Jump]]
->> - [[Warpath]]
->* [[Wurrboy]]
->>  - [[Roar of Mork]]
->>  - [[Frazzle]]
+* [[Mozrog Skragbad]]
+* [[Deffkilla Wartrike]]
+* [[Weirdboy]]
+> - [[Da Jump]]
+> - [[Warpath]]
+* [[Wurrboy]]
+>  - [[Roar of Mork]]
+>  - [[Frazzle]]
 
 ---
 
