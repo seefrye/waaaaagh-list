@@ -1,6 +1,6 @@
 ---
 title : October 24th List
-notetype : unfeed
+notetype : feed
 date : 21-10-2021
 ---
 
