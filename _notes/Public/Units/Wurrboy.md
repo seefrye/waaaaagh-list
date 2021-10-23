@@ -5,6 +5,7 @@ date : 21-10-2021
 ---
 
 > **Beast Snagga:** +1 to hit against MONSTER/VEHICLE
+> 
 > **Waaagh! Energy:** Cast 1 Deny 1. While 20+ Orks (not GRETCHIN) within 12", +1 cast
 > 
 > | Power        | Warp Charge | Range | Effect                                                                            |
