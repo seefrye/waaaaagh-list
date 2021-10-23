@@ -19,8 +19,8 @@ date : 23-10-2021
 
 ---
 
-| Weapon            | Range | Type       | S   | AP  | D   | Abilities                                                                                            |
-|:----------------- |:----- |:---------- |:--- |:--- |:--- |:---------------------------------------------------------------------------------------------------- |
+| Weapon                | Range | Type       | S   | AP  | D   | Abilities                                                                                            |
+|:--------------------- |:----- |:---------- |:--- |:--- |:--- |:---------------------------------------------------------------------------------------------------- |
 | [[Big Chompa's Jaws]] | Melee | Melee      | 7   | -3  | 3   | 3 free attacks, wound rolls of 6 inflicts 4 mortal wounds on the target and the attack sequence ends |
 | [[Gutrippa]]          | Melee | Melee      | +1  | -2  | 3   | -                                                                                                    |
 | [[Thump Gun]]         | 18"   | Assault d3 | 6   | -1  | d3  | Blast                                                                                                |
