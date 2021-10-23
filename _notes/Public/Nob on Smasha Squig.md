@@ -1,5 +1,5 @@
 ---
-title : Mozrog Skragbad
+title : Nob on Smasha Squig
 notetype : feed
 date : 21-10-2021
 ---
