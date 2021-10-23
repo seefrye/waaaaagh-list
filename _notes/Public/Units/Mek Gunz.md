@@ -6,9 +6,8 @@ date : 21-10-2021
 
 ---
 
-> **Artillery and Crew:** Cannot advance, charge, Heroically Intervene, pile-in or consolidate
->
-> **Ramshackle**
+> - [[Artillery and Crew]]: Cannot advance, charge, Heroically Intervene, pile-in or consolidate
+> - [[Ramshackle]]
 
 ---
 
@@ -17,8 +16,9 @@ date : 21-10-2021
 | Mek Gun | 3"  | 5+  | 4+  | 2   | 5   | 6   | 6   | 4   | 5+  |
 
 ---
+[[Bubblechukka]]
 
-| d3                | Range | Type      | S   | AP  | D    | Abilities |
+| Profile - d3      | Range | Type      | S   | AP  | D    | Abilities |
 |:----------------- |:----- |:--------- |:--- |:--- |:---- |:--------- |
 | 1 - Big Bubble    | 48"   | Heavy 3d3 | 6   | -2  | 1    | Blast     |
 | 2 - Wobbly Bubble | 48"   | Heavy d6  | 8   | -3  | 3    | Blast     |
