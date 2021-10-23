@@ -4,6 +4,8 @@ notetype : feed
 date : 21-10-2021
 ---
 
+---
+
 > **Cowardly:** -1 to Combat Attrition tests
 >
 > **Diminutive:** +1 to any armour saving throw while receiving the benefits of cover

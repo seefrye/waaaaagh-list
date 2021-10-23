@@ -4,6 +4,8 @@ notetype : feed
 date : 21-10-2021
 ---
 
+---
+
 > - **Big an' Stompy:** Can fall back & charge. Can move over other models.
 > - **Krumpin' Time**: +1 to hit melee
 > - **Explodes:** 2d6", D6 mortal wounds.

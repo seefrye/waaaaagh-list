@@ -4,6 +4,8 @@ notetype : feed
 date : 21-10-2021
 ---
 
+---
+
 > **Beast Snagga:** +1 to hit against MONSTER/VEHICLE
 >
 > **BeastGob (Aura):** SQUIG within 6" makes a melee attack with squighog jaws, smasha squig jaws or a squigosaur's jaws, +1 damage

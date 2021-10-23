@@ -4,6 +4,8 @@ notetype : feed
 date : 21-10-2021
 ---
 
+---
+
 > **Beast Snagga:** +1 to hit against MONSTER/VEHICLE, 6++
 
 ---
