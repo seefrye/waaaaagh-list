@@ -5,7 +5,7 @@ date : 21-10-2021
 ---
 
 ### Kultur
-[[Snakebites]]
+* [[Snakebites]]
 
 ### HQ
 * [[Mozrog Skragbad]]
