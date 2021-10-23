@@ -16,8 +16,8 @@ date : 21-10-2021
 * [[Squighog Boyz]]
 
 ## Heavy Support
-* [[Kill Rig]] (Warlord)
 * [[Mek Gunz]]
+* [[Kill Rig]] (Warlord)
 
 ## Flyer
 * [[Dakkajet]]
