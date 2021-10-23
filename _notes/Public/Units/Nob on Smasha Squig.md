@@ -6,8 +6,9 @@ date : 21-10-2021
 
 ---
 
-> - **Beast Snagga:** +1 to hit against MONSTER/VEHICLE
-> - **Smasha 'Ead:** After charging, select one enemy unit in Engagement Range, roll 5d6; each 4+ deal 1 mortal wound.
+> - [[Beast Snagga]] +1 to hit against MONSTER/VEHICLE
+> - [[Smasha 'Ead]] After charging, select one enemy unit in Engagement Range, roll 5d6; each 4+ deal 1 mortal wound.
+> - [[Squigboss]]
 
 ---
 
@@ -19,8 +20,8 @@ date : 21-10-2021
 
 | Weapon            | Range | Type     | S   | AP  | D   | Abilities        |
 |:----------------- |:----- |:-------- |:--- |:--- |:--- | ---------------- |
-| Big Choppa        | Melee | Melee    | +2  | -1  | 2   | -                |
-| Slugga            | 12"   | Pistol 1 | 4   | 0   | 1   | -                |
-| Smasha Squig Jaws | Melee | Melee    | 6   | -1  | 2   | Two free attacks |
+| [[Big Choppa]]        | Melee | Melee    | +2  | -1  | 2   | -                |
+| [[Slugga]]            | 12"   | Pistol 1 | 4   | 0   | 1   | -                |
+| [[Smasha Squig Jaws]] | Melee | Melee    | 6   | -1  | 2   | Two free attacks |
 
 ---

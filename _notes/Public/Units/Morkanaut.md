@@ -9,7 +9,6 @@ date : 21-10-2021
 > - **Explodes:** 2d6", D6 mortal wounds.
 > - **Kustom Force Field:**(Aura) 6" 6++ (9" 5++ with [[Force Field Boosta]])
 > - **Transport:** 6 FLASH GITZ or INFANTRY (Each MEGA ARMOUR or JUMP PACK takes up 2)
-> - **Friendship:** Friends with [[Mozrog Skragbad]] and [[Deffkilla Wartrike]]
 
 ---
 

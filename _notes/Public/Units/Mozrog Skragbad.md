@@ -7,7 +7,7 @@ date : 23-10-2021
 ---
 
 > - [[Beast Snagga]]: +1 to hit against MONSTER/VEHICLE
-> - [[Beastboss]]: BEAST SNAGGA CORE or  BEAST SNAGGA CHARACTER unit is within 6", +1 to melee hits
+> - [[Beastboss]]: BEAST SNAGGA CORE/CHARACTERs within 6" get +1 to melee hits
 > - [[Thick Hide]]: Takes -1 damage
 > - [[Surly as a Squiggoth]]: First time he dies, on 4+ set him back up on the battlefield as close as possible to where they were destroyed and not within Engagement Range of any enemy models with D3 wounds remaining.
 
