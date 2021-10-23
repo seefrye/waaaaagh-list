@@ -1,5 +1,5 @@
 ---
-name: Surly as a Squiggoth
+title: Surly as a Squiggoth
 notetype : nofeed
 date: 23-10-2021
 ---

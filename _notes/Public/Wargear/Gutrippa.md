@@ -1,5 +1,5 @@
 ---
-name: Gutrippa
+title: Gutrippa
 notetype: nofeed
 date: 23-10-2021
 ---
