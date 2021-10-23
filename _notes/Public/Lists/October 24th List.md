@@ -15,11 +15,7 @@ date : 21-10-2021
 * [[Mozrog Skragbad]]
 * [[Deffkilla Wartrike]]
 * [[Weirdboy]]
-> - [[Da Jump]]
-> - [[Warpath]]
 * [[Wurrboy]]
->  - [[Roar of Mork]]
->  - [[Frazzle]]
 
 ---
 
