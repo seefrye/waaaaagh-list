@@ -9,10 +9,12 @@ date : 23-10-2021
 >If your WARLORD is a WARBOSS, then once per battle, in your Command phase, you can call a Waaagh!. To do so, that WARBOSS must be on the battlefield or embarked on a TRANSPORT that is on the battlefield. If your WARLORD is a SPEEDBOSS, then once per battle, in your Command phase, you can instead call a Speedwaaagh!. To do so, that SPEEDBOSS must be on the battlefield. If your WARLORD is GHAZGHKULL THRAKA, you can instead call a Great Waaagh!. To do so, GHAZGHKULL THRAKA must be on the battlefield or embarked on a TRANSPORT that is on the battlefield.  
   
 >A Waaagh! and Speedwaaagh! each have two stages. The first stage is active from when the Waaagh! or Speedwaaagh! is called, and lasts until the start of your next Command phase. When the first stage ends, the second stage starts, and lasts until the start of your subsequent Command phase. After this point, the Waaagh! or Speedwaaagh! is no longer active, and has no further effect. Calling a Great Waaagh! is treated as calling both a Waaagh! and a Speedwaaagh! at the same time. Both are active from when a Great Waaagh! is called, and each stage starts and finishes as described above.  
-  
->>_Waaagh!_  
-
->>Raising his weapons into the air before gesturing towards the enemy, the Warboss bellows his war cry. Every nearby Ork joins in before surging towards the enemy, blades ready in an overwhelming tide.  
+ 
+---
+ 
+>_Waaagh!_
+>
+>Raising his weapons into the air before gesturing towards the enemy, the Warboss bellows his war cry. Every nearby Ork joins in before surging towards the enemy, blades ready in an overwhelming tide.  
 ```
 Stage 1: Call Da Waaagh!  
 
@@ -23,10 +25,10 @@ Stage 2: Get Stuck In!
 
 -   Add 1 to the Attacks characteristic of ORKS models from your army.
 ```
->>---
->>_Speedwaaagh!_  
-
->> As the wind and the bullets of the foe whistle past his vehicle, the Speedboss throws back his head and roars his war cry, the call echoing from the ramshackle vehicles following in his wake as they surge forward ever faster.  
+---
+>_Speedwaaagh!_  
+>
+> As the wind and the bullets of the foe whistle past his vehicle, the Speedboss throws back his head and roars his war cry, the call echoing from the ramshackle vehicles following in his wake as they surge forward ever faster.  
 ```
 Stage 1: Da Big Race  
 
