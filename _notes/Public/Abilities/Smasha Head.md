@@ -1,5 +1,5 @@
 ---
-title : Smasha 'Ead
+title : Smasha Head
 notetype : nofeed
 date : 23-10-2021
 ---

@@ -7,7 +7,7 @@ date : 21-10-2021
 ---
 
 > - [[Beast Snagga]] +1 to hit against MONSTER/VEHICLE
-> - [[Smasha 'Ead]] After charging, select one enemy unit in Engagement Range, roll 5d6; each 4+ deal 1 mortal wound.
+> - [[Smasha Head]] After charging, select one enemy unit in Engagement Range, roll 5d6; each 4+ deal 1 mortal wound.
 > - [[Squigboss]]
 
 ---

@@ -10,9 +10,9 @@ date : 23-10-2021
 > 
 > [[Big Red Button]]: Advance 6"
 > 
-> [[Swoopin' Down]]: Deepstrike
+> [[Swoopin Down]]: Deepstrike
 > 
-> [[Swoopin' Down]]
+> [[Swoopin Down]]
 
 ---
 
