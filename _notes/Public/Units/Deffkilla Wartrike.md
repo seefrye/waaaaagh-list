@@ -21,11 +21,11 @@ date : 23-10-2021
 
 ---
 
-| Weapon            | Range | Type       | S   | AP  | D   | Abilities                     |
-|:----------------- |:----- |:---------- |:--- |:--- |:--- |:----------------------------- |
-| Killa Jet (Burna) | 12"   | Assault D6 | 5   | -1  | 1   | Flamer                        |
-| Killa Jet (Cutta) | 12"   | Assault 2  | 8   | -4  | D6  | Half range, D6+2 damage extra |
-| Snagga Klaw       | Melee | Melee      | +2  | -2  | 2   | Re-roll all wounds            |
-| Twin Boomstick x3 | 12"   | Assault 2  | 5   | 0   | 1   | -                             |
+| Weapon                | Range | Type       | S   | AP  | D   | Abilities                     |
+|:--------------------- |:----- |:---------- |:--- |:--- |:--- |:----------------------------- |
+| [[Killa Jet (Burna)]] | 12"   | Assault D6 | 5   | -1  | 1   | Flamer                        |
+| [[Killa Jet (Cutta)]] | 12"   | Assault 2  | 8   | -4  | D6  | Half range, D6+2 damage extra |
+| [[Snagga Klaw]]       | Melee | Melee      | +2  | -2  | 2   | Re-roll all wounds            |
+| [[Twin Boomstick]]x3  | 12"   | Assault 2  | 5   | 0   | 1   | -                             |
 
 ---
