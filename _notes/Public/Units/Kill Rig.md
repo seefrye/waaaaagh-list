@@ -43,7 +43,7 @@ date : 21-10-2021
 
 | Weapon                      | Range | Type          | S   | AP  | D   | Abilities                                        |
 |:--------------------------- |:----- |:------------- |:--- |:--- |:--- |:------------------------------------------------ |
-| [['Eavy Lobba]]             | 48"   | Heavy d6      | 6   | -1  | 2   | Blast. Doesn't need LoS.                         |
+| [[Heavy Lobba]]             | 48"   | Heavy d6      | 6   | -1  | 2   | Blast. Doesn't need LoS.                         |
 | [[Butcha Boyz]]             | Melee | Melee         | 5   | -1  | 1   | Four free attacks                                |
 | [[Savage Horns and Hooves]] | Melee | Melee         | +1  | -2  | 2   | Four free attacks                                |
 | [[Saw Blades]]              | Melee | Melee         | +2  | -2  | 2   | -                                                |
