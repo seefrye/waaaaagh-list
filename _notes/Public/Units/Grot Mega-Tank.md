@@ -6,14 +6,11 @@ date : 21-10-2021
 
 ---
 
-> **Explodes:** 6" D3 moral wounds.
-> 
-> **Ramshackle:**
+> [[Explodes]] 6" D3 moral wounds.
 >
-> **Squig-hide Tyres:**
+> [[Squig-hide Tyres]] +1" move, extra +2" advance
 > 
-> - Move +1" (already factored in)
-> - Advance +2"
+> [[Ramshackle]]
 
 ---
 
@@ -25,12 +22,12 @@ date : 21-10-2021
 
 ---
 
-| Weapon              | Range | Type       | S   | AP  | D   | Abilities |
-|:------------------- |:----- |:---------- |:--- |:--- |:--- |:--------- |
-| Big Shoota          | 36"   | Dakka 5/3  | 5   | 0   | 1   | -         |
-| Grotzooka (x2)      | 18"   | Heavy 2d3  | 6   | 0   | 1   | Blast     |
-| Rokkit launcha (x2) | 24"   | Heavy d3   | 8   | -2  | 3   | Blast     |
-| Shoota              | 18"   | Dakka 3/2  | 4   | 0   | 1   | -         |
-| Skorcha (x2)        | 12"   | Assault d6 | 5   | -1  | 1   | Flamer    |
+| Weapon                  | Range | Type       | S   | AP  | D   | Abilities |
+|:----------------------- |:----- |:---------- |:--- |:--- |:--- |:--------- |
+| [[Big Shoota]]          | 36"   | Dakka 5/3  | 5   | 0   | 1   | -         |
+| [[Grotzooka]] (x2)      | 18"   | Heavy 2d3  | 6   | 0   | 1   | Blast     |
+| [[Rokkit Launcha]] (x2) | 24"   | Heavy d3   | 8   | -2  | 3   | Blast     |
+| [[Shoota]]              | 18"   | Dakka 3/2  | 4   | 0   | 1   | -         |
+| [[Skorcha]] (x2)        | 12"   | Assault d6 | 5   | -1  | 1   | Flamer    |
 
 ---
