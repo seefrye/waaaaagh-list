@@ -4,13 +4,10 @@ notetype : feed
 date : 21-10-2021
 ---
 
-> **Explodes:** 6" d3 moral wounds
->
-> **More Dakka:** d6, 4+ make one extra shot per Dakka weapon, on 6 make two extra
->
-> **Ramshackle**
-> 
->**Supersonic, Airborne, Hard to Hit**
+> * **Explodes:** 6" d3 moral wounds
+> * **More Dakka:** d6, 4+ make one extra shot per Dakka weapon, on 6 make two extra
+> * **Ramshackle**
+> * **Supersonic, Airborne, Hard to Hit**
 
 ---
 
