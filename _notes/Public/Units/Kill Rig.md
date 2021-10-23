@@ -39,11 +39,13 @@ date : 21-10-2021
 
 ---
 
-| Weapon       | Range | Type      | S   | AP  | D   | Abilities |
-|:------------ |:----- |:--------- |:--- |:--- |:--- |:--------- |
-| 'Eavy Lobba | 48" | Heavy d6 | 6 | -1 | 2 | Blast. Doesn't need LoS. |
-| Butcha Boyz | Melee | Melee | 5 | -1 | 1 | Four free attacks |
-| Savage Horns and Hooves | Melee | Melee | +1 | -2 | 2 | Four free attacks |
-| Saw Blades | Melee | Melee | +2 | -2 | 2 | - |
-| Stikka Kannon | 12" | Heavy 1 | 8 | -2 | 3 | Re-roll hits against MONSTER/VEHICLEs
-| Wurrtower | 24" | Assault 1(d3) | 9 | -3 | d6 | Auto-hits. d3 attacks if a psycic power was cast |
+| Weapon                  | Range | Type          | S   | AP  | D   | Abilities                                        |
+|:----------------------- |:----- |:------------- |:--- |:--- |:--- |:------------------------------------------------ |
+| 'Eavy Lobba             | 48"   | Heavy d6      | 6   | -1  | 2   | Blast. Doesn't need LoS.                         |
+| Butcha Boyz             | Melee | Melee         | 5   | -1  | 1   | Four free attacks                                |
+| Savage Horns and Hooves | Melee | Melee         | +1  | -2  | 2   | Four free attacks                                |
+| Saw Blades              | Melee | Melee         | +2  | -2  | 2   | -                                                |
+| Stikka Kannon           | 12"   | Heavy 1       | 8   | -2  | 3   | Re-roll hits against MONSTER/VEHICLEs            |
+| Wurrtower               | 24"   | Assault 1(d3) | 9   | -3  | d6  | Auto-hits. d3 attacks if a psycic power was cast |
+
+---

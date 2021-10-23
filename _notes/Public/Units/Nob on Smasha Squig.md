@@ -11,14 +11,16 @@ date : 21-10-2021
 
 ---
 
-| Unit | M   | WS  | BS  | S   | T   | W   | A   | Ld  | Sv     |
-|:--- |:--- |:--- |:--- |:--- |:--- |:--- |:--- |:------ |
-| Nob on Smasha Squig| 10"| 3+ | 5+ | 5 | 6 | 5 | 4 | 7 | 4+
+| Unit                | M   | WS  | BS  | S   | T   | W   | A   | Ld  | Sv  |
+|:------------------- |:--- |:--- |:--- |:--- |:--- |:--- |:--- |:--- | --- |
+| Nob on Smasha Squig | 10" | 3+  | 5+  | 5   | 6   | 5   | 4   | 7   | 4+  |
 
 ---
 
-| Weapon            | Range | Type       | S   | AP  | D   | Abilities                                                                                            |
-|:----------------- |:----- |:---------- |:--- |:--- |:---  |
-| Big Choppa | Melee | Melee | +2 | -1 | 2 | -
-| Slugga | 12" | Pistol 1| 4 | 0 | 1 | -
-|Smasha Squig Jaws | Melee | Melee | 6 | -1 | 2 | Two free attacks
+| Weapon            | Range | Type     | S   | AP  | D   | Abilities        |
+|:----------------- |:----- |:-------- |:--- |:--- |:--- | ---------------- |
+| Big Choppa        | Melee | Melee    | +2  | -1  | 2   | -                |
+| Slugga            | 12"   | Pistol 1 | 4   | 0   | 1   | -                |
+| Smasha Squig Jaws | Melee | Melee    | 6   | -1  | 2   | Two free attacks |
+
+---

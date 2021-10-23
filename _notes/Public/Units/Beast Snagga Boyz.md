@@ -21,3 +21,5 @@ date : 21-10-2021
 | Choppa       | Melee | Melee      | User | -1  | 1   | One extra attack |
 | Slugga       | 12"   | Pistol 1   | 4    | 0   | 1   | -                |
 | Thump Gun    | 18"   | Assault d3 | 6    | -1  | d3  | Blast            |
+
+---

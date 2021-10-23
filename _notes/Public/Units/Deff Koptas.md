@@ -20,10 +20,12 @@ date : 21-10-2021
 
 ---
 
-| Weapon       | Range | Type     | S   | AP  | D   | Abilities |
-|:------------ |:----- |:-------- |:--- |:--- |:--- |:--------- |
-| Kopta Rokkits | 24" | Heavy 2d3 | 8 | -2 | 3 | Blast |
-| Kustom Mega-Blasta | 24" | Assault d3 | 8 | -3 | d6 | Blast. 1s to hit inflict one mortal wound on bearer|
-| Slugga | 12" | Pistol 1 | 4 | 0 | 1 | - |
-| Spinnin' Blades | Melee | Melee | +1 | -1 | 1 | Triple-attack
-| Stikkbomb | 8" | Grenade d6 | 3 | 0 | 1 | Blast
+| Weapon             | Range | Type       | S   | AP  | D   | Abilities                                           |
+|:------------------ |:----- |:---------- |:--- |:--- |:--- |:--------------------------------------------------- |
+| Kopta Rokkits      | 24"   | Heavy 2d3  | 8   | -2  | 3   | Blast                                               |
+| Kustom Mega-Blasta | 24"   | Assault d3 | 8   | -3  | d6  | Blast. 1s to hit inflict one mortal wound on bearer |
+| Slugga             | 12"   | Pistol 1   | 4   | 0   | 1   | -                                                   |
+| Spinnin' Blades    | Melee | Melee      | +1  | -1  | 1   | Triple-attack                                       |
+| Stikkbomb          | 8"    | Grenade d6 | 3   | 0   | 1   | Blast                                               |
+
+---

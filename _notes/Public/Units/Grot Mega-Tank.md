@@ -30,3 +30,5 @@ date : 21-10-2021
 | Rokkit launcha (x2) | 24"   | Heavy d3   | 8   | -2  | 3   | Blast     |
 | Shoota              | 18"   | Dakka 3/2  | 4   | 0   | 1   | -         |
 | Skorcha (x2)        | 12"   | Assault d6 | 5   | -1  | 1   | Flamer    |
+
+---

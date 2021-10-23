@@ -29,3 +29,5 @@ date : 21-10-2021
 | Kustom Mega-Zappa    | 36"   | Heavy 3d3  | 8    | -3  | d6  | Blast. Any hit rolls of 1, bearer suffers 1 mortal wound after shooting |
 | Rokkit launcha x2    | 24"   | Heavy d3   | 8    | -2  | 3   | Blast                                                                   |
 | Twin Big Shoota x2   | 36"   | Dakka 10/6 | 5    | 0   | 1   | -                                                                       |
+
+---

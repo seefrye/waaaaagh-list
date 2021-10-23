@@ -10,16 +10,18 @@ date : 21-10-2021
 
 ---
 
-| Unit | M   | WS  | BS  | S   | T   | W   | A   | Ld  | Sv     |
-|:--- |:--- |:--- |:--- |:--- |:--- |:--- |:--- |:------ |
-| Squighog Boy | 10" | 3+ | 5+ | 5 | 6 | 3 | 3 | 6 | 4+ |
+| Unit         | M   | WS  | BS  | S   | T   | W   | A   | Ld  | Sv  |
+|:------------ |:--- |:--- |:--- |:--- |:--- |:--- |:--- |:--- | --- |
+| Squighog Boy | 10" | 3+  | 5+  | 5   | 6   | 3   | 3   | 6   | 4+  |
 
 ---
 
-| Weapon              | Range | Type       | S   | AP  | D   | Abilities |
-|:------------------- |:----- |:---------- |:--- |:--- |:--- |:--------- |
-| Saddlegit Weapons (Melee)| Melee | Melee | 3 | -1 | 1 | One extra attack |
-| Saddlegit Weapons (Shooting) | 8" | Assault 1 | 4 | 0 | 1 | - |
-| Squighog Jaws | Melee | Melee | 6 | -1 | 2 | Two free attacks |
-| Stikka (Melee) | Melee | Melee | +1 | -2 | 2 | - |
-| Stikka (Shooting) | 12" | Assault 1 | User | -2 | 2 | +1 strength at half range |
+| Weapon                       | Range | Type      | S    | AP  | D   | Abilities                 |
+|:---------------------------- |:----- |:--------- |:---- |:--- |:--- |:------------------------- |
+| Saddlegit Weapons (Melee)    | Melee | Melee     | 3    | -1  | 1   | One extra attack          |
+| Saddlegit Weapons (Shooting) | 8"    | Assault 1 | 4    | 0   | 1   | -                         |
+| Squighog Jaws                | Melee | Melee     | 6    | -1  | 2   | Two free attacks          |
+| Stikka (Melee)               | Melee | Melee     | +1   | -2  | 2   | -                         |
+| Stikka (Shooting)            | 12"   | Assault 1 | User | -2  | 2   | +1 strength at half range |
+
+---
