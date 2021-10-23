@@ -4,31 +4,32 @@ notetype : unfeed
 date : 21-10-2021
 ---
 
-## Kultur
+### Kultur
 [[Snakebites]]
 
-## HQ
+### HQ
 * [[Mozrog Skragbad]]
 * [[Deffkilla Wartrike]]
 * [[Weirdboy]]
 * [[Wurrboy]]
 
-## Fast Attack
+### Fast Attack
 * [[Deff Koptas]]
 * [[Grot Mega-Tank]]
 * [[Squighog Boyz]]
+*  [[Nob on Smasha Squig]]
 
-## Heavy Support
+### Heavy Support
 * [[Mek Gunz]]
 * [[Kill Rig]] (Warlord)
 
-## Flyer
+### Flyer
 * [[Dakkajet]]
 
-## Troops
+### Troops
 * [[Beast Snagga Boyz]]
 * [[Gretchin]]
 * [[Gretchin]]
 
-## Lord of War
+### Lord of War
 * [[Morkanaut]]
