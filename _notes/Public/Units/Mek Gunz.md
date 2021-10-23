@@ -4,7 +4,7 @@ notetype : feed
 date : 21-10-2021
 --- 
 
->**Artillery and Crew:** Cannot advance, charge, Heroically Intervene, pile-in or consolidate
+> **Artillery and Crew:** Cannot advance, charge, Heroically Intervene, pile-in or consolidate
 >
 > **Ramshackle**
 
