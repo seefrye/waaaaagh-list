@@ -4,6 +4,9 @@ notetype : unfeed
 date : 21-10-2021
 ---
 
+## Kultur
+[[Snakebites]]
+
 ## HQ
 * [[Mozrog Skragbad]]
 * [[Deffkilla Wartrike]]
