@@ -1,6 +1,6 @@
 ---
 title : Beastboss
-notetype : feed
+notetype : nofeed
 date : 23-10-2021
 ---
 
