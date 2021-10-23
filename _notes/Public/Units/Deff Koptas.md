@@ -1,14 +1,17 @@
 ---
 title : Deff Koptas
 notetype : feed
-date : 21-10-2021
+date : 23-10-2021
 ---
 
 ---
 
 > [[Big Bomb]]: Once per battle, select one point the bearer moved across. d6 for each unit within 3", -1 for CHARACTERs (excluding VEHICLE/MONSTERs): 4+ deal d3 mortal wounds
+> 
 > [[Big Red Button]]: Advance 6"
-> [[Swoopin' Down]]: Deepstrike\
+> 
+> [[Swoopin' Down]]: Deepstrike
+> 
 > [[Swoopin' Down]]
 
 ---
