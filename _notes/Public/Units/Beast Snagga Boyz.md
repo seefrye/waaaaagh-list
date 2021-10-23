@@ -6,7 +6,7 @@ date : 21-10-2021
 
 ---
 
-> **Beast Snagga:** +1 to hit against MONSTER/VEHICLE, 6++
+[[Beast Snagga]] +1 to hit against MONSTER/VEHICLE, 6++
 
 ---
 
@@ -17,11 +17,11 @@ date : 21-10-2021
 
 ---
 
-| Weapon       | Range | Type       | S    | AP  | D   | Abilities        |
-|:------------ |:----- |:---------- |:---- |:--- |:--- |:---------------- |
-| Power Snappa | Melee | Melee      | +2   | -2  | 2   | -                |
-| Choppa       | Melee | Melee      | User | -1  | 1   | One extra attack |
-| Slugga       | 12"   | Pistol 1   | 4    | 0   | 1   | -                |
-| Thump Gun    | 18"   | Assault d3 | 6    | -1  | d3  | Blast            |
+| Weapon           | Range | Type       | S    | AP  | D   | Abilities        |
+|:---------------- |:----- |:---------- |:---- |:--- |:--- |:---------------- |
+| [[Power Snappa]] | Melee | Melee      | +2   | -2  | 2   | -                |
+| [[Choppa]]       | Melee | Melee      | User | -1  | 1   | One extra attack |
+| [[Slugga]]       | 12"   | Pistol 1   | 4    | 0   | 1   | -                |
+| [[Thump Gun]]    | 18"   | Assault d3 | 6    | -1  | d3  | Blast            |
 
 ---
