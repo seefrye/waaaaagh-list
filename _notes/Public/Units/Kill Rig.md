@@ -25,9 +25,9 @@ date : 21-10-2021
 
 > | Power   | Warp Charge | Range | Effect                                       |
 > |:------- |:-----------:|:----- |:-------------------------------------------- |
-> | Bitin' Jawz | 6 | 18" | Draw a line to target; target and every unit under line take one mortal wound|
-> | Smite   | 5           | 18"   | d3 mortal wounds to closest unit, d6 on 10+  |
-> | Spirit of Gork | 6 | 12" | Target SQUIG unit: +1 jaw attack, 6s to wound with jaws deal +1 mortal wound |
+> | [[Bitin' Jawz]] | 6 | 18" | Draw a line to target; target and every unit under line take one mortal wound|
+> | [[Smite]]   | 5           | 18"   | d3 mortal wounds to closest unit, d6 on 10+  |
+> | [[Spirit of Gork]] | 6 | 12" | Target SQUIG unit: +1 jaw attack, 6s to wound with jaws deal +1 mortal wound |
 
 ---
 

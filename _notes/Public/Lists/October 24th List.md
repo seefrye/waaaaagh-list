@@ -11,7 +11,11 @@ date : 21-10-2021
 * [[Mozrog Skragbad]]
 * [[Deffkilla Wartrike]]
 * [[Weirdboy]]
+  - [[Da Jump]]
+  - [[Warpath]]
 * [[Wurrboy]]
+  - [[Roar of Mork]]
+  - [[Frazzle]]
 
 ### Fast Attack
 * [[Deff Koptas]]
@@ -32,4 +36,4 @@ date : 21-10-2021
 * [[Gretchin]]
 
 ### Lord of War
-* [[Morkanaut]]
+* [[Morkanaut]] (No Klan Kultur)
