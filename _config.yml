@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/notes" # the subpath of your site, e.g. /blog
 url: "https://seefrye.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 #######################################################################
