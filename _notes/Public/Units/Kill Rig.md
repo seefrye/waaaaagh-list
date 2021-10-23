@@ -19,15 +19,15 @@ date : 21-10-2021
 > **Scorched Gitbonez** 
 >> - Each time the bearer attempts to manifest a Witchfire psychic power, add 1 to the Psychic test.
 >> - Each time the bearer would lose a wound as a result of suffering Perils of the Warp, roll one D6: on a 4+, that wound is not lost.
->>  -Cast 2 Deny 1
+>> - Cast 2 Deny 1
 
 ---
 
 > | Power                  | Warp Charge | Range | Effect |
 > |:-------                 |:-----------:|:----- |:--- |
-> | [[Bitin' Jawz]]     | 6 | 18" | Draw a line to target; target and every unit under line take one mortal wound|
-> | [[Smite]]             | 5           | 18"   | d3 mortal wounds to closest unit, d6 on 10+  |
-> | [[Spirit of Gork]] | 6 | 12" | Target SQUIG unit: +1 jaw attack, 6s to wound with jaws deal +1 mortal wound |
+> | [[Bitin' Jawz]]|6|18"|Draw a line to target; target and every unit under line take one mortal wound|
+> | [[Smite]]|5|18"|d3 mortal wounds to closest unit, d6 on 10+  |
+> | [[Spirit of Gork]]|6|12"|Target SQUIG unit: +1 jaw attack, 6s to wound with jaws deal +1 mortal wound |
 
 ---
 
