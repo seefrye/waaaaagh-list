@@ -1,7 +1,7 @@
 ---
 title : Deffkilla Wartrike
 notetype : feed
-date : 21-10-2021
+date : 23-10-2021
 ---
 
 ---
