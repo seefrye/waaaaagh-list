@@ -18,8 +18,8 @@ date : 21-10-2021
 
 ---
 
-| Weapon            | Range | Type     | S   | AP  | D   | Abilities        |
-|:----------------- |:----- |:-------- |:--- |:--- |:--- | ---------------- |
+| Weapon                | Range | Type     | S   | AP  | D   | Abilities        |
+|:--------------------- |:----- |:-------- |:--- |:--- |:--- | ---------------- |
 | [[Big Choppa]]        | Melee | Melee    | +2  | -1  | 2   | -                |
 | [[Slugga]]            | 12"   | Pistol 1 | 4   | 0   | 1   | -                |
 | [[Smasha Squig Jaws]] | Melee | Melee    | 6   | -1  | 2   | Two free attacks |
