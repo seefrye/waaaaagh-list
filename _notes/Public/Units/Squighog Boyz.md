@@ -6,9 +6,9 @@ date : 21-10-2021
 
 ---
 
-> **Beast Snagga:** +1 to hit VEHICLE/MONSTERs
+> [[Beast Snagga]] +1 to hit VEHICLE/MONSTERs
 > 
-> **Bomb Squig:** 12" d6 (+1 VEHICLE); 3+ deal d3 mortal wounds
+> [[Bomb Squig]] 12" d6 (+1 VEHICLE); 3+ deal d3 mortal wounds
 
 ---
 
@@ -18,12 +18,12 @@ date : 21-10-2021
 
 ---
 
-| Weapon                       | Range | Type      | S    | AP  | D   | Abilities                 |
-|:---------------------------- |:----- |:--------- |:---- |:--- |:--- |:------------------------- |
-| Saddlegit Weapons (Melee)    | Melee | Melee     | 3    | -1  | 1   | One extra attack          |
-| Saddlegit Weapons (Shooting) | 8"    | Assault 1 | 4    | 0   | 1   | -                         |
-| Squighog Jaws                | Melee | Melee     | 6    | -1  | 2   | Two free attacks          |
-| Stikka (Melee)               | Melee | Melee     | +1   | -2  | 2   | -                         |
-| Stikka (Shooting)            | 12"   | Assault 1 | User | -2  | 2   | +1 strength at half range |
+| Weapon                           | Range | Type      | S    | AP  | D   | Abilities                 |
+|:-------------------------------- |:----- |:--------- |:---- |:--- |:--- |:------------------------- |
+| [[Saddlegit Weapons (Melee)]]    | Melee | Melee     | 3    | -1  | 1   | One extra attack          |
+| [[Saddlegit Weapons (Shooting)]] | 8"    | Assault 1 | 4    | 0   | 1   | -                         |
+| [[Squighog Jaws]]                | Melee | Melee     | 6    | -1  | 2   | Two free attacks          |
+| [[Stikka (Melee)]]               | Melee | Melee     | +1   | -2  | 2   | -                         |
+| [[Stikka (Shooting)]]            | 12"   | Assault 1 | User | -2  | 2   | +1 strength at half range |
 
 ---
