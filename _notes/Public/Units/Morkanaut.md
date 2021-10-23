@@ -2,6 +2,7 @@
 title : Morkanaut
 notetype : feed
 date : 21-10-2021
+role: Lord of War
 ---
 
 ---

@@ -2,6 +2,7 @@
 title : Gretchin
 notetype : feed
 date : 23-10-2021
+role: Troops
 ---
 
 ---

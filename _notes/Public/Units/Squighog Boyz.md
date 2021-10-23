@@ -2,6 +2,7 @@
 title : Squighog Boyz
 notetype : feed
 date : 23-10-2021
+role: Fast Attack
 ---
 
 ---
