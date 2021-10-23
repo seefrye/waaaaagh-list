@@ -7,6 +7,7 @@ date : 21-10-2021
 > **Explodes:** 6" D3 moral wounds.
 > 
 > **Ramshackle:**
+>
 > **Squig-hide Tyres:**
 > 
 > - Move +1" (already factored in)
