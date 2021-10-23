@@ -6,19 +6,13 @@ date : 21-10-2021
 
 ---
 
-> [[Beast Snagga]] +1 to hit against MONSTER/VEHICLE
->
-> [[BeastGob]] SQUIG within 6" makes a melee attack with squighog jaws, smasha squig jaws or a squigosaur's jaws, +1 damage
->
-> [[Explodes]] 3" deal d3 mortal wound
->
-> [[Open Topped]] Transport 10 Beast Snaggas
-> 
-> [[Snagged]] VEHICLE/MONSTERs that lose any wounds from Stikka Cannon, roll d6: 4+, that model cannot finish any type of move more than 12" away
->
-> [[Ramshackle]]
->
-> [[Scorched Gitbonez]]
+> - [[Beast Snagga]] +1 to hit against MONSTER/VEHICLE
+> - [[BeastGob]] SQUIG within 6" makes a melee attack with squighog jaws, smasha squig jaws or a squigosaur's jaws, +1 damage
+> - [[Explodes]] 3" deal d3 mortal wound
+> - [[Open Topped]] Transport 10 Beast Snaggas
+> - [[Snagged]] VEHICLE/MONSTERs that lose any wounds from Stikka Cannon, roll d6: 4+, that model cannot finish any type of move more than 12" away
+> - [[Ramshackle]]
+> - [[Scorched Gitbonez]]
 >> - Each time the bearer attempts to manifest a Witchfire psychic power, add 1 to the Psychic test.
 >> - Each time the bearer would lose a wound as a result of suffering Perils of the Warp, roll one D6: on a 4+, that wound is not lost.
 >> - Cast 2 Deny 1
@@ -29,7 +23,7 @@ date : 21-10-2021
 > | ------------------ | ----------- | ----- | ----------------------------------------------------------------------------- |
 > | [[Bitin' Jawz]]    | 6           | 18"   | Draw a line to target; target and every unit under line take one mortal wound |
 > | [[Spirit Of Gork]] | 6           | 12"   | Target SQUIG unit: +1 jaw attack, 6s to wound with jaws deal +1 mortal wound  |
-> | [[Smite]]          | 5           | 18"   | d3 mortal wounds to closest enemy, d6 on 10+                                  | 
+> | [[Smite]]          | 5           | 18"   | d3 mortal wounds to closest enemy, d6 on 10+                                  |
 
 ---
 
