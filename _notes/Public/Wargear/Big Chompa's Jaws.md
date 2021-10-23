@@ -1,5 +1,5 @@
 ---
-name: "Big Chompa\'s Jaws"
+name: Big Chompa's Jaws
 notetype: nofeed
 date: 23-10-2021
 ---
