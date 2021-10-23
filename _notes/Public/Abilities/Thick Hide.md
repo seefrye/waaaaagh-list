@@ -1,0 +1,7 @@
+---
+title : Thick Hide
+notetype : feed
+date : 23-10-2021
+---
+
+Each time an attack is allocated this model, subtract 1 from the Damage characteristic of that attack (to a minimum of 1).

@@ -12,9 +12,9 @@ date : 21-10-2021
 >
 > **Open-Topped:** Transport 10 Beast Snaggas
 > 
->**Ramshackle**
->
 > **Snagged:** VEHICLE/MONSTERs that lose any wounds from Stikka Cannon, roll d6: 4+, that model cannot finish any type of move more than 12" away
+>
+> **Ramshackle**
 >
 > **Scorched Gitbonez** 
 >> - Each time the bearer attempts to manifest a Witchfire psychic power, add 1 to the Psychic test.
