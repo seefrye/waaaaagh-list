@@ -30,6 +30,7 @@ tags: cool_guy
 ---
 
 # Wargear
+
 | Weapon                | Range | Type       | S   | AP  | D   | Abilities                     |
 |:--------------------- |:----- |:---------- |:--- |:--- |:--- |:----------------------------- |
 | [[Killa Jet (Burna)]] | 12"   | Assault D6 | 5   | -1  | 1   | Flamer                        |
