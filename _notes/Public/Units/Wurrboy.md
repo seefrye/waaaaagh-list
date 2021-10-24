@@ -9,8 +9,8 @@ role: HQ
 
  # Abilities
  
-[[Beast Snagga]] +1 to hit against MONSTER/VEHICLE
- [[Waaagh! Energy]] Cast 1 Deny 1. While 20+ Orks (not GRETCHIN) within 12", +1 cast
+- [[Beast Snagga]] +1 to hit against MONSTER/VEHICLE
+- [[Waaagh! Energy]] Cast 1 Deny 1. While 20+ Orks (not GRETCHIN) within 12", +1 cast
  
  ###### Spells
  

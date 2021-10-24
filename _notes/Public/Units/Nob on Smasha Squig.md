@@ -9,9 +9,9 @@ role: Fast Attack, No Force Org Slot
 
 # Abilities
 
-[[Beast Snagga]] +1 to hit against MONSTER/VEHICLE
-[[Smasha Head]] After charging, select one enemy unit in Engagement Range, roll 5d6; each 4+ deal 1 mortal wound.
-[[Squigboss]]
+- [[Beast Snagga]] +1 to hit against MONSTER/VEHICLE
+- [[Smasha Head]] After charging, select one enemy unit in Engagement Range, roll 5d6; each 4+ deal 1 mortal wound.
+- [[Squigboss]]
 
 ---
 

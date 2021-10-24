@@ -9,8 +9,8 @@ role: Troops
 
 # Abilities
 
-[[Cowardly]] -1 to Combat Attrition tests
-[[Diminutive]] +1 to any armour saving throw while receiving the benefits of cover
+- [[Cowardly]] -1 to Combat Attrition tests
+- [[Diminutive]] +1 to any armour saving throw while receiving the benefits of cover
 
 ---
 

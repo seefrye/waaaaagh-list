@@ -9,7 +9,7 @@ role: HQ
 
 # Abilities
 
-[[Waaagh! Energy]] Cast 2 Deny 1. While 20+ Orks (not GRETCHIN) within 12", +1 cast
+- [[Waaagh! Energy]] Cast 2 Deny 1. While 20+ Orks (not GRETCHIN) within 12", +1 cast
 
 ###### Spells
 

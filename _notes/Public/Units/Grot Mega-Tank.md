@@ -9,9 +9,9 @@ role: Fast Attack
 
 # Abilities
 
-[[Explodes]] 6" D3 moral wounds.
-[[Squig-hide Tyres]] +1" move, extra +2" advance
-[[Ramshackle]]
+- [[Explodes]] 6" D3 moral wounds.
+- [[Squig-hide Tyres]] +1" move, extra +2" advance
+- [[Ramshackle]]
 
 ---
 

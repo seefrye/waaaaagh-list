@@ -9,8 +9,8 @@ role: Heavy Support
 
 # Abilities
 
-[[Artillery and Crew]]: Cannot advance, charge, Heroically Intervene, pile-in or consolidate
-[[Ramshackle]]
+- [[Artillery and Crew]]: Cannot advance, charge, Heroically Intervene, pile-in or consolidate
+- [[Ramshackle]]
 
 ---
 

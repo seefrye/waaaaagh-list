@@ -11,13 +11,13 @@ tags: cool_guy
 
 # Abilities
 
-> - [[Big Red Button]] Advance 6"
-> - [[Fuel Mixa Grot]] Advance 9" once per battle
-> - [[Roadkilla]] After charging, select one enemy unit within 1" and roll one D6: 2+ D3 mortal wounds
-> - [[Shokka Hull]] When targeted by a melee attack, 4+ d3 mortal wounds
-> - [[Explodes]] 3" 1 mortal wound
-> - [[Ramshackle]] 
-> - [[Waaagh!]]![[Waaagh!#^d36263]]
+- [[Big Red Button]] Advance 6"
+- [[Fuel Mixa Grot]] Advance 9" once per battle
+- [[Roadkilla]] After charging, select one enemy unit within 1" and roll one D6: 2+ D3 mortal wounds
+- [[Shokka Hull]] When targeted by a melee attack, 4+ d3 mortal wounds
+- [[Explodes]] 3" 1 mortal wound
+- [[Ramshackle]] 
+- [[Waaagh!]]![[Waaagh!#^d36263]]
 
 ---
 

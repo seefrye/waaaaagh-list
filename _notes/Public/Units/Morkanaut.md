@@ -9,11 +9,11 @@ role: Lord of War
 
 # Abilities
 
-[[Big and Stompy]]: Can fall back & charge. Can move over other models.
-[[Krumpin Time]]: +1 to hit melee
-[[Explodes]]: 2d6", D6 mortal wounds.
-[[Kustom Force Field]] (Aura) 6" 6++ (9" 5++ with [[Force Field Boosta]])
-Transport 6 FLASH GITZ or INFANTRY (Each MEGA ARMOUR or JUMP PACK takes up 2)
+- [[Big and Stompy]]: Can fall back & charge. Can move over other models.
+- [[Krumpin Time]]: +1 to hit melee
+- [[Explodes]]: 2d6", D6 mortal wounds.
+- [[Kustom Force Field]] (Aura) 6" 6++ (9" 5++ with [[Force Field Boosta]])
+- #Transport 6 FLASH GITZ or INFANTRY (Each MEGA ARMOUR or JUMP PACK takes up 2)
 
 ---
 

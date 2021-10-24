@@ -9,13 +9,13 @@ role: Heavy Support
 
 # Abilities
 
-[[Beast Snagga]] +1 to hit against MONSTER/VEHICLE
-[[BeastGob]] SQUIG within 6" makes a melee attack with squighog jaws, smasha squig jaws or a squigosaur's jaws, +1 damage
-[[Explodes]] 3" deal d3 mortal wound
-[[Open Topped]] Transport 10 Beast Snaggas
-[[Snagged]] VEHICLE/MONSTERs that lose any wounds from Stikka Cannon, roll d6: 4+, that model cannot finish any type of move more than 12" away
-[[Ramshackle]]
-[[Scorched Gitbonez]]
+- [[Beast Snagga]] +1 to hit against MONSTER/VEHICLE
+- [[BeastGob]] SQUIG within 6" makes a melee attack with squighog jaws, smasha squig jaws or a squigosaur's jaws, +1 damage
+- [[Explodes]] 3" deal d3 mortal wound
+- [[Open Topped]] Transport 10 Beast Snaggas
+- [[Snagged]] VEHICLE/MONSTERs that lose any wounds from Stikka Cannon, roll d6: 4+, that model cannot finish any type of move more than 12" away
+- [[Ramshackle]]
+- [[Scorched Gitbonez]]
 > - Each time the bearer attempts to manifest a Witchfire psychic power, add 1 to the Psychic test.
 > - Each time the bearer would lose a wound as a result of suffering Perils of the Warp, roll one D6: on a 4+, that wound is not lost.
 > - Cast 2 Deny 1
