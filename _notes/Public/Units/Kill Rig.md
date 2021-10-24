@@ -8,6 +8,7 @@ role: Heavy Support
 ---
 
 # Abilities
+
 [[Beast Snagga]] +1 to hit against MONSTER/VEHICLE
 [[BeastGob]] SQUIG within 6" makes a melee attack with squighog jaws, smasha squig jaws or a squigosaur's jaws, +1 damage
 [[Explodes]] 3" deal d3 mortal wound
@@ -22,6 +23,7 @@ role: Heavy Support
 ---
 
 # Spells
+
  | Power              | Warp Charge | Range | Effect                                                                        |
  | ------------------ | ----------- | ----- | ----------------------------------------------------------------------------- |
  | [[Bitin' Jawz]]    | 6           | 18"   | Draw a line to target; target and every unit under line take one mortal wound |
@@ -31,6 +33,7 @@ role: Heavy Support
 ---
 
 # Stats
+
 | Unit    | M   | WS  | BS  | S   | T   | W   | A   | Ld  | Sv  |
 |:------- |:--- |:--- |:--- |:--- |:--- |:--- |:--- |:--- |:--- |
 | Kill Rig 9+ | 12" | 3+ | 5+ | 6 | 8 | 16 | 6 | 7 | 3+ |

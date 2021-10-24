@@ -8,6 +8,7 @@ role: Lord of War
 ---
 
 # Abilities
+
 [[Big and Stompy]]: Can fall back & charge. Can move over other models.
 [[Krumpin Time]]: +1 to hit melee
 [[Explodes]]: 2d6", D6 mortal wounds.
@@ -17,6 +18,7 @@ Transport 6 FLASH GITZ or INFANTRY (Each MEGA ARMOUR or JUMP PACK takes up 2)
 ---
 
 # Stats
+
 | Unit             | M   | WS  | BS  | S   | T   | W   | A   | Ld  | Sv  |
 |:---------------- |:--- |:--- |:--- |:--- |:--- |:--- |:--- |:--- |:--- |
 | Morkanaut 13-24+ | 8"  | 3+  | 5+  | 8   | 8   | 24  | 4   | 7   | 3+  |
@@ -26,6 +28,7 @@ Transport 6 FLASH GITZ or INFANTRY (Each MEGA ARMOUR or JUMP PACK takes up 2)
 ---
 
 # Wargear
+
 | Weapon               | Range | Type       | S    | AP  | D   | Abilities                                                               |
 |:-------------------- |:----- |:---------- |:---- |:--- |:--- |:----------------------------------------------------------------------- |
 | Klaw of Gork (Crush) | Melee | Melee      | x2   | -4  | 6   | -                                                                       |

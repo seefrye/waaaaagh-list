@@ -8,11 +8,13 @@ role: Troops
 ---
 
 # Abilities
+
 [[Beast Snagga]] +1 to hit against MONSTER/VEHICLE, 6++
 
 ---
 
 # Stats
+
 | Unit | M   | WS  | BS  | S   | T   | W   | A   | Ld  | Sv  |
 |:---- |:--- |:--- |:--- |:--- |:--- |:--- |:--- |:--- |:--- |
 | Boy  | 5"  | 3+  | 5+  | 5   | 5   | 1   | 2   | 6   | 6+  |
@@ -21,6 +23,7 @@ role: Troops
 ---
 
 # Wargear
+
 | Weapon           | Range | Type       | S    | AP  | D   | Abilities        |
 |:---------------- |:----- |:---------- |:---- |:--- |:--- |:---------------- |
 | [[Power Snappa]] | Melee | Melee      | +2   | -2  | 2   | -                |
