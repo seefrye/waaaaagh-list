@@ -6,7 +6,7 @@ cssclass: clean-embeds
 ---
 
 ---
-See this in a different format [[October 24th List | HERE]]
+See this in a different format [[October 24th List|HERE]]
 ## Klan Kultur
 ### [[Snakebites]]
 ![[Snakebites#Da Old Ways]]
