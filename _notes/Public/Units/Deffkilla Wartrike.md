@@ -17,7 +17,7 @@ tags: cool_guy
 - [[Shokka Hull]] When targeted by a melee attack, 4+ d3 mortal wounds
 - [[Explodes]] 3" 1 mortal wound
 - [[Ramshackle]] 
-- [[Waaagh!]]![[Waaagh!#^d36263]]
+- [[Waaagh!]]
 
 ---
 
