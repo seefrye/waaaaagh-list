@@ -2,6 +2,7 @@
 title: Shokka Hull
 notetype : nofeed
 date: 23-10-2021
+tags: [Vehicle, Kustom-Job ]
 ---
 
 ---
