@@ -1,6 +1,6 @@
 ---
 title : Full List
-notetype : feed
+notetype : nofeed
 date : 21-10-2021
 cssclass: clean-embeds
 ---
