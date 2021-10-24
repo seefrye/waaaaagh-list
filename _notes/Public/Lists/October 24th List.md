@@ -6,7 +6,7 @@ cssclass: clean-embeds
 ---
 
 ---
-See a different format [[Full List 10-24-21 | HERE]]
+See a different format [[Full List 10-24-21|HERE]]
 
 ### Kultur
 * [[Snakebites]]
