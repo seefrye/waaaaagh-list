@@ -43,6 +43,7 @@ role: Heavy Support
 ---
 
 # Wargear
+
 | Weapon                      | Range | Type          | S   | AP  | D   | Abilities                                        |
 |:--------------------------- |:----- |:------------- |:--- |:--- |:--- |:------------------------------------------------ |
 | [[Heavy Lobba]]             | 48"   | Heavy d6      | 6   | -1  | 2   | Blast. Doesn't need LoS.                         |
