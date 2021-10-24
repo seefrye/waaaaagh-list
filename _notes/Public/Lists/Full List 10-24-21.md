@@ -9,12 +9,19 @@ cssclass: clean-embeds
 See this in a different format [[October 24th List|HERE]]
 ## Klan Kultur
 ### [[Snakebites]]
+
 ![[Snakebites#Da Old Ways]]
+
 ## HQ
+
 ### [[Mozrog Skragbad]]
+
 ![[Mozrog Skragbad#Abilities]]
+
 ![[Mozrog Skragbad#Stats]]
+
 ![[Mozrog Skragbad#Wargear]]
+
 ### [[Deffkilla Wartrike]]
 ![[Deffkilla Wartrike#Abilities]]
 ![[Deffkilla Wartrike#Stats]]
