@@ -23,7 +23,7 @@ date : 21-10-2021
 * [[Deff Koptas]]
 * [[Grot Mega-Tank]]
 * [[Squighog Boyz]]
-*  [[Nob on Smasha Squig]]
+* [[Nob on Smasha Squig]]
 
 ---
 

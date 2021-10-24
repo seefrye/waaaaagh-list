@@ -2,7 +2,9 @@
 title: More Dakka
 notetype : nofeed
 date: 23-10-2021
-tags: [Vehicle, Kustom-Job ]
+tags:
+  kustom_job
+  vehicle
 ---
 
 ---
