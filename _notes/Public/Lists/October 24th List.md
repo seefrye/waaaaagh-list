@@ -2,9 +2,11 @@
 title : October 24th List
 notetype : feed
 date : 21-10-2021
+cssclass: clean-embeds
 ---
 
 ---
+See a different format [[Full List 10-24-21 | HERE]]
 
 ### Kultur
 * [[Snakebites]]

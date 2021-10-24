@@ -7,16 +7,20 @@ role: Heavy Support
 
 ---
 
-> - [[Artillery and Crew]]: Cannot advance, charge, Heroically Intervene, pile-in or consolidate
-> - [[Ramshackle]]
+# Abilities
+[[Artillery and Crew]]: Cannot advance, charge, Heroically Intervene, pile-in or consolidate
+[[Ramshackle]]
 
 ---
 
+# Stats
 | Unit    | M   | WS  | BS  | S   | T   | W   | A   | Ld  | Sv  |
 |:------- |:--- |:--- |:--- |:--- |:--- |:--- |:--- |:--- |:--- |
 | Mek Gun | 3"  | 5+  | 4+  | 2   | 5   | 6   | 6   | 4   | 5+  |
 
 ---
+
+# Wargear
 [[Bubblechukka]]
 
 | Profile - d3      | Range | Type      | S   | AP  | D    | Abilities |

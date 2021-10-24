@@ -9,6 +9,7 @@ tags: cool_guy
 
 ---
 
+# Abilities
 > - [[Big Red Button]] Advance 6"
 > - [[Fuel Mixa Grot]] Advance 9" once per battle
 > - [[Roadkilla]] After charging, select one enemy unit within 1" and roll one D6: 2+ D3 mortal wounds
@@ -19,12 +20,15 @@ tags: cool_guy
 
 ---
 
+# Stats
+
 | M   | WS  | BS  | S   | T   | W   | A   | Ld  | Sv     |
 |:--- |:--- |:--- |:--- |:--- |:--- |:--- |:--- |:------ |
 | 14" | 2+  | 5+  | 5   | 6   | 8   | 5   | 7   | 4+/5++ |
 
 ---
 
+# Wargear
 | Weapon                | Range | Type       | S   | AP  | D   | Abilities                     |
 |:--------------------- |:----- |:---------- |:--- |:--- |:--- |:----------------------------- |
 | [[Killa Jet (Burna)]] | 12"   | Assault D6 | 5   | -1  | 1   | Flamer                        |

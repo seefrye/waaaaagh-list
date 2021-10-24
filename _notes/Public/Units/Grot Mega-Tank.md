@@ -6,15 +6,14 @@ role: Fast Attack
 ---
 
 ---
-
-> [[Explodes]] 6" D3 moral wounds.
->
-> [[Squig-hide Tyres]] +1" move, extra +2" advance
-> 
-> [[Ramshackle]]
+# Abilities
+[[Explodes]] 6" D3 moral wounds.
+[[Squig-hide Tyres]] +1" move, extra +2" advance
+[[Ramshackle]]
 
 ---
 
+# Stats
 | Unit               | M     | WS  | BS  | S   | T   | W   | A   | Ld  | Sv  |
 |:------------------ |:----- |:--- |:--- |:--- |:--- |:--- |:--- |:--- |:--- |
 | Grot Mega-tank 6+  | 7+d6" | 5+  | 4+  | 6   | 6   | 11  | 4   | 7   | 3+  |
@@ -23,6 +22,7 @@ role: Fast Attack
 
 ---
 
+# Wargear
 | Weapon                  | Range | Type       | S   | AP  | D   | Abilities |
 |:----------------------- |:----- |:---------- |:--- |:--- |:--- |:--------- |
 | [[Big Shoota]]          | 36"   | Dakka 5/3  | 5   | 0   | 1   | -         |

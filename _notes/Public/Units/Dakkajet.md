@@ -7,13 +7,15 @@ role: Flyer
 
 ---
 
-> - [[Explodes]] 6" d3 moral wounds
-> - [[More Dakka]] Roll d6, 4+ make one extra shot per Dakka weapon, on 6 make two extra
-> - [[Ramshackle]]
-> - [[Supersonic]], [[Airborne]], [[Hard to Hit]]
+# Abilities
+[[Explodes]] 6" d3 moral wounds
+[[More Dakka]] Roll d6, 4+ make one extra shot per Dakka weapon, on 6 make two extra
+[[Ramshackle]]
+[[Supersonic]], [[Airborne]], & [[Hard to Hit]]
 
 ---
 
+# Stats
 | Unit         | M      | WS  | BS  | S   | T   | W   | A   | Ld  | Sv  |
 |:------------ |:------ |:--- |:--- |:--- |:--- |:--- |:--- |:--- |:--- |
 | Dakkajet 7+  | 20-60" | 5+  | 5+  | 6   | 6   | 12  | 3   | 6   | 4+  |
@@ -22,6 +24,7 @@ role: Flyer
 
 ---
 
+# Wargear
 | Weapon               | Range | Type      | S   | AP  | D   | Abilities |
 |:-------------------- |:----- |:--------- |:--- |:--- |:--- |:--------- |
 | [[Supa Shoota]] (x6) | 36"   | Dakka 6/4 | 6   | -1  | 1   | -         |
