@@ -14,7 +14,8 @@ date : 23-10-2021
 
 # Waaagh!
 
->Raising his weapons into the air before gesturing towards the enemy, the Warboss bellows his war cry. Every nearby Ork joins in before surging towards the enemy, blades ready in an overwhelming tide.  
+>Raising his weapons into the air before gesturing towards the enemy, the Warboss bellows his war cry. Every nearby Ork joins in before surging towards the enemy, blades ready in an overwhelming tide.
+
 ```
 Stage 1: Call Da Waaagh!  
 
@@ -29,7 +30,8 @@ Stage 2: Get Stuck In!
 # Speedwaaagh!
 
 
-> As the wind and the bullets of the foe whistle past his vehicle, the Speedboss throws back his head and roars his war cry, the call echoing from the ramshackle vehicles following in his wake as they surge forward ever faster.  
+> As the wind and the bullets of the foe whistle past his vehicle, the Speedboss throws back his head and roars his war cry, the call echoing from the ramshackle vehicles following in his wake as they surge forward ever faster.
+
 ```
 Stage 1: Da Big Race  
 
