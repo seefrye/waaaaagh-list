@@ -2,7 +2,9 @@
 title : Nob on Smasha Squig
 notetype : feed
 date : 21-10-2021
-role: Fast Attack, No Force Org Slot
+role: Fast+Attack, No+Force+Org+Slot
+tags:
+  squig
 ---
 
 ---
