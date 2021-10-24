@@ -28,7 +28,6 @@ Stage 2: Get Stuck In!
 
 # Speedwaaagh!
 
-^331439
 
 > As the wind and the bullets of the foe whistle past his vehicle, the Speedboss throws back his head and roars his war cry, the call echoing from the ramshackle vehicles following in his wake as they surge forward ever faster.  
 ```
@@ -41,7 +40,5 @@ Stage 2: Give ’Em Sum Dakka!
 
 -   Each time a model in an ORKS VEHICLE or ORKS BIKER unit from your army makes a ranged attack, improve the Armour Penetration characteristic of that attack by 1.
 ```
-
-^d36263
 
 ---
