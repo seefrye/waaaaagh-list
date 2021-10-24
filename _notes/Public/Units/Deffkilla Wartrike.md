@@ -3,6 +3,7 @@ title : Deffkilla Wartrike
 notetype : feed
 date : 23-10-2021
 role: HQ
+cssclass: clean-embeds
 ---
 
 ---
