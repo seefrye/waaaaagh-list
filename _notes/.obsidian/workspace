@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Public/Lists/Full List 10-24-21.md",
+            "file": "Public/Missions and Secondaries/Stomp em Good.md",
             "mode": "source"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Public/Lists/Full List 10-24-21.md"
+                "file": "Public/Missions and Secondaries/Stomp em Good.md"
               }
             }
           },
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Public/Lists/Full List 10-24-21.md",
+                "file": "Public/Missions and Secondaries/Stomp em Good.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,15 +117,15 @@
   },
   "active": "ecd6ee5679802afd",
   "lastOpenFiles": [
+    "Public/Missions and Secondaries/Stomp em Good.md",
+    "Public/Missions and Secondaries/Green Tide.md",
     "Public/Lists/Full List 10-24-21.md",
     "Public/Units/Mozrog Skragbad.md",
+    "How to use the special features.md",
     "Obsidian integration.md",
     "Public/Kustom Jobs/Vehicle Kustom Jobs/Nitro Squigs.md",
     "Public/Units/Kill Rig.md",
     "Public/Relics/Scorched Gitbonez.md",
-    "Public/Units/Weirdboy.md",
-    "How-to-setup-this-site.md",
-    "Public/Missions and Secondaries/Green Tide.md",
-    "Public/Missions and Secondaries/Stomp em Good.md"
+    "Public/Units/Weirdboy.md"
   ]
 }
