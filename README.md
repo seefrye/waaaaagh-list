@@ -2,6 +2,7 @@
 
 This is a simple Jekyll theme created for building a digital garden with Obsidian and Github Pages. You have to fork this theme to your Github account, configure Github pages, and start using the `_notes` folder as the Obsidian vault. Check out [the demo](https://jekyll-garden.github.io/). 
 
+<<<<<<< Updated upstream
 <img align="center" src="./assets/img/screenshot-mixed.png">
 
 ## Installation (Github pages)
@@ -41,3 +42,10 @@ Your theme is set up just like a normal Jekyll site! To test your theme, run `bu
 ## License
 
 The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+=======
+What I'm trying to do is make easily-readable, interlinked lists for Warhammer 40,000. Using an Obsidian repo nested within a Github repo, hosted with Github Pages, using Jekyll and theme elements from https://github.com/Jekyll-Garden/jekyll-garden.github.io and here https://github.com/Maxence-L/notenote.link
+
+
+
+---
+>>>>>>> Stashed changes
