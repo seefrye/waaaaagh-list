@@ -65,7 +65,7 @@ preferences:
   related:
     enabled: true # This enables the posts that are related to each other by tags
   wrapping:
-    enabled: true
+    enabled: falst
   contextmenu:
     enabled: false #Not supported in NotesGadern theme
     copylink: 
