@@ -16,7 +16,7 @@ See this in a different format [[October 24th List|HERE]]
 
 ### [[Mozrog Skragbad]]
 
-[[Mozrog Skragbad#Abilities]]
+![[mozrog-skragbad#abilities]]
 
 ![[Mozrog Skragbad#Stats]]
 
