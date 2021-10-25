@@ -48,7 +48,7 @@ preferences:
   wiki_style_link: # This property handles wiki style links '[['
     enabled: true
   sidenotes: 
-    enabled: true
+    enabled: false
   transclusion:
     enabled: true
   image:
