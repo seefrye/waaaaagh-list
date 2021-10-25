@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "e965b8701f907c49",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecd6ee5679802afd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Public/Lists/Full List 10-24-21.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "1c76258296584da5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Public/Units/Mozrog Skragbad.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "65c284d470612d25",
+    "type": "split",
+    "children": [
+      {
+        "id": "f64d02c01c621553",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a55634c331c34e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c108a1dd53e4c80e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Transport",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0ece7d77b2aeab05",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ddc2ef284f1de74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b92d7d12aa74c2e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Public/Units/Mozrog Skragbad.md"
+              }
+            }
+          },
+          {
+            "id": "6ba1bfb0aefd489f",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "b0339874bab00e73",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Public/Units/Mozrog Skragbad.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "cbddb807d858b408",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "1c76258296584da5",
+  "lastOpenFiles": [
+    "Public/Units/Mozrog Skragbad.md",
+    "Public/Lists/Full List 10-24-21.md",
+    "Public/Missions and Secondaries/Green Tide.md",
+    "Public/Missions and Secondaries/Stomp em Good.md",
+    "Public/Missions and Secondaries/Get da Good Bitz.md",
+    "Public/Missions and Secondaries/Da Biggest and Da Best.md",
+    "Public/Warlord Traits/Ork/Big  Gob.md",
+    "Public/Warlord Traits/Ork/Ard as Nails.md",
+    "Public/Warlord Traits/Beast Snagga/Half-Chewed.md",
+    "Public/Warlord Traits/Beast Snagga/Bigkilla Boss.md"
+  ]
+}

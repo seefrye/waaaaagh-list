@@ -1,6 +1,7 @@
 _site
+.sass-cache
 .jekyll-cache
-pages/.DS_Store
-pages/tags.md
-_notes/.obsidian
-_notes/Private
+.jekyll-metadata
+vendor
+.idea
+.DS_Store

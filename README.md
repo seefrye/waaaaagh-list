@@ -1,43 +1,101 @@
-# Jekyll Garden v 0.3 (Stable)
+# Notenote.link
 
-This is a simple Jekyll theme created for building a digital garden with Obsidian and Github Pages. You have to fork this theme to your Github account, configure Github pages, and start using the `_notes` folder as the Obsidian vault. Check out [the demo](https://jekyll-garden.github.io/). 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7b37d412-1240-44dd-8539-a7001465b57a/deploy-status)](https://app.netlify.com/sites/notenotelink/deploys)
 
-<img align="center" src="./assets/img/screenshot-mixed.png">
+## Update !
 
-## Installation (Github pages)
-_Detailed Installation how-to, with screenshots available [here](https://jekyll-garden.github.io/posts/how-to)_
+Hi everyone ! I've been very busy lately, so I didn't check all of the issues and the PR, but as I have more free time now I'll restart working on the project. Thanks for all the kind messages by the way!
 
-Building a Jekyll website on Github Page is simple and seamless.
+## What is this?
 
-- Step 1: Sign-In to Github, visit the theme page and click on 'Use this Template'
-- Step 2: Name the forked repo as `yourusername.github.io`
-- Step 3: Go to your repo's settings > pages and set the source to your main branch. 
-- Step 4 (Optional): If you have a custom domain, set CNAME. 
+A digital garden using a custom version of `simply-jekyll`, optimised for integration with [Obsidian](https://obsidian.md). It is more oriented on note-taking and aims to help you build a nice knowledge base that can scale with time. 
 
-Claps! The Jekyll website with a Note Garden theme is ready. Visit  `yourusername.github.io` to see that. 
-_If it's not working, edit this readme (add something and commit) to trigger static page generation._
+**Demo is here: [notenote.link](https://notenote.link)**
 
-### Part 2, setting Github Repo with Obsidian.
+If you want to see a more refined example, you can check my notes (in french) at [arboretum.link](https://www.arboretum.link/). Build time is approx. 15 seconds, FYI.
 
-- Step 1: Go to `yourusername.github.io`, and clone your repository to your machine. For this, you can use git-commands or install Github for desktop. 
-- Step 2: Once you have successfully cloned the repository to your machine, Open the Obsidian app, and set the folder `_notes` inside the repository as your vault. 
-- Step 3: You can start adding notes to this vault and add frontmatter to support. Read about YAML at `Welcome to the garden`.
-- Step 4: Once you have enough notes, got to the Github Desktop app, commit the changes to main, and push the changes to Github. Github will update the pages!
+Issues are welcome, including feedback ! Don't hesitate to ask if you can't find a solution. 💫
 
+![screenshot](/assets/img/screenshot.png)
 
-## Credits & Thanks
-- [rgvr](https://github.com/rgvr), who created [Simply Jekyll theme](https://github.com/rgvr/simply-jekyll). This theme is a fork of Simply Jekyll and 90% code is by Raghu.
-- [Asim K T](https://github.com/asimkt), who coded the base HTML.
-- [Santosh Thottingal](https://github.com/santhoshtr), [Binny V A](https://github.com/binnyva), Puttalu who introduced me to Digital Garden, Zettelkasten, Org Mode etc. :)
-- Team [Obsidian](https://obsidian.md/) for making obsidian a [markdown](https://daringfireball.net/projects/markdown/) based product
-- Dark Mode Switch by [Derek Kedziora](https://github.com/derekkedziora) - [Source link](https://github.com/derekkedziora/jekyll-demo/blob/master/scripts/mode-switcher.js)
+## What is different?
 
-## Contribution
+- Markdown is fully-compatible with Obsidian (including Latex delimiters!)
+- There are now only notes (no blog posts).
+- There are cosmetic changes (ADHD-friendly code highlighting, larger font, larger page)
+- Code is now correctly indented
+- Wikilinks, but also alt-text wikilinks (with transclusion!) are usable.
 
-To set up your environment to develop this theme, run `bundle install` after cloning this repository in your local machine.
+## How do I use this?
 
-Your theme is set up just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. `_notes` contain all atomic notes. If you want to use this for blog, add posts inside `_posts` folder, following standard Jekyll frontamtter. 
+You can click on this link and let the deploy-to-netlify-for-free-script do the rest !
 
-## License
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Maxence-L/notenote.link)
 
-The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+Follow the [How to setup this site](https://notenote.link/notes/how-to-setup-this-site) guide, written by [raghuveerdotnet](https://github.com/raghuveerdotnet) and then adapted for this fork.
+
+If you want to use it with Github Pages, it is possible, [please read this](https://github.com/Maxence-L/notenote.link/issues/5#issuecomment-762508069).
+
+## How can I participate?
+
+Open an issue to share feedback or propose features. Star the repo if you like it! 🌟
+
+## How do I customize this for my needs?
+
+Things to modify to make it yours:
+
+- Meta content in [\_layouts/post.html](_layouts/post.html):
+    ```html
+    <meta content="My linked notebook" property="og:site_name"/>
+    ```
+- The favicon and profile are here: [assets/img/](assets/img/)
+- The main stuff is in [\_config.yml](_config.yml):
+    ```yaml
+    title: notenotelink.netlify.com
+    name: notenote.link
+    user_description: My linked notebook
+
+    notes_url: "https://notenotelink.netlify.com/"
+    profile_pic: /assets/img/profile.png
+    favicon: /assets/img/favicon.png
+    copyright_name: MIT
+
+    baseurl: "/" # the subpath of your site, e.g. /blog
+    url: "https://notenotelink.netlify.com/" # the base hostname & protocol for your site, e.g. http://example.com
+    encoding: utf-8
+    ```
+- You may want to change the copyright in [\_includes/footer.html](_includes/footer.html):
+   ```html
+   <p id="copyright-notice">Licence MIT</p>
+   ```
+
+## How do I remove the "seasons" feature for the notes?
+
+Delete what's inside [\_includes/feed.html](_includes/feed.html) and replace it with:
+
+```liquid
+{%- if page.permalink == "/" -%}
+    {%- for item in site.notes -%}
+        <div class="feed-title-excerpt-block disable-select" data-url="{{site.url}}{{item.url}}">
+            <a href="{{ item.url }}" style="text-decoration: none; color: #555555;">
+            {%- if item.status == "Ongoing" or item.status == "ongoing" -%}
+                <ul style="padding-left: 20px; margin-top: 20px;" class="tags">
+                    <li style="padding: 0 5px; border-radius: 10px;" class="tag"><b>Status: </b>{{item.status | capitalize }}</li>
+                </ul>
+                <p style="margin-top: 0px;" class="feed-title">{{ item.title }}</p>
+            {%- else -%}
+                <p class="feed-title">{{ item.title }}</p>
+            {%- endif -%}
+                <p class="feed-excerpt">{{ item.content | strip_html | strip | escape | truncate: 200}}</p>
+            </a>
+        </div>
+    {%- endfor -%}
+{%- endif -%}
+````
+
+On command-line, you can run `bundle exec jekyll serve` then go to `localhost:4000` to check the result.
+
+## What's coming?
+
+- [Open-transclude](https://subpixel.space/entries/open-transclude/) integration in the template, if possible.
+- Different themes! - Please tell me which you'd like to have!
