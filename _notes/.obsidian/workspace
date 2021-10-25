@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Public/Missions and Secondaries/Stomp em Good.md",
+            "file": "Public/Lists/Full List 10-24-21.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#squig",
+                "query": "full list",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Public/Missions and Secondaries/Stomp em Good.md"
+                "file": "Public/Lists/Full List 10-24-21.md"
               }
             }
           },
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Public/Missions and Secondaries/Stomp em Good.md",
+                "file": "Public/Lists/Full List 10-24-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,9 +118,9 @@
   },
   "active": "ecd6ee5679802afd",
   "lastOpenFiles": [
+    "Public/Lists/Full List 10-24-21.md",
     "Public/Missions and Secondaries/Stomp em Good.md",
     "Public/Missions and Secondaries/Green Tide.md",
-    "Public/Lists/Full List 10-24-21.md",
     "Public/Units/Mozrog Skragbad.md",
     "How to use the special features.md",
     "Obsidian integration.md",
