@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Public/Lists/Full List 10-24-21.md",
+            "file": "Public/Units/Weirdboy.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Public/Units/Mozrog Skragbad.md"
+                "file": "Public/Units/Weirdboy.md"
               }
             }
           },
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Public/Units/Mozrog Skragbad.md",
+                "file": "Public/Units/Weirdboy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,17 +123,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "1c76258296584da5",
+  "active": "ecd6ee5679802afd",
   "lastOpenFiles": [
-    "Public/Units/Mozrog Skragbad.md",
+    "Public/Units/Weirdboy.md",
+    "How-to-setup-this-site.md",
     "Public/Lists/Full List 10-24-21.md",
+    "Public/Units/Mozrog Skragbad.md",
     "Public/Missions and Secondaries/Green Tide.md",
     "Public/Missions and Secondaries/Stomp em Good.md",
     "Public/Missions and Secondaries/Get da Good Bitz.md",
     "Public/Missions and Secondaries/Da Biggest and Da Best.md",
     "Public/Warlord Traits/Ork/Big  Gob.md",
-    "Public/Warlord Traits/Ork/Ard as Nails.md",
-    "Public/Warlord Traits/Beast Snagga/Half-Chewed.md",
-    "Public/Warlord Traits/Beast Snagga/Bigkilla Boss.md"
+    "Public/Warlord Traits/Ork/Ard as Nails.md"
   ]
 }
