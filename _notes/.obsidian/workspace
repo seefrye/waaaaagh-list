@@ -9,17 +9,6 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Public/Units/Weirdboy.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "1c76258296584da5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
             "file": "Public/Units/Mozrog Skragbad.md",
             "mode": "source"
           }
@@ -79,16 +68,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Public/Units/Weirdboy.md"
+                "file": "Public/Units/Mozrog Skragbad.md"
               }
-            }
-          },
-          {
-            "id": "6ba1bfb0aefd489f",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
             }
           },
           {
@@ -97,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Public/Units/Weirdboy.md",
+                "file": "Public/Units/Mozrog Skragbad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +90,15 @@
             }
           },
           {
-            "id": "cbddb807d858b408",
+            "id": "d52bef8fd861fedf",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -125,15 +106,15 @@
   },
   "active": "ecd6ee5679802afd",
   "lastOpenFiles": [
+    "Public/Units/Mozrog Skragbad.md",
+    "Public/Lists/Full List 10-24-21.md",
+    "Public/Units/Kill Rig.md",
+    "Public/Relics/Scorched Gitbonez.md",
     "Public/Units/Weirdboy.md",
     "How-to-setup-this-site.md",
-    "Public/Lists/Full List 10-24-21.md",
-    "Public/Units/Mozrog Skragbad.md",
     "Public/Missions and Secondaries/Green Tide.md",
     "Public/Missions and Secondaries/Stomp em Good.md",
     "Public/Missions and Secondaries/Get da Good Bitz.md",
-    "Public/Missions and Secondaries/Da Biggest and Da Best.md",
-    "Public/Warlord Traits/Ork/Big  Gob.md",
-    "Public/Warlord Traits/Ork/Ard as Nails.md"
+    "Public/Missions and Secondaries/Da Biggest and Da Best.md"
   ]
 }
