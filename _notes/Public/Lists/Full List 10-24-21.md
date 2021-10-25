@@ -16,7 +16,7 @@ See this in a different format [[October 24th List|HERE]]
 
 ### [[Mozrog Skragbad]]
 
-![Abilities](https://seefrye.github.io/notes/Mozrog-Skragbad#Abilities)
+![[Mozrog-Skragbad#Abilities]]
 
 ![[Mozrog Skragbad#Stats]]
 
