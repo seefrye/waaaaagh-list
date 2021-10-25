@@ -11,6 +11,7 @@ tags:
 ---
 
 # HI
+are we updating?
 
 # Abilities
 - [[Beast Snagga]]: +1 to hit against MONSTER/VEHICLE
