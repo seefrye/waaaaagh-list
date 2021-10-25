@@ -127,15 +127,6 @@
 
 
                 {%- if url contains "transclude" -%}
-                    {%- assign post = site.notes | where: 'title',title -%}
-    {%- if post[0].title == nil -%}
-    {%- assign post = site.posts | where: 'title',title -%}
-    {%- endif -%}
-    {%- assign excerpt = post[0].content | strip_html | truncate: 280 -%}
-    {%- assign link_text = '<label for="' | append: url | append: '-' | append: sideNoteCounter | append: '" class="margin-toggle ' | append: sideNoteNum | append: ' ">' | append: toggleLabel | append: '</label><input type="checkbox" id="' | append: url | append: '-' | append: sideNoteCounter | append: '" class="margin-toggle"/><span class="' | append: noteType | append: '"><a href="' | append: post[0].url  | append: '"> <span style="background-color: #ffffc4; color: #555;">Transclusion</span><br/><b>' | append: title | append: '</b><br/>' | append: excerpt | append: '</a></span>' -%}
-    {%- else -%}
-    {%- assign link_text = '<label for="' | append: url | append: '-' | append: sideNoteCounter | append: '" class="margin-toggle ' | append: sideNoteNum | append: ' ">' | append: toggleLabel | append: '</label><input type="checkbox" id="' | append: url | append: '-' | append: sideNoteCounter | append: '" class="margin-toggle"/><span class="' | append: noteType | append: '">' | append: title | append: '</span>' -%}
-    {%- endif -%}
                     {%- if site.preferences.sidenotes.enabled -%}
                         {%- assign post = site.posts | where: 'title',title -%}
                         {%- assign excerpt = post[0].content | strip_html | truncate: 280 -%}
