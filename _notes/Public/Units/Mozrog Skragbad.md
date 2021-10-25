@@ -10,6 +10,8 @@ tags:
 
 ---
 
+# HI
+
 # Abilities
 - [[Beast Snagga]]: +1 to hit against MONSTER/VEHICLE
 - [[Beastboss]]: BEAST SNAGGA CORE/CHARACTERs within 6" get +1 to melee hits
