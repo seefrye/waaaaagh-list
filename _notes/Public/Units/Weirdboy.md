@@ -6,7 +6,6 @@ role: HQ
 ---
 
 ---
-{{py:python3 -c "import pandas; print(pandas.__file__)"}}
 
 # Abilities
 
