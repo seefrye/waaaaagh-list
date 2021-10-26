@@ -1,12 +1,8 @@
 ---
 title: Da Booma
-notetype : nofeed
+notetype: nofeed
 date: 23-10-2021
-tags:
-  kustom_job
-  vehicle
-  weapon
-  wargear
+tags: kustom-job vehicle weapon wargear
 ---
 
 ---

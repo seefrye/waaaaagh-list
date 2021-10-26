@@ -1,10 +1,8 @@
 ---
 title: Smoky Gubbinz
-notetype : nofeed
+notetype: nofeed
 date: 23-10-2021
-tags:
-  kustom_job
-  mek
+tags: kustom-job mek
 ---
 
 ---

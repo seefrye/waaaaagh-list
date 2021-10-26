@@ -1,10 +1,8 @@
 ---
 title: Souped-up Speshul
-notetype : nofeed
+notetype: nofeed
 date: 23-10-2021
-tags:
-  kustom_job
-  vehicle
+tags: kustom-job vehicle
 ---
 
 ---

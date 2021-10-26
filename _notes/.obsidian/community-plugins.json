@@ -4,5 +4,8 @@
   "better-pdf-plugin",
   "obsidian-dice-roller",
   "mrj-text-expand",
-  "obsidian-text-expander"
+  "obsidian-text-expander",
+  "templater-obsidian",
+  "tag-wrangler",
+  "obsidian-pandoc"
 ]

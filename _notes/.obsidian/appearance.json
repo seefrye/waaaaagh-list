@@ -2,5 +2,7 @@
   "baseFontSize": 16,
   "enabledCssSnippets": [
     "clean-embeds"
-  ]
+  ],
+  "translucency": false,
+  "cssTheme": "Dark Moss"
 }
