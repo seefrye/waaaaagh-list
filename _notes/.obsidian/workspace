@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "WWWeirdboy.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -127,14 +127,14 @@
   "active": "789f83e1c42e5918",
   "lastOpenFiles": [
     "WWWeirdboy.md",
+    "Public/Wargear/Melee/ammo-runt.md",
+    "How to use the special features.md",
+    "Public/Spells/Smite.md",
     "Public/Lists/Full List 10-24-21.md",
     "Public/Units/Weirdboy.md",
-    "Public/Wargear/Melee/ammo-runt.md",
     "Public/Kulturs/Blood Axes.md",
     "Public/Kulturs/Bad Moons.md",
     "Public/Abilities/Waaagh! Energy.md",
-    "Public/Abilities/Waaagh!.md",
-    "Public/Abilities/Tougher than a Rok Squig.md",
-    "Public/Abilities/Thick Hide.md"
+    "Public/Abilities/Waaagh!.md"
   ]
 }
