@@ -1,0 +1,17 @@
+---
+title:  Gaze of Gork
+created: 2021-10-26
+notetype: nofeed
+tags: wargear
+---
+
+# Gaze of Gork
+
+---
+
+# Stats
+
+| Weapon | Range | Type     | S   | AP  | D   | Abilities                                                                                                                                                                                                                                                                                                                                                                                                       |
+| ------ | ----- | -------- | --- | --- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Squint | 18"   | Heavy 1  | 9   | -4  | 3   | Each time an attack is made with this weapon profile, select one eligible target unit, draw a straight line between the closest point of the bearer’s base (or hull) and that of the closest model in the target unit. Make one wound roll against the target unit, and each other unit this line passes over. Each time an attack is made with this weapon profile, that attack automatically hits the target. |
+| Glare  | 24"   | Heavy d6 | 5   | -1  | 1   | Blast. Each time this weapon profile is selected, select a point on the battlefield within this weapon’s maximum range and resolve attacks against every eligible enemy unit within 3" of that point, determining visibility from that point. Determine the number of attacks separately for each eligible enemy unit.                                                                                          | 

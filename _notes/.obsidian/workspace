@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c23004a865201a53",
+        "id": "789f83e1c42e5918",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Public/Specialists/Big Krumpaz.md",
-            "mode": "source"
+            "file": "WWWeirdboy.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#vehicle",
+                "query": "gaze of gork",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Public/Specialists/Big Krumpaz.md"
+                "file": "WWWeirdboy.md"
               }
             }
           },
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Public/Specialists/Big Krumpaz.md",
+                "file": "WWWeirdboy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,23 +117,24 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "c23004a865201a53",
+  "active": "789f83e1c42e5918",
   "lastOpenFiles": [
-    "Public/Specialists/Big Krumpaz.md",
-    "Public/Relics/Scorched Gitbonez.md",
-    "Public/Relics/Klan/Rezmekkas Redder Paint.md",
-    "Public/Relics/Klan/Morgogs Finkin Cap.md",
-    "Public/Relics/Klan/Da Irongob.md",
-    "Public/Relics/Klan/Da Gobshot Thunderbuss.md",
-    "Public/Relics/Klan/Da Fixer Upperz.md",
-    "Public/Relics/Klan/Da Badskull Banna.md",
-    "Public/Relics/Klan/Broggs Buzzbomb.md",
-    "Public/Units/Mozrog Skragbad.md"
+    "WWWeirdboy.md",
+    "Public/Lists/Full List 10-24-21.md",
+    "Public/Units/Weirdboy.md",
+    "Public/Wargear/Melee/ammo-runt.md",
+    "Public/Kulturs/Blood Axes.md",
+    "Public/Kulturs/Bad Moons.md",
+    "Public/Abilities/Waaagh! Energy.md",
+    "Public/Abilities/Waaagh!.md",
+    "Public/Abilities/Tougher than a Rok Squig.md",
+    "Public/Abilities/Thick Hide.md"
   ]
 }
