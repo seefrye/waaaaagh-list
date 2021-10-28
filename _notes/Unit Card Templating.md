@@ -3,7 +3,6 @@ title: Unit Card Templating
 notetype: feed
 date: 27-10-2021
 ---
-# Unit Card Templating
 
 ### **This**
 ```
@@ -38,8 +37,11 @@ date: 27-10-2021
 > |:------------------ |:----- |:----- |:--- |:--- |:--- |:--------- |
 > | [[weirdboy-staff\|Weirdboy Staff]] | Melee | Melee | +3  | -1  | d3  | -         |
 
+---
+
 ### Still to do
 - Add frontmatter to template: title, create date, tags, etc
 - tp.file.include needs to pull from file name, should be super simple
 - Should be able to check infrequent things (psyker powers, relics, etc.) with an IF statement, I just gotta figure out how to do that in javascript
 - Right now, if the Weirdboy had an upgrade/relic weapon (say, [[Broggs Buzzbomb]]), it would get its own separate section. Gotta see if I can figure out how to combine default and optional wargear into one chart automatically
+- Fix "Abilities", it looks bad
