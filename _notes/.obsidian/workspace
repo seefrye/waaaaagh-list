@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "WWWeirdboy.md",
+            "file": "Unit Card Templating.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WWWeirdboy.md"
+                "file": "Unit Card Templating.md"
               }
             }
           },
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WWWeirdboy.md",
+                "file": "Unit Card Templating.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,15 +126,15 @@
   },
   "active": "789f83e1c42e5918",
   "lastOpenFiles": [
-    "WWWeirdboy.md",
+    "Unit Card Templating.md",
+    "Private/Misc/Obsidian integration.md",
+    "Untitled.md",
     "Private/Templater/templates/weirdboyTest.md",
     "Public/Units/Weirdboy.md",
     "Templating Data Cards.md",
     "Private/Templater/templates/wargearOther.md",
-    "Untitled.md",
     "Public/Wargear/Melee/ammo-runt.md",
-    "How to use the special features.md",
-    "Public/Spells/Smite.md",
-    "Public/Lists/Full List 10-24-21.md"
+    "Private/Misc/How to use the special features.md",
+    "Public/Spells/Smite.md"
   ]
 }
