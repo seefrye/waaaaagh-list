@@ -39,11 +39,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gaze of gork",
+                "query": "weirdb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -127,14 +127,14 @@
   "active": "789f83e1c42e5918",
   "lastOpenFiles": [
     "WWWeirdboy.md",
+    "Private/Templater/templates/weirdboyTest.md",
+    "Public/Units/Weirdboy.md",
+    "Templating Data Cards.md",
+    "Private/Templater/templates/wargearOther.md",
+    "Untitled.md",
     "Public/Wargear/Melee/ammo-runt.md",
     "How to use the special features.md",
     "Public/Spells/Smite.md",
-    "Public/Lists/Full List 10-24-21.md",
-    "Public/Units/Weirdboy.md",
-    "Public/Kulturs/Blood Axes.md",
-    "Public/Kulturs/Bad Moons.md",
-    "Public/Abilities/Waaagh! Energy.md",
-    "Public/Abilities/Waaagh!.md"
+    "Public/Lists/Full List 10-24-21.md"
   ]
 }
