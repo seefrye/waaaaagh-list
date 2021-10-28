@@ -9,8 +9,8 @@ date: 27-10-2021
 <%*
   let name = tp.file.include("[[Weirdboy#Weirdboy]]")
   let abilities = tp.file.include("[[Weirdboy#Abilitites]]")
-  let stats = tp.file.include("[[/Public/Units/Weirdboy#Stats]]")
-  let wargear = tp.file.include("[[/Public/Units/Weirdboy#Wargear]]")
+  let stats = tp.file.include("[[Weirdboy#Stats]]")
+  let wargear = tp.file.include("[[Weirdboy#Wargear]]")
 %>
 <% name %>#<% abilities %>#<% stats %>#<% wargear %>
 ```
