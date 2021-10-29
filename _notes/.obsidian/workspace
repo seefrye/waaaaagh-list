@@ -9,7 +9,29 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Unit Card Templating.md",
+            "file": "test-unit-template.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "5cb6617de25974a8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Private/Templater/templates/wargearMelee.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "92ac7ae80599c55d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Untitled TESTT.md",
             "mode": "source"
           }
         }
@@ -68,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit Card Templating.md"
+                "file": "Private/Templater/templates/wargearMelee.md"
               }
             }
           },
@@ -78,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit Card Templating.md",
+                "file": "Private/Templater/templates/wargearMelee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,17 +146,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "789f83e1c42e5918",
+  "active": "5cb6617de25974a8",
   "lastOpenFiles": [
-    "Unit Card Templating.md",
-    "Private/Misc/Obsidian integration.md",
-    "Untitled.md",
+    "Private/Templater/templates/wargearMelee.md",
     "Private/Templater/templates/weirdboyTest.md",
-    "Public/Units/Weirdboy.md",
-    "Templating Data Cards.md",
-    "Private/Templater/templates/wargearOther.md",
-    "Public/Wargear/Melee/ammo-runt.md",
-    "Private/Misc/How to use the special features.md",
-    "Public/Spells/Smite.md"
+    "Private/Templater/templates/test-unit-template-script.md",
+    "test-unit-template.md",
+    "Untitled TESTT.md",
+    "Untitled.md",
+    "Private/Templater/templates/Untitled.md",
+    "Private/Templater/templates/wargear.md",
+    "Private/Templater/templates/frontmatter.md",
+    "Private/Templater/templates/How To.md"
   ]
 }

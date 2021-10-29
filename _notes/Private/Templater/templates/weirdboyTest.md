@@ -1,7 +1,7 @@
 <%*
-  let name = tp.file.include("[[Weirdboy#Weirdboy]]")
-  let abilities = tp.file.include("[[Weirdboy#Abilitites]]")
-  let stats = tp.file.include("[[/Public/Units/Weirdboy#Stats]]")
-  let wargear = tp.file.include("[[/Public/Units/Weirdboy#Wargear]]")
+  let name = tp.file.include("[[weirdboy#Weirdboy]]")
+  let abilities = tp.file.include("[[weirdboy#Abilitites]]")
+  let stats = tp.file.include("[[weirdboy#Stats]]")
+  let wargear = tp.file.include("[[weirdboy#Wargear]]")
 %>
-<% name %>#<% abilities %>#<% stats %>#<% wargear %>
+<%name%>#<%abilities%>#<%stats%>#<%wargear%>
