@@ -9,9 +9,8 @@ I've figured out how to read frontmatter tags in a document, which makes automat
 
 The way it works right now is you generate a new document and populate the frontmatter tags like so:
 
-```md
----
-n: Automated Unit Card
+```
+nam: Automated Unit Card
 notetype: nofeed
 unit: weirdboy
 wargear: boombits
@@ -23,7 +22,6 @@ wlt: ard-as-nails
 spell1: jabbin-fingerz
 spell2: da-jump
 spell3: warpath
----
 ```
 
 Name and note type are for jekyll - required for publishing, but not for building the unit card itself. The template should be able to handle any empty or missing tags, skipping them if null. There's a smarter way to do this, but I haven't gotten there yet. Once your values are set, apply the template at the new line after the frontmatter block. Right now, the template looks something like this:
