@@ -15,7 +15,7 @@ cssclass: clean-embeds
 ### HQ
 * [[Mozrog Skragbad]]
 * [[Deffkilla Wartrike]]
-* [[Public/Units/weirdboy]]
+* [[Weirdboy]]
 * [[Wurrboy]]
 
 ---

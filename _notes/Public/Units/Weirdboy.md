@@ -1,11 +1,11 @@
 ---
-title : weirdboy
+title : Weirdboy
 notetype : nofeed
 date : 23-10-2021
 role: HQ
 tags: base
 ---
-# [[Public/Units/weirdboy\|Weirdboy]]
+# Weirdboy
 
 ## Abilities
 
