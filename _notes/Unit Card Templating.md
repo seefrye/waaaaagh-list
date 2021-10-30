@@ -45,3 +45,8 @@ date: 27-10-2021
 - Should be able to check infrequent things (psyker powers, relics, etc.) with an IF statement, I just gotta figure out how to do that in javascript
 - Right now, if the Weirdboy had an upgrade/relic weapon (say, [[Broggs Buzzbomb]]), it would get its own separate section. Gotta see if I can figure out how to combine default and optional wargear into one chart automatically
 - Fix "Abilities", it looks bad
+
+---
+
+{:.medium .serif .oblique}
+Update: I've made some decent progress on this, check out the updates [[Current State of Unit Templating\|HERE]]
