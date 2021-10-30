@@ -49,4 +49,4 @@ date: 27-10-2021
 ---
 
 {:.medium .serif .oblique}
-Update: I've made some decent progress on this, check out the updates [[Current State of Unit Templating\|HERE]]
+Update: I've made some decent progress on this, check out the updates [[Current State of Unit Templating]]

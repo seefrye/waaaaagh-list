@@ -24,7 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REFORMAT TEST/Public/Spells/Powers of the Waaagh!/jabbin-fingerz.md",
+                "file": "Automated Unit Card.md",
                 "mode": "source"
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REFORMAT TEST/Public/Spells/Powers of the Waaagh!/jabbin-fingerz.md"
+                "file": "Automated Unit Card.md"
               }
             }
           },
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REFORMAT TEST/Public/Spells/Powers of the Waaagh!/jabbin-fingerz.md",
+                "file": "Automated Unit Card.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,10 +143,10 @@
   },
   "active": "802adbe811c1d0ab",
   "lastOpenFiles": [
-    "REFORMAT TEST/Public/Spells/Powers of the Waaagh!/jabbin-fingerz.md",
-    "Current State of Unit Templating.md",
-    "Unit Card Templating.md",
     "Automated Unit Card.md",
+    "Unit Card Templating.md",
+    "Current State of Unit Templating.md",
+    "REFORMAT TEST/Public/Spells/Powers of the Waaagh!/jabbin-fingerz.md",
     "Public/Units/Weirdboy.md",
     "Public/Units/Untitled.md",
     "REFORMAT TEST/Public/Units/Weirdboy/weirdboy-stats.md",
