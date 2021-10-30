@@ -17,7 +17,7 @@ spell3: warpath
 ---
 
 - **[[Ere We Go]]:** Re-roll charges 
-{{ squish }}
+{{- squish -}}
 [[You can re-roll charge rolls made for units with this ability.::srs]]
 {:.very-small .oblique .serif}
 - **[[Waaagh!]]**
