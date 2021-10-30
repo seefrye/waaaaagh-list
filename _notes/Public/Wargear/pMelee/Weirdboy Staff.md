@@ -1,5 +1,5 @@
 ---
-title: weirdboy-staff
+title: Weirdboy Staff
 created: 2021-10-27
 notetype: nofeed
 tags: wargear melee
