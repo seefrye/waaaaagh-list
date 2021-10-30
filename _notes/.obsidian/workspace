@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Current State of Unit Templating.md",
+                "file": "Automated Unit Card.md",
                 "mode": "source"
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit Card Templating.md"
+                "file": "Automated Unit Card.md"
               }
             }
           },
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit Card Templating.md",
+                "file": "Automated Unit Card.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,12 +141,12 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "802adbe811c1d0ab",
+  "active": "cdfc6a4fe863b929",
   "lastOpenFiles": [
-    "Unit Card Templating.md",
-    "Current State of Unit Templating.md",
-    "wa.md",
     "Automated Unit Card.md",
+    "Current State of Unit Templating.md",
+    "Unit Card Templating.md",
+    "wa.md",
     "REFORMAT TEST/Public/Spells/Powers of the Waaagh!/jabbin-fingerz.md",
     "Public/Units/Weirdboy.md",
     "Public/Units/Untitled.md",
