@@ -1,0 +1,14 @@
+---
+title: big-bomb
+created: 2021-10-27
+notetype: nofeed
+tags: wargear other
+---
+
+# Big Bomb
+
+---
+
+# Abilities
+
+Once per battle, in your Movement phase, after the bearer makes a Normal Move or Advances, you can select one point on the battlefield the bearer moved across this phase. Roll one D6 for each unit within 3" of that point, subtracting 1 if that unit is a CHARACTER (excluding VEHICLE or MONSTER units); on a 4+, that unit suffers D3 mortal wounds.

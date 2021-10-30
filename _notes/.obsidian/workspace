@@ -9,29 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "test-unit-template.md",
+            "file": "Automated Unit Card.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "5cb6617de25974a8",
+        "id": "846546c407dbc8a2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Private/Templater/templates/wargearMelee.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "92ac7ae80599c55d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Untitled TESTT.md",
+            "file": "Current State of Unit Templating.md",
             "mode": "source"
           }
         }
@@ -61,11 +50,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "weirdb",
+                "query": "shoota",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
@@ -90,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/Templater/templates/wargearMelee.md"
+                "file": "Current State of Unit Templating.md"
               }
             }
           },
@@ -100,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/Templater/templates/wargearMelee.md",
+                "file": "Current State of Unit Templating.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,17 +135,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5cb6617de25974a8",
+  "active": "846546c407dbc8a2",
   "lastOpenFiles": [
-    "Private/Templater/templates/wargearMelee.md",
-    "Private/Templater/templates/weirdboyTest.md",
-    "Private/Templater/templates/test-unit-template-script.md",
-    "test-unit-template.md",
-    "Untitled TESTT.md",
-    "Untitled.md",
-    "Private/Templater/templates/Untitled.md",
-    "Private/Templater/templates/wargear.md",
-    "Private/Templater/templates/frontmatter.md",
-    "Private/Templater/templates/How To.md"
+    "Current State of Unit Templating.md",
+    "Automated Unit Card.md",
+    "Private/Templater/templates/aaaFrontmatterTemplate.md",
+    "REFORMAT TEST/Public/Abilities/Ere We Go.md",
+    "REFORMAT TEST/Public/Spells/Powers of the Waaagh!/da-jump.md",
+    "REFORMAT TEST/Public/Spells/Powers of the Waaagh!/warpath.md",
+    "REFORMAT TEST/Public/Spells/Powers of the Waaagh!/jabbin-fingerz.md",
+    "REFORMAT TEST/Public/Spells/smite.md",
+    "REFORMAT TEST/Public/Warlord Traits/Ork/ard-as-nails.md",
+    "REFORMAT TEST/Public/Relics/Klan/broggs-buzzbomb.md"
   ]
 }

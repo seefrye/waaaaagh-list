@@ -9,7 +9,8 @@
   tR += "---"
 %>
 title: <%* tR += title %>
-<%* title = tp.user.titlize(title) %>created: <% tp.date.now("YYYY-MM-DD") %>
+<%* title = tp.user.titlize(title) %>
+created: <% tp.date.now("YYYY-MM-DD") %>
 notetype: nofeed
 tags: wargear melee
 ---

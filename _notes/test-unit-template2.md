@@ -3,7 +3,7 @@ name: Weirdboy Test Template
 ---
 
 # Unit
-[[weirdboy]]
+[[Public/Units/weirdboy]]
 # Extra Wargear
 [[Broggs Buzzbomb]]
 # Upgrades
@@ -11,7 +11,7 @@ name: Weirdboy Test Template
 [[More Dakka]]
 # Psychic Powers
 ## selection
-[[Smite]][[Da Jump]][[Warpath]]
+[[Public/Spells/Smite]][[Da Jump]][[Public/Spells/Powers of the Waaagh!/Warpath]]
 # Warlord Traits
 ## selection
 [[Ard as Nails]]
