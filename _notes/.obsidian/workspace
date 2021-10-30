@@ -8,15 +8,33 @@
         "type": "split",
         "children": [
           {
-            "id": "cdfc6a4fe863b929",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Current State of Unit Templating.md",
-                "mode": "source"
+            "id": "db37a09b7d5553b6",
+            "type": "split",
+            "children": [
+              {
+                "id": "cdfc6a4fe863b929",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "REFORMAT TEST/Public/Units/Weirdboy/weirdboy-abilities.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "9372e1e4f7f3fd69",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Automated Unit Card2.md",
+                    "mode": "source"
+                  }
+                }
               }
-            }
+            ],
+            "direction": "vertical"
           },
           {
             "id": "802adbe811c1d0ab",
@@ -86,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Current State of Unit Templating.md"
+                "file": "Automated Unit Card2.md"
               }
             }
           },
@@ -96,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Current State of Unit Templating.md",
+                "file": "Automated Unit Card2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,17 +159,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "cdfc6a4fe863b929",
+  "active": "9372e1e4f7f3fd69",
   "lastOpenFiles": [
-    "Current State of Unit Templating.md",
+    "Automated Unit Card2.md",
+    "REFORMAT TEST/Public/Units/Weirdboy/weirdboy-abilities.md",
+    "Public/Units/Weirdboy.md",
+    "REFORMAT TEST/Public/Units/Weirdboy/weirdboy-wargear.md",
+    "REFORMAT TEST/Public/Abilities/Ere We Go.md",
     "Automated Unit Card.md",
+    "Current State of Unit Templating.md",
     "Unit Card Templating.md",
     "wa.md",
-    "REFORMAT TEST/Public/Spells/Powers of the Waaagh!/jabbin-fingerz.md",
-    "Public/Units/Weirdboy.md",
-    "Public/Units/Untitled.md",
-    "REFORMAT TEST/Public/Units/Weirdboy/weirdboy-stats.md",
-    "REFORMAT TEST/Public/Relics/Klan/da-irongob.md",
-    "Public/Relics/Klan/Da Irongob.md"
+    "REFORMAT TEST/Public/Spells/Powers of the Waaagh!/jabbin-fingerz.md"
   ]
 }
