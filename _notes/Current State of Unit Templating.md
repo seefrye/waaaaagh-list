@@ -1,3 +1,8 @@
+---
+name: Current State of Unit Templating
+notetype: feed
+---
+
 # Current state
 I've figured out how to read frontmatter tags in a document, which makes automating unit cards a heck of a lot easier. Right now, I'm just including 'enough tags' to hopefull cover most cases. However, it would be way better if I could treat each tag as an array and iterate through them, rather than having 'spell1', 'spell2', etc.
 
