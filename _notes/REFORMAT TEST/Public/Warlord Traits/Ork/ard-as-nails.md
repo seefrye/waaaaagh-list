@@ -1,1 +1,1 @@
-- **[[Ard as Nails]]:** Each time an attack is made that targets this WARLORD, subtract 1 from that attack’s wound roll.
+- **[[Ard as Nails]]:** Hard to wound [[Each time an attack is made that targets this WARLORD, subtract 1 from that attack’s wound roll.::srs]]

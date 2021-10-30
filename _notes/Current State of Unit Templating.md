@@ -7,8 +7,11 @@ notetype: feed
 I've figured out how to read frontmatter tags in a document, which makes automating unit cards a heck of a lot easier. Right now, I'm just including 'enough tags' to hopefull cover most cases. However, it would be way better if I could treat each tag as an array and iterate through them, rather than having 'spell1', 'spell2', etc.
 
 The way it works right now is you generate a new document and populate the frontmatter tags like so:
+
 ```md
 ---
+name: Automated Unit Card
+notetype: nofeed
 unit: weirdboy
 wargear: boombits
 wargear_nochart: ammo-runt
@@ -20,13 +23,11 @@ spell1: jabbin-fingerz
 spell2: da-jump
 spell3: warpath
 ---
-
 ```
 
-The template should be able to handle any empty or missing tags, skipping them if null. There's a smarter way to do this, but I haven't gotten there yet. Once your values are set, apply the template at the new line after the frontmatter block. Right now, the template looks something like this:
+Name and note type are for jekyll - required for publishing, but not for building the unit card itself. The template should be able to handle any empty or missing tags, skipping them if null. There's a smarter way to do this, but I haven't gotten there yet. Once your values are set, apply the template at the new line after the frontmatter block. Right now, the template looks something like this:
 
-```
-<%*
+```<%*
   // read frontmatter tags for 'unit', asks for user inupt otherwise
   if (tp.frontmatter.unit != null) { var unitRaw = tp.frontmatter.unit;
   } else { var unitRaw = await tp.system.prompt("unit"); }
@@ -99,6 +100,8 @@ The template should be able to handle any empty or missing tags, skipping them i
 %>  
 # <% name %>
 
+---
+
 <% tp.file.include(uaLink) _%>
 <%* if (tp.frontmatter.wargear_nochart != null) { _%>
 <%- tp.file.include(wgncLink) %>
@@ -113,7 +116,11 @@ The template should be able to handle any empty or missing tags, skipping them i
 <%_ tp.file.include(relicLink) %>
 <%* } else { } -%>
 
+---
+
 <% tp.file.include(usLink) %>
+
+---
 
 <% tp.file.include(uwLink) _%>
 <%* if (tp.frontmatter.wargear != null) { %>
@@ -123,9 +130,11 @@ The template should be able to handle any empty or missing tags, skipping them i
 <%_ tp.file.include(relic_weaponLink) %>
 <%* } else { } -%>
 
+---
+
 <%* if (tp.frontmatter.spell1 != null) { %>
 <%_ tp.file.include(spell1Link) %>
 <%* } else { } _%>
 ```
 
-Again, there's clearly better ways to do this, but I haven't gotten there yet. Running that template will automatically pull and format the data for that unit card, and spit out a markdown file. Here's that markdown rendered in-broswer: [[Automated Unit Card]]
+Again, there's clearly better ways to do this, but I haven't gotten there yet. Running that template will automatically pull and format the data for that unit card, and spit out a markdown file. Here's that markdown rendered in-broswe. Check out the flashcards for rule text: [[Automated Unit Card]]

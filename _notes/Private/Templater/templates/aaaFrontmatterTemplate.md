@@ -71,6 +71,8 @@
 %>  
 # <% name %>
 
+---
+
 <% tp.file.include(uaLink) _%>
 <%* if (tp.frontmatter.wargear_nochart != null) { _%>
 <%- tp.file.include(wgncLink) %>
@@ -85,7 +87,11 @@
 <%_ tp.file.include(relicLink) %>
 <%* } else { } -%>
 
+---
+
 <% tp.file.include(usLink) %>
+
+---
 
 <% tp.file.include(uwLink) _%>
 <%* if (tp.frontmatter.wargear != null) { %>
@@ -94,6 +100,8 @@
 <%* if (tp.frontmatter.relic_weapon != null) { %>
 <%_ tp.file.include(relic_weaponLink) %>
 <%* } else { } -%>
+
+---
 
 <%* if (tp.frontmatter.spell1 != null) { %>
 <%_ tp.file.include(spell1Link) %>

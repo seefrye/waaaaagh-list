@@ -4,9 +4,8 @@ created: 2021-10-25
 notetype: nofeed
 tags: wargear
 ---
-# Boombits
 
----
+# Boombits
 
 | Weapon   | Range | Type       | S   | AP  | D   | Abilities                                                                                |
 | -------- | ----- | ---------- | --- | --- | --- | ---------------------------------------------------------------------------------------- |

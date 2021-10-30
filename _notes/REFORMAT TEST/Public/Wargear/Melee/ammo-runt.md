@@ -1,1 +1,0 @@
-- **[[Ammo Runt]]:** Once per battle, when the bearer makes a ranged attack, you can re-roll the hit roll.

@@ -1,1 +1,1 @@
-| Boombits | 12"   | Assault d6 | 5   | 0   | 1   | Each time an attack is made with this weapon, that attack automatically hits the target. |
+| [[Boombits1\|Boombits]] | 12"   | Assault d6 | 5   | 0   | 1   | Flamer [[Each time an attack is made with this weapon, that attack automatically hits the target.::Srs]] |
