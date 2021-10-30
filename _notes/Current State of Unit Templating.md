@@ -1,6 +1,7 @@
 ---
 name: Current State of Unit Templating
 notetype: feed
+date: 30-10-2021
 ---
 
 # Current state
@@ -10,7 +11,7 @@ The way it works right now is you generate a new document and populate the front
 
 ```md
 ---
-name: Automated Unit Card
+n: Automated Unit Card
 notetype: nofeed
 unit: weirdboy
 wargear: boombits
