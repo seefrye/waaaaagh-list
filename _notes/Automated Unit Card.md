@@ -1,6 +1,6 @@
 ---
 title: Automated Unit Card
-notetype: nofeed
+notetype: feed
 unit: weirdboy
 wargear: boombits
 wargear_nochart: ammo-runt
