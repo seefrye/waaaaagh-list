@@ -29,8 +29,8 @@ tags:
 
 | Weapon                | Range | Type     | S   | AP  | D   | Abilities        |
 |:--------------------- |:----- |:-------- |:--- |:--- |:--- | ---------------- |
-| [[big-choppa]]        | Melee | Melee    | +2  | -1  | 2   | -                |
+| [[Public/Wargear/pMelee/big-choppa]]        | Melee | Melee    | +2  | -1  | 2   | -                |
 | [[Slugga]]            | 12"   | Pistol 1 | 4   | 0   | 1   | -                |
-| [[smasha-squig-jaws]] | Melee | Melee    | 6   | -1  | 2   | Two free attacks |
+| [[Public/Wargear/pMelee/smasha-squig-jaws]] | Melee | Melee    | 6   | -1  | 2   | Two free attacks |
 
 ---

@@ -28,8 +28,8 @@ tags: [squig character named]
 
 | Weapon                | Range | Type       | S   | AP  | D   | Abilities                                                                                            |
 |:--------------------- |:----- |:---------- |:--- |:--- |:--- |:---------------------------------------------------------------------------------------------------- |
-| [[big-chompas-jaws]] | Melee | Melee      | 7   | -3  | 3   | 3 free attacks, wound rolls of 6 inflicts 4 mortal wounds on the target and the attack sequence ends |
-| [[gutrippa]]          | Melee | Melee      | +1  | -2  | 3   | -                                                                                                    |
+| [[Public/Wargear/pMelee/big-chompas-jaws]] | Melee | Melee      | 7   | -3  | 3   | 3 free attacks, wound rolls of 6 inflicts 4 mortal wounds on the target and the attack sequence ends |
+| [[Public/Wargear/pMelee/gutrippa]]          | Melee | Melee      | +1  | -2  | 3   | -                                                                                                    |
 | [[Thump Gun]]         | 18"   | Assault d3 | 6   | -1  | d3  | Blast                                                                                                |
 
 ---

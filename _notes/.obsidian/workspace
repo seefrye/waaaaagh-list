@@ -90,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Current State of Unit Templating.md"
+                "file": "Automated Unit Card.md"
               }
             }
           },
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Current State of Unit Templating.md",
+                "file": "Automated Unit Card.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,17 +145,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "cdfc6a4fe863b929",
+  "active": "802adbe811c1d0ab",
   "lastOpenFiles": [
-    "Current State of Unit Templating.md",
     "Automated Unit Card.md",
+    "Public/Wargear/Ranged/Boombits1.md",
+    "Public/Wargear/Other/Ammo Runt.md",
+    "Current State of Unit Templating.md",
     "Private/Templater/templates/aaaFrontmatterTemplate.md",
     "REFORMAT TEST/Public/Wargear/Ranged/boombits.md",
     "REFORMAT TEST/Public/Spells/Powers of the Waaagh!/jabbin-fingerz.md",
-    "Public/Wargear/Ranged/Boombits1.md",
     "Public/Wargear/Ranged/Bubblechukka.md",
     "Public/Wargear/Ranged/Blitz Missiles.md",
-    "Public/Kustom Jobs/Vehicle Kustom Jobs/More Dakka.md",
-    "Brogg’s Buzzbomb.md"
+    "Public/Kustom Jobs/Vehicle Kustom Jobs/More Dakka.md"
   ]
 }

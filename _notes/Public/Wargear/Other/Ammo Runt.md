@@ -1,5 +1,5 @@
 ---
-title: ammo-runt
+title: Ammo Runt
 created: 2021-10-27
 notetype: nofeed
 tags: wargear other

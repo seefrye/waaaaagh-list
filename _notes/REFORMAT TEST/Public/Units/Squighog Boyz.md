@@ -26,10 +26,10 @@ role: Fast Attack
 
 | Weapon                           | Range | Type      | S    | AP  | D   | Abilities                 |
 |:-------------------------------- |:----- |:--------- |:---- |:--- |:--- |:------------------------- |
-| [[saddlegit-weapons-(melee)]]    | Melee | Melee     | 3    | -1  | 1   | One extra attack          |
+| [[Public/Wargear/pMelee/saddlegit-weapons-(melee)]]    | Melee | Melee     | 3    | -1  | 1   | One extra attack          |
 | [[Saddlegit Weapons (Shooting)]] | 8"    | Assault 1 | 4    | 0   | 1   | -                         |
-| [[squighog-jaws]]                | Melee | Melee     | 6    | -1  | 2   | Two free attacks          |
-| [[stikka-(melee)]]               | Melee | Melee     | +1   | -2  | 2   | -                         |
+| [[Public/Wargear/pMelee/squighog-jaws]]                | Melee | Melee     | 6    | -1  | 2   | Two free attacks          |
+| [[Public/Wargear/pMelee/stikka-(melee)]]               | Melee | Melee     | +1   | -2  | 2   | -                         |
 | [[Stikka (Shooting)]]            | 12"   | Assault 1 | User | -2  | 2   | +1 strength at half range |
 
 ---

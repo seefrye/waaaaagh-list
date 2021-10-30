@@ -35,7 +35,7 @@ date: 27-10-2021
 >
 > | Weapon             | Range | Type  | S   | AP  | D   | Abilities |
 > |:------------------ |:----- |:----- |:--- |:--- |:--- |:--------- |
-> | [[weirdboy-staff\|Weirdboy Staff]] | Melee | Melee | +3  | -1  | d3  | -         |
+> | [[Public/Wargear/pMelee/weirdboy-staff\|Weirdboy Staff]] | Melee | Melee | +3  | -1  | d3  | -         |
 
 ---
 
