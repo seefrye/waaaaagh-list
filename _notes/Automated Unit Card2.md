@@ -17,8 +17,8 @@ spell3: warpath
 ---
 
 - **[[Ere We Go]]:** Re-roll charges 
-{:.small .oblique .serif}
 [[You can re-roll charge rolls made for units with this ability.::srs]]
+{:.very-small .oblique .serif}
 - **[[Waaagh!]]**
 - **[[Waaagh! Energy]]:** 20+ nearby Orks give +1 cast [[While there are 20 or more ORKS models (excluding GRETCHIN) within 12" of this model, this model can attempt to manifest one additional psychic power in your Psychic phase.::srs]]
 - **[[Ammo Runt]]:** Re-roll token [[Once per battle, when the bearer makes a ranged attack, you can re-roll the hit roll.::srs]]
