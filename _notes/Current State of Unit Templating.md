@@ -136,4 +136,4 @@ Name and note type are for jekyll - required for publishing, but not for buildin
 <%* } else { } _%>
 ```
 
-Again, there's clearly better ways to do this, but I haven't gotten there yet. Running that template will automatically pull and format the data for that unit card, and spit out a markdown file. Here's that markdown rendered in-broswe. Check out the flashcards for rule text: **[[Automated Unit Card]]**
+Again, there's clearly better ways to do this, but I haven't gotten there yet. Running that template will automatically pull and format the data for that unit card, and spit out a markdown file. Here's that markdown rendered in-broswer. Check out the flashcards for rule text: **[[Automated Unit Card]]**
