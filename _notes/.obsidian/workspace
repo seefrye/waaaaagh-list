@@ -24,7 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Current State of Unit Templating.md",
+                "file": "Unit Card Templating.md",
                 "mode": "source"
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Current State of Unit Templating.md"
+                "file": "Unit Card Templating.md"
               }
             }
           },
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Current State of Unit Templating.md",
+                "file": "Unit Card Templating.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,15 +143,15 @@
   },
   "active": "802adbe811c1d0ab",
   "lastOpenFiles": [
-    "Current State of Unit Templating.md",
     "Unit Card Templating.md",
+    "Current State of Unit Templating.md",
+    "wa.md",
     "Automated Unit Card.md",
     "REFORMAT TEST/Public/Spells/Powers of the Waaagh!/jabbin-fingerz.md",
     "Public/Units/Weirdboy.md",
     "Public/Units/Untitled.md",
     "REFORMAT TEST/Public/Units/Weirdboy/weirdboy-stats.md",
     "REFORMAT TEST/Public/Relics/Klan/da-irongob.md",
-    "Public/Relics/Klan/Da Irongob.md",
-    "REFORMAT TEST/Public/Wargear/Ranged/boombits.md"
+    "Public/Relics/Klan/Da Irongob.md"
   ]
 }
