@@ -50,4 +50,4 @@ date: 27-10-2021
 
 Update: I've made some decent progress on this, check out the updates 
 
-[[Current State of Unit Templating]]
+[[Current State of Unit Templating::https://waaaaagh.com/notes/current-state-of-unit-templating]]
