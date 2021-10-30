@@ -23,7 +23,7 @@ spell3: warpath
 - **[[Ammo Runt]]:** Re-roll token [[Once per battle, when the bearer makes a ranged attack, you can re-roll the hit roll.::srs]]
 - **[[More Dakka]]:** 1-2 more shots with Dakka on 4+/6+[[VEHICLE model only. Each time this model shoots, roll one D6. On a 4+, make 1 additional attack with each Dakka weapon this model is equipped with. On a 6, make 2 additional attacks with each Dakka weapon this model is equipped with instead.::srs]]
 - **[[Ard as Nails]]:** Hard to wound [[Each time an attack is made that targets this WARLORD, subtract 1 from that attack’s wound roll.::srs]]
-- **[[Da Irongob]]:** Deal mortal wounds after melee attacks [[GOFF model only. After making close combat attacks with the bearer, before they consolidate, you can select one enemy unit within 1" of the bearer and roll one D6: on a 2+, that unit suffers D3 mortal wound::srs]]
+- **[[Da Irongob]]:** Deal mortal wounds after melee attacks {:.small .serif .oblique}[[GOFF model only. After making close combat attacks with the bearer, before they consolidate, you can select one enemy unit within 1" of the bearer and roll one D6: on a 2+, that unit suffers D3 mortal wound::srs]]
 
 ---
 
