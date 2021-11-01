@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Private/builder-files/wargear/ranged/zzap-gun.md",
+            "file": "Public/Posts/Automated Unit Card.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/builder-files/wargear/ranged/zzap-gun.md"
+                "file": "Public/Posts/Automated Unit Card.md"
               }
             }
           },
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/builder-files/wargear/ranged/zzap-gun.md",
+                "file": "Public/Posts/Automated Unit Card.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,15 +125,15 @@
   },
   "active": "9372e1e4f7f3fd69",
   "lastOpenFiles": [
+    "Public/Posts/Automated Unit Card.md",
+    "Automated Unit Card2.md",
+    "Public/Rules/Abilities/Waaagh.md",
+    "Public/Rules/Abilities/Waaagh Energy.md",
     "Private/builder-files/wargear/ranged/zzap-gun.md",
     "Private/builder-files/wargear/ranged/wurrtower.md",
     "Private/builder-files/wargear/ranged/wing-missiles.md",
     "Private/builder-files/wargear/ranged/wazbom-mega-kannon.md",
     "Private/builder-files/wargear/ranged/twin-big-shoota.md",
-    "Private/builder-files/wargear/ranged/traktor-kannon.md",
-    "Private/builder-files/wargear/ranged/thump-gun.md",
-    "Private/builder-files/wargear/ranged/tellyport-mega-blasta.md",
-    "Private/builder-files/wargear/ranged/tellyport-blasta.md",
-    "Private/builder-files/wargear/ranged/tankbusta-bomb.md"
+    "Private/builder-files/wargear/ranged/traktor-kannon.md"
   ]
 }

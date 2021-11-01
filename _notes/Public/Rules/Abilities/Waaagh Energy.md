@@ -1,5 +1,5 @@
 ---
-title : Waaagh! Energy
+title : Waaagh Energy
 notetype : nofeed
 date : 23-10-2021
 tags: rule ability stub
