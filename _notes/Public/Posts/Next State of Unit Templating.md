@@ -1,6 +1,8 @@
 ---
 name: Next State of Unit Templating
 notetype: feed
+type: post
+season: summer
 date: 30-10-2021
 ---
 

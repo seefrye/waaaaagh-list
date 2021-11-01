@@ -1,6 +1,7 @@
 ---
 title: Obsidian integration
-season: summer
+season: winter
+notetype: nofeed
 tags: CMS
 ---
 

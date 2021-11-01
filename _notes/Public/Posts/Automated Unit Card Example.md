@@ -11,6 +11,8 @@ wlt: ard-as-nails
 spell1: jabbin-fingerz
 spell2: da-jump
 spell3: warpath
+type: post
+season: summer
 ---
   
 # Weirdboy

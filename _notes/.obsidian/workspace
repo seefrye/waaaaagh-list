@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Public/Posts/Automated Unit Card Example.md",
+            "file": "Private/Misc/How-to-setup-this-site.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Public/Posts/Automated Unit Card Example.md"
+                "file": "Private/Misc/How-to-setup-this-site.md"
               }
             }
           },
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Public/Posts/Automated Unit Card Example.md",
+                "file": "Private/Misc/How-to-setup-this-site.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,15 +125,15 @@
   },
   "active": "9372e1e4f7f3fd69",
   "lastOpenFiles": [
+    "Private/Misc/How-to-setup-this-site.md",
+    "Private/Misc/how-markdown-is-rendered.md",
+    "Private/Misc/Obsidian integration.md",
     "Public/Posts/Automated Unit Card Example.md",
     "Public/Posts/Next State of Unit Templating.md",
-    "Public/Posts/First Shot at Unit Card Templating.md",
+    "Public/Posts/First shot at unit card templating.md",
     "Private/Templater/templates/aaa Unit Card Template.md",
     "Private/Misc/How to use the special features.md",
-    "Private/Misc/how-markdown-is-rendered.md",
     "Automated Unit Card2.md",
-    "Public/Rules/Abilities/Waaagh.md",
-    "Public/Rules/Abilities/Waaagh Energy.md",
-    "Private/builder-files/wargear/ranged/zzap-gun.md"
+    "Public/Rules/Abilities/Waaagh.md"
   ]
 }

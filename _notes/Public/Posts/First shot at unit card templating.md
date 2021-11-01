@@ -1,5 +1,6 @@
 ---
-title: First Shot at Unit Card Templating
+title: First shot at unit card templating
+season: summer
 notetype: feed
 type: post
 date: 27-10-2021
