@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Public/Posts/Automated Unit Card.md",
+            "file": "Public/Posts/Automated Unit Card Example.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Public/Posts/Automated Unit Card.md"
+                "file": "Public/Posts/Automated Unit Card Example.md"
               }
             }
           },
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Public/Posts/Automated Unit Card.md",
+                "file": "Public/Posts/Automated Unit Card Example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,15 +125,15 @@
   },
   "active": "9372e1e4f7f3fd69",
   "lastOpenFiles": [
-    "Public/Posts/Automated Unit Card.md",
+    "Public/Posts/Automated Unit Card Example.md",
+    "Public/Posts/Next State of Unit Templating.md",
+    "Public/Posts/First Shot at Unit Card Templating.md",
+    "Private/Templater/templates/aaa Unit Card Template.md",
+    "Private/Misc/How to use the special features.md",
+    "Private/Misc/how-markdown-is-rendered.md",
     "Automated Unit Card2.md",
     "Public/Rules/Abilities/Waaagh.md",
     "Public/Rules/Abilities/Waaagh Energy.md",
-    "Private/builder-files/wargear/ranged/zzap-gun.md",
-    "Private/builder-files/wargear/ranged/wurrtower.md",
-    "Private/builder-files/wargear/ranged/wing-missiles.md",
-    "Private/builder-files/wargear/ranged/wazbom-mega-kannon.md",
-    "Private/builder-files/wargear/ranged/twin-big-shoota.md",
-    "Private/builder-files/wargear/ranged/traktor-kannon.md"
+    "Private/builder-files/wargear/ranged/zzap-gun.md"
   ]
 }

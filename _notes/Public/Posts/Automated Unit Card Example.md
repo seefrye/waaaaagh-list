@@ -1,5 +1,5 @@
 ---
-title: Automated Unit Card
+title: Automated Unit Card Example
 notetype: feed
 unit: weirdboy
 wargear: boombits

@@ -1,5 +1,5 @@
 ---
-title: Unit Card Templating
+title: First Shot at Unit Card Templating
 notetype: feed
 date: 27-10-2021
 ---
