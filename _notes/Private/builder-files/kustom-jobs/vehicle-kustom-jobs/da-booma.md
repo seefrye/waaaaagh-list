@@ -1,0 +1,1 @@
+| Da Booma | 36"   | Heavy 2d6 | 8   | -2  | 2   | Blast     |

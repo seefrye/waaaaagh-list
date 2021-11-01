@@ -1,0 +1,1 @@
+| [[Thump Gun]] | 18"   | Assault d3 | 6   | -1  | d3  | Blast     |

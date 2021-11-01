@@ -1,0 +1,1 @@
+| [[Power Klaw]] | Melee | Melee | x2  | -3  | 2   | Each time an attack is made with this weapon, subtract 1 from that attack’s hit roll. | 

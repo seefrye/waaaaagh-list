@@ -1,0 +1,1 @@
+| [[Stikka Melee\|Stikka (Melee)]] | Melee | Melee | +1  | -2  | 2   | -         |

@@ -1,0 +1,1 @@
+| [[Twin Big Shoota]] | 36"   | Dakka 10/6 | 5   | 0   | 1   | -         |

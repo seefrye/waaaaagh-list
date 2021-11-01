@@ -1,0 +1,1 @@
+| [[Stompa Klaw]] | Melee | Melee | x2  | -5  | 9   | Each time an attack made with this weapon, an unmodified wound roll of 4+ inflicts D3 mortal wounds on the target in addition to any normal damage. | 

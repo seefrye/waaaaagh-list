@@ -1,0 +1,1 @@
+| [[Grotzooka1\|Grotzooka]] | 18"   | Heavy 2d3 | 6   | 0   | 1   | Blast     | 

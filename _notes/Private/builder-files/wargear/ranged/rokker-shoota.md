@@ -1,0 +1,1 @@
+| [[Rokker Shoota]] | 24"   | Assault 4 | 4   | -1  | 1   | -         | 

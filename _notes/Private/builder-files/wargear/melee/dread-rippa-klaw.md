@@ -1,0 +1,1 @@
+| [[Dread Rippa Klaw]] | Melee | Melee | x2  | -3  | d3+3 | -         |

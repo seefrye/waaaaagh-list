@@ -1,0 +1,1 @@
+| [[Bursta Cannon]] | 36"   | Heavy 3d6 | 10  | -3  | 3   | Blast. Each time an attack is made with this weapon against a target within half range, add 1 to that attack’s hit roll. | 

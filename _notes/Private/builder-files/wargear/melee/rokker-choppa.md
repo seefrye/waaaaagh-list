@@ -1,0 +1,1 @@
+| [[Rokker Choppa]] | Melee | Melee | +1  | 0   | 1   | Each time the bearer fights, it can make 1 additional attack with this weapon. | 

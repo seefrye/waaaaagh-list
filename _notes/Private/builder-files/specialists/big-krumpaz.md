@@ -1,0 +1,1 @@
+-**[[Big Krumpaz]]:** Each time a BIG KRUMPAZ model makes a melee attack, add 1 to that attack's hit roll.

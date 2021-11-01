@@ -1,0 +1,4 @@
+| [[Krusha Kannon\|Krusha Kannon: Blast burna]]     | 48"   | Heavy 3d6 | 5   | -1  | 1   | Blast.                                                                                             |
+| [[Krusha Kannon\|Krusha Kannon: Boom shell]]      | 60"   | Heavy 2d6 | 8   | -2  | 2   | Blast.                                                                                             |
+| [[Krusha Kannon\|Krusha Kannon: Scrap kanister]]  | 18"   | Heavy 3d6 | 5   | -1  | 1   | Each time an attack is made with this weapon, that attack automatically hits the target.           |
+| [[Krusha Kannon\|Krusha Kannon: Tankhamma shell]] | 60"   | Heavy 1   | 10  | -3  | 6   | Each time an attack is made with this weapon against a VEHICLE unit, you can re-roll the hit roll. | 

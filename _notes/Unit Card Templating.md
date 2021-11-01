@@ -22,8 +22,8 @@ date: 27-10-2021
 > ## Abilitites
 >
 > [[Ere We Go]]
-> [[Waaagh!]]
-> [[Waaagh! Energy]]
+> [[Waaagh]]
+> [[Waaagh Energy]]
 >
 > ## Stats
 >

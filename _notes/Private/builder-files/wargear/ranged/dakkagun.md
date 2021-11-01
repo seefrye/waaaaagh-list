@@ -1,0 +1,1 @@
+| [[Dakkagun1\|Dakkagun]] | 18"   | Dakka 5/3 | 5   | 0   | 1   | -         | 

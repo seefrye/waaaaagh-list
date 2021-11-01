@@ -1,0 +1,1 @@
+-**[[Squig Hound]] - Aura:** While a friendly GRETCHIN INFANTRY unit is within 3" of the bearer, models in that unit ignore modifiers to Combat Attrition tests.

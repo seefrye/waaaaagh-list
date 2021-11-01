@@ -1,0 +1,1 @@
+| [[Grot-guided Bomm]] | 72"   | Heavy 2d6 | 8   | -3  | 2   | Blast. This weapon can target units that are not visible to the bearer. The bearer can only shoot with this weapon once per battle. Each time an attack is made with this weapon, the bearer has a Ballistic Skill characteristic of 2+ for that attack. | 

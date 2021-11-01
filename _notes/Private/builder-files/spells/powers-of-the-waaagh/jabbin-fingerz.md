@@ -1,0 +1,1 @@
+- **[[Jabbin Fingerz\|Jabbin' Fingerz]]:** **Malediction:** _Jabbin’ Fingerz_ has a warp charge value of 6. If manifested, select one enemy unit that is within 18" of this PSYKER and visible to them. Until the start of your next Psychic phase, each time a model in that unit makes an attack, subtract 1 from that attack’s hit roll.

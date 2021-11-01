@@ -1,0 +1,1 @@
+| [[Burna Melee\|Burna (Melee)]] | Melee | Melee | User | -2  | 1   | -         | 

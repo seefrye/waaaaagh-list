@@ -1,0 +1,1 @@
+- **[[Extra-Kustom Weapon]]:** MEK, BIG MEK or Spanner model equipped with kustom mega-slugga or kustom mega-blasta only. Each time this model shoots with a kustom mega-slugga or kustom mega-blasta, make one additional attack with that weapon.

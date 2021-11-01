@@ -1,0 +1,1 @@
+- **[[Souped-up Speshul]]:** BOOMDAKKA SNAZZWAGONS model only. Change the Type of this model’s Mek speshul to Dakka 16/12.

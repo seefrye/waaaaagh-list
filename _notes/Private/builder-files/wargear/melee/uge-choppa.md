@@ -1,0 +1,1 @@
+| [[Uge Choppa\|'Uge Choppa]] | Melee | Melee | +3  | -3  | 2   | -         | 

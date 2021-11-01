@@ -1,0 +1,2 @@
+| [[Kombi Skorcha\\Kombi-skorcha (Skorcha)]]  | 12" | Assault d6 | 5   | -1  | 1   | Each time an attack is made with this weapon profile, that attack automatically hits the target. |
+| [[Kombi Skorcha\|Kombi-skorcha (Shoota)]]]] | 18" | Dakka 3/2  | 4   | 0   | 1   | -                                                                                                |

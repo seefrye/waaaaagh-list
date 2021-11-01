@@ -1,0 +1,1 @@
+| [[Tankbusta Bomb]] | 6"    | Grenade d3 | 8   | -2  | d6  | Blast     | 

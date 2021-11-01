@@ -1,0 +1,1 @@
+| [[Rattler Kannon]] | 24"   | Heavy d6 | 6   | -2  | 1   | -         | 

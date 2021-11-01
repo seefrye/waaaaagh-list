@@ -1,0 +1,6 @@
+| Weapon                              | Range | Type       | S   | AP  | D   | Abilities                                                                                           |
+|:----------------------------------- |:----- |:---------- |:--- |:--- |:--- |:--------------------------------------------------------------------------------------------------- |
+| [[Kopta Rokkits]]                   | 24"   | Heavy 2d3  | 8   | -2  | 3   | Blast                                                                                               |
+| [[Slugga1]]                          | 12"   | Pistol 1   | 4   | 0   | 1   | -                                                                                                   |
+| [[Stikkbombz1]]                      | 8"    | Grenade d6 | 3   | 0   | 1   | Blast                                                                                               |
+| [[Spinnin Blades\|Spinnin' Blades]] | Melee | Melee      | +1  | -1  | 1   | Triple-attack [[Each time an attack is made with this weapon, make 3 hit rolls instead of 1.::srs]] | 

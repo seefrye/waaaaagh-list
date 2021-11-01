@@ -5,6 +5,12 @@ date: 23-10-2021
 klan: Snakebites
 ---
 
+# Brogg's Buzzbomb
+
+---
+
+# Details
+
 SNAKEBITE model only. This Relic has the following profile:
 
  | WEAPON           | RANGE | TYPE        | S   | AP  | D   | Abilities                                                                                                                                                                                                                                                                                                                                               |

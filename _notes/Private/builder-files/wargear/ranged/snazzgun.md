@@ -1,0 +1,1 @@
+| [[Snazzgun1\|Snazzgun]] | 24"   | Heavy 3 | 6   | -2  | 2   | -         | 

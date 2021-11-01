@@ -1,0 +1,1 @@
+| [[Sawn-off Shotgun]] | 12"   | Assault 2 | 4   | 0   | 1   | -         | 

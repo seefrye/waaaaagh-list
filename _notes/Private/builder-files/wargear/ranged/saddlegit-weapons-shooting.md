@@ -1,0 +1,1 @@
+| [[Saddlegit Weapons Shooting\\Saddlegit Weapons (Shooting)]] | 8"    | Assault 1 | 4   | 0   | 1   | -         | 

@@ -1,0 +1,1 @@
+| [[Kopta Rokkits]] | 24"   | Heavy 2d3 | 8   | -2  | 3   | Blast     | 

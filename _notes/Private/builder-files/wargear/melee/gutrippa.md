@@ -1,0 +1,1 @@
+| [[Gutrippa1\|Gutrippa']] | Melee | Melee | +1  | -2  | 3   | -         | 

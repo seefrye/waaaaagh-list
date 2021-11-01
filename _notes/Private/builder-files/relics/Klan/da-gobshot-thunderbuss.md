@@ -1,0 +1,1 @@
+| [[Da Gobshot Thunderbuss]] | 12"   | Heavy 2d6 | 5   | -1  | 1   | Flamer [[Each time an attack is made with this weapon, that attack automatically hits the target.::srs]] |

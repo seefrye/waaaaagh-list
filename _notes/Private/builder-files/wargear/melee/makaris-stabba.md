@@ -1,0 +1,1 @@
+| [[Makaris Stabba\|Makari's Stabba]] | Melee | Melee | User | 0   | 1   | Each time an attack is made with this weapon, an unmodified wound roll of 6 inflicts D3 mortal wounds on the target and the attack sequence ends. | 

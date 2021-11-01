@@ -1,0 +1,1 @@
+| [[Stikkbombz1\|Stikkbombz]] | 8"    | Grenade d6 | 3   | 0   | 1   | Blast     |

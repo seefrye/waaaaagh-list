@@ -1,0 +1,1 @@
+-**[[Might is Right]]:** Add 1 to this WARLORD’s Strength and Attacks characteristics.

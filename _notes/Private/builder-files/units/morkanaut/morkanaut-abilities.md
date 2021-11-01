@@ -1,0 +1,5 @@
+- **[[Big and Stompy\|Big 'n' Stompy]]:** Fall back and charge. Move across models. [[This model is eligible to declare a charge in a turn in which it Fell Back. Each time this model makes a Normal Move, Advances or Falls Back, it can be moved across other models (excluding MONSTER and VEHICLE models) as if they were not there, and when it does so it can be moved within Engagement Range of such models, but cannot finish its move within Engagement Range of any of them.::srs]]
+- **[[Ere We Go]]:** Re-roll charges [[You can re-roll charge rolls made for units with this ability.::srs]]
+- **[[Explodes]]:** 2d6" d6 mortal wounds [[When this transport is destroyed, roll one D6 before any embarked models disembark and before removing it from play. On a 6 it explodes, and each unit within 2D6" suffers D6 mortal wounds.::srs]]
+- **Transport 6**
+- **[[Waaagh\|Waaagh!]]

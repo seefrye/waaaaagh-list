@@ -1,0 +1,1 @@
+| [[Shoota1\|Shoota]] | 18"   | Dakka 3/2 | 4   | 0   | 1   | -         |

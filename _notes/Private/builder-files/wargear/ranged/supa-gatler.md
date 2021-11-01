@@ -1,0 +1,1 @@
+| [[Supa Gatler\|Supa-gatler]] | 48"   | Dakka 24/16 | 7   | -2  | 1   | -         | 

@@ -1,0 +1,1 @@
+| [[Heavy Squig Launcha\|'eavy Squig Launcha]] | 36"   | Assault 2d6 | 5   | -2  | 2   | Blast. This weapon can target units that are not visible to the bearer. |

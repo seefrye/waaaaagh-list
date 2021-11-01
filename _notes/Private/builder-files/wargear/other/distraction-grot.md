@@ -1,0 +1,1 @@
+-**[[Distraction Grot]]:** Once per battle, when the bearer is selected to fight, you can treat models in this unit as if they are within 1" of a terrain feature.

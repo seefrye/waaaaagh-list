@@ -1,0 +1,1 @@
+| [[Rack of Rokkits]] | 24"   | Assault 2 | 8   | -2  | 3   | -         | 

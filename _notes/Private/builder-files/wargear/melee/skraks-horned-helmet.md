@@ -1,0 +1,1 @@
+| [[Skraks Horned Helmet\|Skrak's Horned Helmet]] | Melee | Melee | *   | *   | *   | Each time the bearer fights, it can make 1 additional attack with this weapon and only 1 attack can be made with this weapon. When resolving an attack made with this weapon, if a hit is scored, the target suffers 1 mortal wound and the attack sequence ends. | 

@@ -1,0 +1,7 @@
+- **[[Big Red Button]]:** Advance 6" [[Each time this model Advances, do not make an Advance roll. Instead, until the end of the phase, add 6" to the Move characteristic of this model.::srs]]
+- **[[Dead Tough]]:** 5++ invulnerable
+- **[[Ere We Go]]:** Re-roll charges [[You can re-roll charge rolls made for units with this ability.::srs]]
+- **[[Explodes]]:** 3" 1 mortal wound [[When this model is destroyed, roll one D6 before removing it from play. On a 6 it explodes, and each unit within 3" suffers 1 mortal wound.::srs]]
+- **[[Fuel Mixa Grot]]:** Advance 9" token [[Once per battle, when this model Advances, do not make an Advance roll. Instead, until the end of the phase, add 9" to the Move characteristic of this model.::srs]]
+- **[[Ramshackle]]**
+- **[[Waaagh\|Waaagh!]]**

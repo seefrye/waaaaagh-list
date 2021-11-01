@@ -1,0 +1,1 @@
+-**[[Sneaky Gitz]]:** Each time a SNEAKY GITZ model makes a melee attack, if the target is receiving the benefits of cover, improve the Armour Penetration characteristic of that attack by 1.

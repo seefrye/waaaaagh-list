@@ -4,9 +4,12 @@ created: 2021-10-25
 notetype: nofeed
 tags: wargear
 ---
+
 # Blitz Missiles
 
 ---
+
+# Stats
 
 | Weapon         | Range | Type       | S   | AP  | D   | Abilities |
 | -------------- | ----- | ---------- | --- | --- | --- | --------- |

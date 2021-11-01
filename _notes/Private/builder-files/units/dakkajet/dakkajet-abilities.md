@@ -1,0 +1,6 @@
+- **[[Airborne]]:** Cannot charge, can only _be_ charged by flyers [[You cannot declare a charge with this model, and it can only be chosen as a target of a charge if the unit making the charge can FLY. You can only fight with this model if it is within Engagement Range of any enemy units that can FLY, and this model can only make melee attacks against units that can FLY. Enemy units can only make melee attacks against this model if they can FLY.::srs]]
+- **[[Explodes]]:** 6" d3 moral wounds [[When this model is destroyed, roll one D6 before removing it from play. On a 6 it explodes, and each unit within 6" suffers D3 mortal wounds.::srs]]
+- **[[Hard to Hit]]:** -1 to hit rolls [[Each time a ranged attack is made against this model, subtract 1 from that attack’s hit roll.::srs]]
+- **[[Ramshackle]]**
+- **[[Supersonic]]:** Pivot & move [[Each time this model makes a Normal Move, Advances or Falls Back, first pivot it on the spot up to 90° (this does not contribute to how far the model moves), then move the model straight forwards. It cannot pivot again after the initial pivot.::srs]]
+- **[[Waaagh\|Waaagh!]]**

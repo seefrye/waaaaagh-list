@@ -3,7 +3,7 @@
   "autoPairBrackets": false,
   "readableLineLength": false,
   "alwaysUpdateLinks": true,
-  "promptDelete": false,
+  "promptDelete": true,
   "foldIndent": true,
   "foldHeading": true,
   "smartIndentList": true,
@@ -17,5 +17,6 @@
   "showLineNumber": true,
   "communityThemeSortOrder": "releaseReverse",
   "attachmentFolderPath": "assets",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "trashOption": "local"
 }

@@ -1,0 +1,1 @@
+| [[Rokkit Launcha]] | 24"   | Heavy d3 | 8   | -2  | 3   | Blast     | 

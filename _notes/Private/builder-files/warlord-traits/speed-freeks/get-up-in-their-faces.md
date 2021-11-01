@@ -1,0 +1,1 @@
+-**[[Get Up in their Faces]]:** This WARLORD is eligible to shoot in a turn in which they Fell Back.

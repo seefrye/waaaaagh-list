@@ -5,7 +5,11 @@ date: 23-10-2021
 klan: Bad Moons
 ---
 
+# Da Gobshot Thunderbuss
+
 ---
+
+# Details
 
 BAD MOONS model equipped with a kustom shoota only. This Relic replaces a kustom shoota and has the following profile:
 

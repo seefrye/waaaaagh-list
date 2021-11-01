@@ -1,0 +1,1 @@
+| [[Deff Rolla]] | Melee | Melee | +1  | -2  | 2   | Each time an attack is made with this weapon, treat the bearer as having a Weapon Skill characteristic of 2+. | 

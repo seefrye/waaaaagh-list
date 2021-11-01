@@ -1,0 +1,1 @@
+| [[Saw Blades]] | Melee | Melee | +2  | -2  | 2   | -         | 

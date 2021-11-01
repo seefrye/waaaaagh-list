@@ -1,0 +1,1 @@
+| [[Beast Snagga Klaw]] | Melee | Melee | +4  | -3  | 2   | Each time an attack is made with this weapon, subtract 1 from that attack’s hit roll. | 

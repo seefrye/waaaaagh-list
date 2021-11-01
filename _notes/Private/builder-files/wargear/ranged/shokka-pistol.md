@@ -1,0 +1,1 @@
+| [[Shokka Pistol]] | 6"    | Pistol d3 | 6   | -1  | 1   | Blast. Each time an attack made with this weapon is allocated to a VEHICLE model, that attack has a Damage characteristic of D3. | 

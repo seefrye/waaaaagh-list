@@ -1,0 +1,1 @@
+| [[Stikkbomb Flinga]] | 12"   | Assault 2d6 | 3   | 0   | 1   | Blast     | 

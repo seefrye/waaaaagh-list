@@ -1,0 +1,1 @@
+| [[Huge Tusks]] | Melee | Melee | User | -4  | d3+3 | -         | 

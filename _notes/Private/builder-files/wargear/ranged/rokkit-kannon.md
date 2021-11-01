@@ -1,0 +1,1 @@
+| Rokkit Kannon | 24"   | Heavy 3d3 | 8   | -2  | 3   | Blast     | 

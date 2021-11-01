@@ -13,4 +13,4 @@ tags: wargear
 
 | Weapon              | Range | Type        | S   | AP  | D   | Abilities                                                               |
 | ------------------- | ----- | ----------- | --- | --- | --- | ----------------------------------------------------------------------- |
-| Heavy Squig Launcha | 36"   | Assault 2d6 | 5   | -2  | 2   | Blast. This weapon can target units that are not visible to the bearer. | 
+| Heavy Squig Launcha | 36"   | Assault 2d6 | 5   | -2  | 2   | Blast. This weapon can target units that are not visible to the bearer. |

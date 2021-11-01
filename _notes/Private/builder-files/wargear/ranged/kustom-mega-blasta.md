@@ -1,0 +1,1 @@
+| [[Kustom Mega-Blasta]] | 24"   | Assault d3 | 8   | -3  | d6  | Blast. If any unmodified hit rolls of 1 are made for attacks with this weapon, the bearer suffers 1 mortal wound after shooting this weapon. | 

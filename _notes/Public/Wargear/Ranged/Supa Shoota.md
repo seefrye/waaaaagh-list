@@ -1,13 +1,16 @@
 ---
-title: Supa Shoota
+title:  Supa Shoota
+created: 2021-10-26
 notetype: nofeed
-date: 23-10-2021
+tags: wargear
 ---
 
+# Supa-shoota
+
 ---
+
+# Stats
 
 | Weapon      | Range | Type      | S   | AP  | D   | Abilities |
 | ----------- | ----- | --------- | --- | --- | --- | --------- |
-| Supa Shoota | 36"   | Dakka 6/4 | 6   | -1  | 1   | -         | 
-
----
+| Supa-shoota | 36"   | Dakka 6/4 | 6   | -1  | 1   | -         | 

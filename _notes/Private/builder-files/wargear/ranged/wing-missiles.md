@@ -1,0 +1,1 @@
+| [[Wing Missiles]] | 24"   | Assault 1 | 8   | -2  | 3   | Each time an attack is made with this weapon that targets a VEHICLE unit, add 1 to that attack’s hit roll. |

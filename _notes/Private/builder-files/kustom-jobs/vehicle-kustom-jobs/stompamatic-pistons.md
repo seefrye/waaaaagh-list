@@ -1,0 +1,3 @@
+- **[[Stompamatic Pistons]]:** DEFF DREAD, GORKANAUT or MORKANAUT model only.  
+- Add 3" to this model’s Move characteristic.
+- Add 1 to Advance rolls made for this model.

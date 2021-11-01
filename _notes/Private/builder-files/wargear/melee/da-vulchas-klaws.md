@@ -1,0 +1,1 @@
+| [[Da Vulchas Klaws]] | Melee | Melee | +2  | -3  | 2   | -         | 

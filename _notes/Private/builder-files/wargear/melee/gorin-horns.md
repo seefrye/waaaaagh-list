@@ -1,0 +1,1 @@
+| [[Gorin Horns\|Gorin' Horns]] | Melee | Melee | User | -3  | d6  | -         | 

@@ -1,0 +1,1 @@
+| [[Spinnin Blades\|Spinnin' Blades]] Blades | Melee | Melee | +1  | -1  | 1   | Each time an attack is made with this weapon, make 3 hit rolls instead of 1. |

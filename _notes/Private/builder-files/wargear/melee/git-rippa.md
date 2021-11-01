@@ -1,0 +1,1 @@
+| [[Git Rippa]] | Melee | Melee | x2  | -4  | 2   | When resolving an attack made with this weapon, you can re-roll the wound roll. | 

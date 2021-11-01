@@ -1,0 +1,1 @@
+| [[Slugga1\|Slugga]] | 12"   | Pistol 1 | 4   | 0   | 1   | -         |

@@ -1,0 +1,1 @@
+| [[Deffkannon1\|Deffkannon]] | 72"   | Heavy 3d6 | 10  | -4  | d6  | Blast.    | 

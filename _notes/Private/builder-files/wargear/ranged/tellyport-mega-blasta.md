@@ -1,0 +1,1 @@
+| [[Tellyport Mega-blasta]] | 24"   | Assault d6 | 9   | -2  | d3+3 | Blast     | 

@@ -1,0 +1,1 @@
+-**[[Boom Boyz]]:** Each time a BOOM BOYZ model shoots with a weapon with the Blast ability, improve the Armour Penetration characteristic of that attack by 1.

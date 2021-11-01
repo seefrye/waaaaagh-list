@@ -1,0 +1,1 @@
+| [[Skorcha Missile Racks]] | 36"   | Assault 2d6 | 6   | -2  | 1   | Blast. Each time an attack is made with this weapon, the target does not receive the benefits of cover against that attack. |

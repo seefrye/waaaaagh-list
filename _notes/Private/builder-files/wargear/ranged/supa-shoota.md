@@ -1,0 +1,1 @@
+| [[Supa Shoota\|Supa-shoota]] | 36"   | Dakka 6/4 | 6   | -1  | 1   | -         | 

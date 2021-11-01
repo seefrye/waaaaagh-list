@@ -1,0 +1,1 @@
+| [[Deffstorm Mega-shoota]] | 36"   | Dakka 30/20 | 6   | -1  | 1   | -         | 

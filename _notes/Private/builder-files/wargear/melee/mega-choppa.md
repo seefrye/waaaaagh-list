@@ -1,0 +1,2 @@
+| [[Mega Choppa\|Mega-Choppa (Smash)]]  | Melee | Melee | x2   | -5  | 9   | -                                                                                    |
+| [[Mega Choppa\|Mega-Choppa (Slash)]]  | Melee | Melee | User | -2  | 3   | Each time an attack is made with this weapon profile, make 3 hit rolls instead of 1. | 

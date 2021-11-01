@@ -1,0 +1,1 @@
+| [[Dread Klaw]] | Melee | Melee | x2  | -3  | 3   | Each time the bearer fights, it makes 1 additional attack with this weapon. | 

@@ -1,0 +1,1 @@
+| [[Grot Blaster]] | 12"   | Pistol 1 | 3   | 0   | 1   | -         |

@@ -1,0 +1,1 @@
+| [[Belly Gun]] | 36"   | Heavy 3d6 | 8   | -2  | 2   | Blast     | 

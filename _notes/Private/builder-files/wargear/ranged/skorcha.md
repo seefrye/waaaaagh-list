@@ -1,0 +1,1 @@
+| [[Skorcha1\|Skorcha]] | 12"   | Assault d6 | 5   | -1  | 1   | Each time an attack is made with this weapon profile, that attack automatically hits the target. | 

@@ -1,0 +1,1 @@
+- **[[Nitro Squigs]]:** RUKKATRUKK SQUIGBUGGIES model only. Each time an attack is made with this model’s heavy squig launcha or squig launcha, add 1 to that attack’s wound roll.

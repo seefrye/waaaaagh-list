@@ -1,0 +1,1 @@
+| [[Power Snappa]] | Melee | Melee | +2  | -2  | 2   | -         | 

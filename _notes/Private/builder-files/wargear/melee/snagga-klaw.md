@@ -1,0 +1,1 @@
+| [[Snagga Klaw]] | Melee | Melee | +2  | -2  | 2   | Each time an attack is made with this weapon, you can re-roll the wound roll. | 

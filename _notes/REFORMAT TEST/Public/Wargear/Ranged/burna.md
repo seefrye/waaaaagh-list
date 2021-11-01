@@ -1,1 +1,0 @@
-| Burna | 12"   | Asault d6 | 4   | 0   | 1   | Flamer [[Each time an attack is made with this weapon, that attack automatically hits the target::srs]] | 

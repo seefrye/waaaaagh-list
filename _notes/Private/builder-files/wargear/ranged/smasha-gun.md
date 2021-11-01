@@ -1,0 +1,1 @@
+| [[Smasha Gun]] | 48"   | Heavy d3 | 8   | -4  | d6  | Blast     | 

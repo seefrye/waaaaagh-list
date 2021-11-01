@@ -1,0 +1,1 @@
+| [[Morks Teeth\|Mork's Teeth]] | Melee | Melee | User | -2  | 2   | -         | 

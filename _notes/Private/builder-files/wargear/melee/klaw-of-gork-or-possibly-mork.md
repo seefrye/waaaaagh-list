@@ -1,0 +1,2 @@
+| [[Klaw Of Gork Or Possibly Mork\|Klaw of Gork (or possibly Mork): Crush]] | Melee | Melee | x2   | -4  | 6   | -                                                                                    |
+| [[Klaw Of Gork Or Possibly Mork\|Klaw of Gork (or possibly Mork): Smash]] | Melee | Melee | User | -2  | 2   | Each time an attack is made with this weapon profile, make 3 hit rolls instead of 1. |

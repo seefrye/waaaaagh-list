@@ -1,0 +1,1 @@
+| [[Breacha Ram]] | Melee | Melee | +2  | -2  | 2   | Each time an attack is made with this weapon, the target does not receive the benefits of cover against that attack. | 

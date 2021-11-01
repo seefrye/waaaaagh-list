@@ -1,0 +1,1 @@
+| [[Gorks Klaw\|Gork's Klaw]] | Melee | Melee | x2  | -4  | 4   | -         | 

@@ -1,0 +1,1 @@
+| [[Tellyport Blasta]] | 12"   | Assault d6 | 8   | -2  | 3   | Blast     | 

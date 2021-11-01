@@ -13,4 +13,4 @@ tags: wargear
 
 | Weapon                | Range | Type      | S   | AP  | D   | Abilities |
 | --------------------- | ----- | --------- | --- | --- | --- | --------- |
-| Squiggoth Supa-kannon | 60"   | Heavy 2d6 | 8   | -2  | 3   | Blast     | 
+| Squiggoth Supa-kannon | 60"   | Heavy 2d6 | 8   | -2  | 3   | Blast     |

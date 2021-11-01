@@ -1,0 +1,1 @@
+-**[[Da Badskull Banna]]:** FREEBOOTERZ model only. This Relic may be taken by a VEHICLE model. While an enemy unit is within 6" of the bearer, it loses the ObjectiveSecured ability.

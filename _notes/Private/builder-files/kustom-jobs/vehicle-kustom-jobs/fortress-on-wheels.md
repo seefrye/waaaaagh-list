@@ -1,0 +1,1 @@
+- **[[Fortress on Wheels]]:** TRUKK or WAGON model only. This model has a 5++ invulnerable save.

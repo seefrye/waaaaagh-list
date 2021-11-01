@@ -1,0 +1,1 @@
+| [[Kustom Grot Blasta]] | 12"   | Pistol d3 | 5   | -1  | 2   | -         | 

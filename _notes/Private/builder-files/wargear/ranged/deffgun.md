@@ -1,0 +1,1 @@
+| [[Deffgun1\|Deffgun]] | 48"   | Dakka 3/2 | 7   | -1  | 2   | -         | 

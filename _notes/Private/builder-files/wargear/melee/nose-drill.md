@@ -1,0 +1,1 @@
+| [[Nose Drill]] | Melee | Melee | +2  | -2  | d3  | -         | 

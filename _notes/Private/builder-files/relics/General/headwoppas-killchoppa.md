@@ -1,0 +1,1 @@
+| [[Headwoppas Killchoppa\|Headwoppa’s Killchoppa]] | Melee | Melee | x2  | -3  | 2   | 6s deal 1 mortal wound[[Each time an attack is made with this weapon, an unmodified wound roll of 6 inflicts 1 mortal wound on the target in addition to any normal damage.::srs]] | 

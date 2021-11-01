@@ -1,0 +1,1 @@
+| [[Lobba1\|Lobba]]  | 48"   | Heavy d6 | 5   | 0   | 1   | Blast. This weapon can target units that are not visible to the bearer. | 

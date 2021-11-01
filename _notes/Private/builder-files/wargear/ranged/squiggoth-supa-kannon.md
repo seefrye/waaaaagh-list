@@ -1,0 +1,1 @@
+| [[Squiggoth Supa-kannon]] | 60"   | Heavy 2d6 | 8   | -2  | 3   | Blast     |

@@ -1,0 +1,1 @@
+- **[[Gyroscopic Whirlygig]]:** SHOKKJUMP DRAGSTA model only. Any mortal wounds suffered by this model as a result of its Shokk Tunnel ability are ignored.

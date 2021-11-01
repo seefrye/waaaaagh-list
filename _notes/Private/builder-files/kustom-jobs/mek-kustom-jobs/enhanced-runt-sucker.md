@@ -1,0 +1,1 @@
+- **[[Enhanced Runt-Sucker]]:** BIG MEK equipped with shokk attack gun only. The Type of this model’s shokk attack gun is changed to Heavy 2d3.

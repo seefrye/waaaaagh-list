@@ -1,0 +1,1 @@
+| [[Savage Hoofs And Horns]] | Melee | Melee | +1  | -2  | 3   | Each time the bearer fights, it makes 4 additional attacks with this weapon and no more than 4 attacks can be made with this weapon. | 

@@ -1,0 +1,1 @@
+-**[[Junkboss1\|Junkboss]]:** This WARLORD has a 4+ invulnerable save.

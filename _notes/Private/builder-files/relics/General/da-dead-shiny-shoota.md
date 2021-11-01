@@ -1,0 +1,1 @@
+| [[Da Dead Shiny Shoota]] | 18"   | Dakka 14/10 | 5   | -1  | 2   | -         | 

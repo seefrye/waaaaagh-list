@@ -1,0 +1,1 @@
+| [[Supa Rokkits\|Supa-rokkits]] | 100"  | Heavy d6 | 8   | -3  | d6  | Blast     | 

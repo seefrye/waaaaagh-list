@@ -1,0 +1,1 @@
+| [[Waaagh Banner\|Waaagh! Banner]] | Melee | Melee | +2  | 0   | 2   | -         | 

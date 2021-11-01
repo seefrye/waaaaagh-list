@@ -1,0 +1,1 @@
+| [[Killkannon1\|Killkannon]] | 24"   | Heavy d6 | 8   | -2  | 2   | Blast     | 

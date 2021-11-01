@@ -1,0 +1,1 @@
+-**[[Gitfinda Squig]]:** Each time a ranged attack is made by this model, add 1 to that attack’s hit roll.

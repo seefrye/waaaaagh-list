@@ -1,0 +1,1 @@
+-**[[Da Best Armor Teef Can Buy]]:** This WARLORD has a 4+ invulnerable save. In addition, add 1 to armour saving throws taken for this WARLORD.
