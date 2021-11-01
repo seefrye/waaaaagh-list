@@ -1,6 +1,7 @@
 ---
 title: First Shot at Unit Card Templating
 notetype: feed
+type: post
 date: 27-10-2021
 ---
 
@@ -49,4 +50,4 @@ date: 27-10-2021
 ---
 
 {:.small .serif .oblique}
-Update: I've made some decent progress on this, check out the updates [[Current State of Unit Templating::https://waaaaagh.com/notes/current-state-of-unit-templating]]
+Update: I've made some decent progress on this, check out the updates [[Next State of Unit Templating]]
