@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Array Test.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       },
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/Templater/templates/aaa Iterative Unit Card Builder.md"
+                "file": "Array Test.md"
               }
             }
           },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/Templater/templates/aaa Iterative Unit Card Builder.md",
+                "file": "Array Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,17 +135,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "939231764760a30b",
+  "active": "bec859a7d428a658",
   "lastOpenFiles": [
-    "Private/Templater/templates/aaa Iterative Unit Card Builder.md",
     "Array Test.md",
-    "Private/builder-files/units/gretchin/gretchin-stats.md",
-    "Private/builder-files/wargear/other/kustom-force-field.md",
-    "Private/builder-files/relics/General/beasthide-mantle.md",
-    "Public/Rules/Units/Gretchin.md",
-    "Private/builder-files/units/gretchin/gretchin-abilities.md",
-    "Public/Rules/Relics/General/Beasthide Mantle.md",
-    "Private/builder-files/relics/General/da-killa-klaw.md",
-    "Private/builder-files/relics/General/da-krushin-armour.md"
+    "Private/builder-files/spells/beasthead/squiggly-curse.md",
+    "Private/builder-files/spells/beasthead/spirit-of-gork.md",
+    "Private/builder-files/spells/beasthead/roar-of-mork.md",
+    "Private/builder-files/spells/beasthead/frazzle.md",
+    "Private/builder-files/spells/beasthead/bitin-jawz.md",
+    "Private/builder-files/spells/beasthead/beastscent.md",
+    "Private/builder-files/spells/powers-of-the-waaagh/eadbanger.md",
+    "Private/builder-files/spells/powers-of-the-waaagh/da-krunch.md",
+    "Private/builder-files/spells/powers-of-the-waaagh/da-jump.md"
   ]
 }
