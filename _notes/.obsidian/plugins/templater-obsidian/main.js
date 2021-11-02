@@ -2961,7 +2961,7 @@ class InternalModuleDate extends InternalModule {
     }
 }
 
-const DEPTH_LIMIT = 10;
+const DEPTH_LIMIT = 50;
 class InternalModuleFile extends InternalModule {
     constructor() {
         super(...arguments);

@@ -4,12 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9372e1e4f7f3fd69",
+        "id": "bec859a7d428a658",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Private/Misc/How-to-setup-this-site.md",
+            "file": "Array Test.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "939231764760a30b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Private/Templater/templates/aaa Iterative Unit Card Builder.md",
             "mode": "source"
           }
         }
@@ -39,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ammo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/Misc/How-to-setup-this-site.md"
+                "file": "Private/Templater/templates/aaa Iterative Unit Card Builder.md"
               }
             }
           },
@@ -78,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/Misc/How-to-setup-this-site.md",
+                "file": "Private/Templater/templates/aaa Iterative Unit Card Builder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,19 +132,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "9372e1e4f7f3fd69",
+  "active": "939231764760a30b",
   "lastOpenFiles": [
-    "Private/Misc/How-to-setup-this-site.md",
-    "Private/Misc/how-markdown-is-rendered.md",
-    "Private/Misc/Obsidian integration.md",
-    "Public/Posts/Automated Unit Card Example.md",
-    "Public/Posts/Next State of Unit Templating.md",
-    "Public/Posts/First shot at unit card templating.md",
-    "Private/Templater/templates/aaa Unit Card Template.md",
-    "Private/Misc/How to use the special features.md",
-    "Automated Unit Card2.md",
-    "Public/Rules/Abilities/Waaagh.md"
+    "Private/Templater/templates/aaa Iterative Unit Card Builder.md",
+    "Array Test.md",
+    "Private/builder-files/units/gretchin/gretchin-stats.md",
+    "Private/builder-files/wargear/other/kustom-force-field.md",
+    "Private/builder-files/relics/General/beasthide-mantle.md",
+    "Public/Rules/Units/Gretchin.md",
+    "Private/builder-files/units/gretchin/gretchin-abilities.md",
+    "Public/Rules/Relics/General/Beasthide Mantle.md",
+    "Private/builder-files/relics/General/da-killa-klaw.md",
+    "Private/builder-files/relics/General/da-krushin-armour.md"
   ]
 }
