@@ -1,1 +1,1 @@
--**[[Grot Orderly]]:** Once per battle, if a 1 is rolled when using the bearer’s Sawbonez ability you can re-roll the dice.
+- **[[Grot Orderly]]:** Once per battle, if a 1 is rolled when using the bearer’s Sawbonez ability you can re-roll the dice.

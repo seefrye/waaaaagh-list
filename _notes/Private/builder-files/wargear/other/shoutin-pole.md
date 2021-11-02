@@ -1,1 +1,1 @@
--**[[Shoutin Pole\|Shoutin' Pole]]:** While a WARBOSS model is embarked upon this TRANSPORT, the bearer gains that WARBOSS model’s Warboss, Beastboss or Flashiest Gitz aura ability.
+- **[[Shoutin Pole\|Shoutin' Pole]]:** While a WARBOSS model is embarked upon this TRANSPORT, the bearer gains that WARBOSS model’s Warboss, Beastboss or Flashiest Gitz aura ability.

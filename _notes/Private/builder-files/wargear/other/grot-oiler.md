@@ -1,1 +1,1 @@
--**[[Grot Oiler]]:** Once per battle, when the bearer repairs a VEHICLE model, that model can regain 1 additional lost wound.
+- **[[Grot Oiler]]:** Once per battle, when the bearer repairs a VEHICLE model, that model can regain 1 additional lost wound.

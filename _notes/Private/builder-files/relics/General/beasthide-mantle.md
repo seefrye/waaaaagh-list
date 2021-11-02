@@ -1,3 +1,3 @@
 - **[[Beasthide Mantle]]:** BEAST SNAGGA model only.
     - Add 1 to the bearer’s Attacks characteristic.
-    - Each time the bearer would lose a wound, roll one D6: on a 5+, that wound is not lost.
+    - 5+ Feel no pain [[Each time the bearer would lose a wound, roll one D6: on a 5+, that wound is not lost.::srs]]

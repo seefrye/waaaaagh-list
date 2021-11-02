@@ -17,13 +17,14 @@ spells: smite da-jump da-krunch
 - **[[Ammo Runt]]:** Re-roll token [[Once per battle, when the bearer makes a ranged attack, you can re-roll the hit roll.::srs]]
 - **[[Beasthide Mantle]]:** BEAST SNAGGA model only.
     - Add 1 to the bearer’s Attacks characteristic.
-    - Each time the bearer would lose a wound, roll one D6: on a 5+, that wound is not lost.
--**[[Grot Orderly]]:** Once per battle, if a 1 is rolled when using the bearer’s Sawbonez ability you can re-roll the dice.
-- **[[Kustom Force Field]] - Aura:** While a friendly ORKS unit is within 6" of the bearer, it has a 6+ invulnerable save. The range of this aura ability can never be increased, unless specifically stated otherwise.
+    - 5+ Feel no pain [[Each time the bearer would lose a wound, roll one D6: on a 5+, that wound is not lost.::srs]]
+- **[[Grot Orderly]]:** Once per battle, if a 1 is rolled when using the bearer’s Sawbonez ability you can re-roll the dice.
+- **[[Kustom Force Field]] - Aura:** 6" 6++ invulnerable [[While a friendly ORKS unit is within 6" of the bearer, it has a 6+ invulnerable save. The range of this aura ability can never be increased, unless specifically stated otherwise.::srs]]
 
 ---
 
 ### Stats
+
 | Unit     | M   | WS  | BS  | S   | T   | W   | A   | Ld  | Sv  |
 |:-------- |:--- |:--- |:--- |:--- |:--- |:--- |:--- |:--- |:--- |
 | [[Gretchin]] | 5"  | 5+  | 4+  | 2   | 3   | 1   | 1   | 4   | 7+  |

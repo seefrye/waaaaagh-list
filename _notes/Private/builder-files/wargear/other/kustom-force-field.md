@@ -1,1 +1,1 @@
-- **[[Kustom Force Field]] - Aura:** While a friendly ORKS unit is within 6" of the bearer, it has a 6+ invulnerable save. The range of this aura ability can never be increased, unless specifically stated otherwise.
+- **[[Kustom Force Field]] - Aura:** 6" 6++ invulnerable [[While a friendly ORKS unit is within 6" of the bearer, it has a 6+ invulnerable save. The range of this aura ability can never be increased, unless specifically stated otherwise.::srs]]

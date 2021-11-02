@@ -1,1 +1,1 @@
--**[[Grot lash\|Grot-lash]]: (Aura):** While a friendly GRETCHIN INFANTRY unit is within 3" of any models equipped with a grot-lash, add 1" to the Move characteristic of models in that unit.
+- **[[Grot lash\|Grot-lash]]: (Aura):** While a friendly GRETCHIN INFANTRY unit is within 3" of any models equipped with a grot-lash, add 1" to the Move characteristic of models in that unit.
