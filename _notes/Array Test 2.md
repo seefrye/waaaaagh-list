@@ -41,6 +41,7 @@ spells: smite da-jump da-krunch
 <div class="tablePlated"></div>
 
 {:.table}
+
 | Weapon | Range | Type | S   | AP  | D   | Abilities |
 | ------ | ----- | ---- | --- | --- | --- | --------- |
 | [[Deffkannon1\|Deffkannon]] | 72"   | Heavy 3d6 | 10  | -4  | d6  | Blast.    | 
