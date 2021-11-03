@@ -15,17 +15,17 @@ cssclass: clean-embeds
 <details><summary>**Abilities**</summary><p>
     
 <h3>Abilities</h3>
-<li>**[[Cowardly]]:** -1 to Combat Attrition tests [[Unless a friendly CLAN RUNTHERD model is within 6" of this unit, each time a model in this unit makes a Combat Attrition test, subtract 1 from the result.::srs]]</li>
-<li>**[[Diminutive]]:** +1 to any armour saving throw while receiving the benefits of cover [[Each time a ranged attack is allocated to a model in this unit while it is receiving the benefits ofcover, add an additional 1 to any armour saving throwmade against that attack.::srs]]</li>
-<li>**[[Waaagh\|Waaagh!]]**</li>
-<li>**[[Ammo Runt]]:** Re-roll token [[Once per battle, when the bearer makes a ranged attack, you can re-roll the hit roll.::srs]]</li>
-<li>**[[Beasthide Mantle]]:** BEAST SNAGGA model only.
+<li><b>[[Cowardly]]:</b> -1 to Combat Attrition tests [[Unless a friendly CLAN RUNTHERD model is within 6" of this unit, each time a model in this unit makes a Combat Attrition test, subtract 1 from the result.::srs]]</li>
+<li><b>[[Diminutive]]:</b> +1 to any armour saving throw while receiving the benefits of cover [[Each time a ranged attack is allocated to a model in this unit while it is receiving the benefits ofcover, add an additional 1 to any armour saving throwmade against that attack.::srs]]</li>
+<li><b>[[Waaagh\|Waaagh!]]</b></li>
+<li><b>[[Ammo Runt]]:</b> Re-roll token [[Once per battle, when the bearer makes a ranged attack, you can re-roll the hit roll.::srs]]</li>
+    <li><b>[[Beasthide Mantle]]:</b> BEAST SNAGGA model only.
     <ul><li>Add 1 to the bearer’s Attacks characteristic.</li>
     <li>5+ Feel no pain [[Each time the bearer would lose a wound, roll one D6: on a 5+, that wound is not lost.::srs]]</li></ul></li>
-<li>**[[Grot Orderly]]:** Once per battle, if a 1 is rolled when using the bearer’s Sawbonez ability you can re-roll the dice.</li>
-<li>**[[Kustom Force Field]] - Aura:** 6" 6++ invulnerable [[While a friendly ORKS unit is within 6" of the bearer, it has a 6+ invulnerable save. The range of this aura ability can never be increased, unless specifically stated otherwise.::srs]]</li>
+    <li><b>[[Grot Orderly]]:</b> Once per battle, if a 1 is rolled when using the bearer’s Sawbonez ability you can re-roll the dice.</li>
+<li><b>[[Kustom Force Field]] - Aura:</b> 6" 6++ invulnerable [[While a friendly ORKS unit is within 6" of the bearer, it has a 6+ invulnerable save. The range of this aura ability can never be increased, unless specifically stated otherwise.::srs]]</li>
 </p></details>
-     
+ 
 ---
 
 ### Stats
