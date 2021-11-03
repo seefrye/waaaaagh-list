@@ -4,7 +4,7 @@ user_description: seefrye
 notes_url: "https://waaaaagh.com/"
 profile_pic: /assets/img/skull.jpg
 favicon: /assets/img/miniskull.png
-copyright_name: MIT
+copyright_name: GHAZ
 baseurl: "/notes" # the subpath of your site, e.g. /blog
 url: "https://waaaaagh.com/" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
