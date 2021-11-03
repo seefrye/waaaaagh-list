@@ -1,12 +1,11 @@
 ---
-title: Array Test with Clean Embeds
+title: Array Test 2
 name: The Super Cool Guys
 unit: gretchin
 wargearRanged: deffkannon shokk-attack-gun killkannon
 wargearMelee: gutrippa da-pain-klaw deff-rolla
 abilities: kustom-force-field beasthide-mantle ammo-runt grot-orderly
 spells: smite da-jump da-krunch
-cssclass: clean-embeds
 ---
 
 # The Super Cool Guys
@@ -41,6 +40,7 @@ cssclass: clean-embeds
 <h3>Wargear</h3>
 <div class="tablePlated"></div>
 
+{:.table}
 | Weapon | Range | Type | S   | AP  | D   | Abilities |
 | ------ | ----- | ---- | --- | --- | --- | --------- |
 | [[Deffkannon1\|Deffkannon]] | 72"   | Heavy 3d6 | 10  | -4  | d6  | Blast.    | 

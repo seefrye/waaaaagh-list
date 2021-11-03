@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Array Test with Clean Embeds.md",
+            "file": "Array Test 2.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Array Test with Clean Embeds.md"
+                "file": "Array Test 2.md"
               }
             }
           },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Array Test with Clean Embeds.md",
+                "file": "Array Test 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
   },
   "active": "bec859a7d428a658",
   "lastOpenFiles": [
-    "Array Test with Clean Embeds.md",
+    "Array Test 2.md",
     "Public/Rules/Abilities/Waaagh.md",
     "Array Test.md",
     "Public/Rules/Units/Deffkilla Wartrike.md",

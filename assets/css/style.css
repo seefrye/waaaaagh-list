@@ -256,24 +256,6 @@ hr {
     height: 1px;
 }
 
-div.tablePlated+table {
-    border-spacing: 1px;
-    border-collapse: separate;
-}
-
-div.tablePlated+table td, div.tablePlated+table th {
-    background-color: lightblue;
-}
-
-div.tableGridded+table {
-    border-spacing: 0;
-    border-collapse: collapse;    
-}
-
-div.tableGridded+table td, div.tableGridded+table th {
-    border: solid 1px dodgerblue;
-}
-
 /* Blogposts: Post-heading, Post-subheading, Post-content, Related Posts*/
 
 .site-heading {
