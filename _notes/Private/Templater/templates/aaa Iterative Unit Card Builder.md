@@ -57,6 +57,7 @@
 	var meleeLink = '[[' + meleeTemp + ']]'; %>
 <%- tp.file.include(meleeLink) %>
 <%* }} else {} 
+  //check for spells & add header if present
   if(tp.frontmatter.spells != null) { %>
 ---
 

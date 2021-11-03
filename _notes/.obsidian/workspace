@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Array Test.md",
+            "file": "Array Test with Clean Embeds.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Array Test.md"
+                "file": "Array Test with Clean Embeds.md"
               }
             }
           },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Array Test.md",
+                "file": "Array Test with Clean Embeds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,15 +137,15 @@
   },
   "active": "bec859a7d428a658",
   "lastOpenFiles": [
+    "Array Test with Clean Embeds.md",
     "Array Test.md",
+    "Public/Rules/Units/Deffkilla Wartrike.md",
+    "Private/Templater/templates/aaa Iterative Unit Card Builder.md",
     "Private/builder-files/relics/General/beasthide-mantle.md",
     "Private/builder-files/wargear/other/kustom-force-field.md",
     "Private/builder-files/wargear/other/ammo-runt.md",
     "Private/builder-files/wargear/other/ard-case.md",
     "Private/builder-files/wargear/other/big-bomb.md",
-    "Private/builder-files/wargear/other/bigbomm.md",
-    "Private/builder-files/wargear/other/bomb-squig.md",
-    "Private/builder-files/wargear/other/boom-bomb.md",
-    "Private/builder-files/wargear/other/burna-bombs.md"
+    "Private/builder-files/wargear/other/bigbomm.md"
   ]
 }

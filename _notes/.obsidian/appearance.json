@@ -3,6 +3,6 @@
   "enabledCssSnippets": [
     "clean-embeds"
   ],
-  "translucency": true,
+  "translucency": false,
   "cssTheme": "Dark Moss"
 }

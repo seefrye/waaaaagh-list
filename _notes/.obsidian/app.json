@@ -18,5 +18,7 @@
   "communityThemeSortOrder": "releaseReverse",
   "attachmentFolderPath": "assets",
   "newFileLocation": "current",
-  "trashOption": "local"
+  "trashOption": "local",
+  "useTab": false,
+  "tabSize": 4
 }
