@@ -39,6 +39,7 @@ cssclass: clean-embeds
 <details open><summary><b>Open Here</b></summary>
 
 <h3>Wargear</h3>
+<div class="tableGridded"></div>
 
 | Weapon | Range | Type | S   | AP  | D   | Abilities |
 | ------ | ----- | ---- | --- | --- | --- | --------- |
