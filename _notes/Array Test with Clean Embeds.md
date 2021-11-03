@@ -17,7 +17,7 @@ cssclass: clean-embeds
 <h3>Abilities</h3>
 <li><b>[[Cowardly]]:</b> -1 to Combat Attrition tests [[Unless a friendly CLAN RUNTHERD model is within 6" of this unit, each time a model in this unit makes a Combat Attrition test, subtract 1 from the result.::srs]]</li>
 <li><b>[[Diminutive]]:</b> +1 to any armour saving throw while receiving the benefits of cover [[Each time a ranged attack is allocated to a model in this unit while it is receiving the benefits ofcover, add an additional 1 to any armour saving throwmade against that attack.::srs]]</li>
-<li><b>[[Waaagh\|Waaagh!]]</b></li>
+<li><b>[[Waaagh]]</b></li>
 <li><b>[[Ammo Runt]]:</b> Re-roll token [[Once per battle, when the bearer makes a ranged attack, you can re-roll the hit roll.::srs]]</li>
     <li><b>[[Beasthide Mantle]]:</b> BEAST SNAGGA model only.
     <ul><li>Add 1 to the bearer’s Attacks characteristic.</li>
@@ -36,7 +36,9 @@ cssclass: clean-embeds
 
 ---
 
-### Wargear
+<details open><summary><b>Open Here</b></summary>
+
+<h3>Wargear</h3>
 
 | Weapon | Range | Type | S   | AP  | D   | Abilities |
 | ------ | ----- | ---- | --- | --- | --- | --------- |
@@ -46,6 +48,8 @@ cssclass: clean-embeds
 | [[Da Pain Klaw]] | Melee | Melee | x2  | -4  | d3  | Each time an attack is made with this weapon against an INFANTRY or MONSTER unit, an unmodified hit roll of 6 inflicts 1 mortal wound on the target in addition to the normal damage. | 
 | [[Deff Rolla]] | Melee | Melee | +1  | -2  | 2   | Each time an attack is made with this weapon, treat the bearer as having a Weapon Skill characteristic of 2+. | 
 | [[Gutrippa1\|Gutrippa']] | Melee | Melee | +1  | -2  | 3   | -         | 
+
+</details>
 
 ---
 
