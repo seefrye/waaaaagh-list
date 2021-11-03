@@ -12,7 +12,7 @@ cssclass: clean-embeds
 # The Super Cool Guys
 ## Gretchin
 
-<details><summary>**Abilities**</summary><p>
+<details open><summary><b>Abilities</b></summary><p>
     
 <h3>Abilities</h3>
 <li><b>[[Cowardly]]:</b> -1 to Combat Attrition tests [[Unless a friendly CLAN RUNTHERD model is within 6" of this unit, each time a model in this unit makes a Combat Attrition test, subtract 1 from the result.::srs]]</li>
