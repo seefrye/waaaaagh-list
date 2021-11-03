@@ -36,10 +36,10 @@ cssclass: clean-embeds
 
 ---
 
-<details open><summary><b>Open Here</b></summary>
+<details open><summary><b>Open Here 2</b></summary>
 
 <h3>Wargear</h3>
-<div class="tableGridded"></div>
+{::options parse_block_html="false" /}
 
 | Weapon | Range | Type | S   | AP  | D   | Abilities |
 | ------ | ----- | ---- | --- | --- | --- | --------- |
@@ -50,6 +50,7 @@ cssclass: clean-embeds
 | [[Deff Rolla]] | Melee | Melee | +1  | -2  | 2   | Each time an attack is made with this weapon, treat the bearer as having a Weapon Skill characteristic of 2+. | 
 | [[Gutrippa1\|Gutrippa']] | Melee | Melee | +1  | -2  | 3   | -         | 
 
+{::options parse_block_html="true" /}
 </details>
 
 ---
