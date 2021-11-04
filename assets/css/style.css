@@ -975,7 +975,7 @@ label.margin-toggle:not(.sidenote-number) {
 }
 
 .spaced-rep {
-    font-size: 20px;
+    font-size: 14px;
     display: none;
 }
 
@@ -1003,7 +1003,7 @@ label.srs-toggle {
     border-radius: 5px;
     box-shadow: 1px 1px 15px #cfcfcf;
     word-wrap:break-word;
-    font-size: 20px;
+    font-size: 14px;
 }
 
 .related {
