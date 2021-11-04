@@ -34,5 +34,5 @@ wargearRanged: supa-shoota twin-big-shoota
 
 | Weapon | Range | Type | S   | AP  | D   | Abilities |
 | ------ | ----- | ---- | --- | --- | --- | --------- |
-| [[Supa Shoota\|Supa-shoota]] | 36"   | Dakka 6/4 | 6   | -1  | 1   | -         | 
+| [[Supa Shoota\|Supa-shoota]] x2 | 36"   | Dakka 6/4 | 6   | -1  | 1   | -         | 
 | [[Twin Big Shoota]] | 36"   | Dakka 10/6 | 5   | 0   | 1   | -         |
