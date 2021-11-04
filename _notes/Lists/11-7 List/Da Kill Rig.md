@@ -14,12 +14,12 @@ spells: bitin-jawz spirit-of-gork
 - **[[Beast Snagga]]** +1 to hit VEHICLE/MONSTERs [[Each time a model with this ability makes an attack that targets a VEHICLE or MONSTER, add 1 to that attack’s hit roll; Every model in this unit has a 6++ invulnerable save::srs]]
 - **[[Ere We Go\|'Ere We Go!]]:** Re-roll charges [[You can re-roll charge rolls made for units with this ability.::srs]]
 - **[[Explodes]]:** 3" d3 mortal wounds [[When this transport is destroyed, roll one D6 before any embarked models disembark and before removing it from play. On a 6 it explodes, and each unit within 3" suffers D3 mortal wounds.::srs]]
-- **[[Open Topped\|Open-topped]]
-- **Psyker** Know 2 from #beasthead + smite, cast 2, deny 2 [[This model can attempt to manifest two psychic powers in your Psychic phase and attempt to deny one psychic power in your opponent’s Psychic phase. It knows Smite and two psychic powers from the Beasthead discipline.::srs]]
+- **[[Open Topped\|Open-topped]]**
+- **Psyker** Know 2 from #beasthead + smite, cast 2, deny 1 [[This model can attempt to manifest two psychic powers in your Psychic phase and attempt to deny one psychic power in your opponent’s Psychic phase. It knows Smite and two psychic powers from the Beasthead discipline.::srs]]
 - **[[Ramshackle]]**
 - **[[Snagged]]:** Stikka kannon snags VEHICLE/MONSTERs on 4+[[Each time this model makes an attack with its stikka kannon, if an enemy VEHICLE or MONSTER model (excluding TITANIC or AIRCRAFT models) loses any wounds as a result of that attack, roll one D6: on a 4+, that enemy model cannot finish any type of move more than 12" from this model until the start of your next turn. If this model moves for any reason, or is destroyed, this effect ends.::srs]]
 - **Transport 10**
-- **[[Waaagh\|Waaagh!]]
+- **[[Waaagh\|Waaagh!]]**
 - **[[Scorched Gitbonez]]:** +1 to witchfire, 4+ feel no pain vs. Perils of the Warp. [[Each time the bearer attempts to manifest a Witchfire psychic power, add 1 to the Psychic test. Each time the bearer would lose a wound as a result of suffering Perils of the Warp, roll one D6: on a 4+, that wound is not lost.::srs]]
 
 ---

@@ -13,7 +13,7 @@ date : 21-10-2021
 - **[[Ere We Go\|'Ere We Go!]]:** Re-roll charges [[You can re-roll charge rolls made for units with this ability.::srs]]
 - **[[Smasha Head]]** Deal mortal wounds after charging [[Each time this model finishes a charge move or Heroic Intervention move, select one enemy unit that is within Engagement Range of this model and roll five D6; for each result of 4+, that enemy unit suffers 1 mortal wound.::srs]]
 - **[[Squigboss]]** No force org slot needed with Squighog Boyz [[For each \<CLAN> SQUIGHOG BOYZ unit included in a Detachment, up to two \<CLAN> NOB ON SMASHA SQUIG units can be included in that Detachment without taking up any Battlefield Role slots.::srs]]
-- **[[Waaagh\|Waaagh!]]
+- **[[Waaagh\|Waaagh!]]**
 
 ## Stats
 

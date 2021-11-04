@@ -3,6 +3,6 @@
 - **[[Explodes]]:** 6" d3 mortal wounds
 - **[[Grot Gunner]]:** +1 to hit with Twin Big Shoota [[Each time this model makes an attack with a twin big shoota, add 1 to that attack’s hit roll.::srs]]
 - **[[Hard to Hit]]:** -1 to hit [[Each time a ranged attack is made against this model, subtract 1 from that attack’s hit roll.::srs]]
-- **[[Ramshackle]]
+- **[[Ramshackle]]**
 - **[[Supersonic]]:** Pivot and move [[Each time this model makes a Normal Move, Advances or Falls Back, first pivot it on the spot up to 90 degress (this does not contribute to how far the model moves), then move the model straight fowards. It cannot pivot again after the initial pivot.::srs]]
 - **[[Waaagh\|Waaagh!]]**
