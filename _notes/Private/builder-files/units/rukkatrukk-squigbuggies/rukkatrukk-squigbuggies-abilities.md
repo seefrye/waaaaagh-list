@@ -1,0 +1,6 @@
+- **[[Ere We Go\|'Ere We Go!]]:** Re-roll charges [[You can re-roll charge rolls made for units with this ability.::srs]]
+- **[[Explodes]]:** 3" d3 mortal wounds
+- **[[Grot Gunner]]:** +1 to hit with Heavy Squig Launcha [[Each time this model makes an attack with a Heavy Squig Launcha, add 1 to that attack’s hit roll.::srs]]
+- **[[Ramshackle]]
+- **[[Riding Shotgun]]:** Can use grenades and other weapons [[Each time a model in this unit shoots, it can shoot with Grenade and Pistol weapons in addition to any other weapon types.::srs]]
+- **[[Waaagh\|Waaagh!]]**

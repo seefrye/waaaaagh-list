@@ -2,8 +2,8 @@
   if (tp.frontmatter.unit != null) { var unitRaw = tp.frontmatter.unit;
   } else { var unitRaw = await tp.system.prompt('unit'); }
   let unit = tp.user.kebabCase(unitRaw);
-    let abilities = tp.frontmatter.abilities.split(' ');
-      abilities.sort();
+  if (tp.frontmatter.abilities != null) { var abilities = tp.frontmatter.abilities.split(' ');
+    abilities.sort(); } else {}
   var unitA = unit + '-abilities';
   var uaLink = '[[' + unitA + ']]';
   var unitS = unit + '-stats';
@@ -17,13 +17,14 @@
 <% tp.file.include(uaLink) -%>
 <%*
   //adds all non-base abilities (warlord traits, upgrades, etc)
+  if (tp.frontmatter.abilities != null) {
   let abilitiesLength = abilities.length;
   for(var i=0; i<abilitiesLength; i++) {
   	var abilitiesTemp = abilities[i];
 	var abilitiesLink = '[[' + abilitiesTemp + ']]'; 
 %>
 <%- tp.file.include(abilitiesLink) %>
-<%* } %>
+<%* }} else {} %>
 ---
 
 ### Stats

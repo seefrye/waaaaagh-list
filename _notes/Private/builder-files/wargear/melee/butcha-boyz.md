@@ -1,1 +1,1 @@
-| [[Butcha Boyz]] | Melee | Melee | 5   | -1  | 1   | Each time the bearer fights, it makes 4 additional attacks with this weapon and no more than 4 attacks can be made with this weapon. | 
+| [[Butcha Boyz]] | Melee | Melee | 5   | -1  | 1   | Four free attacks [[Each time the bearer fights, it makes 4 additional attacks with this weapon and no more than 4 attacks can be made with this weapon.::srs]] | 

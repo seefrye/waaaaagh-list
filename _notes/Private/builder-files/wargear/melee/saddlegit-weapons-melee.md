@@ -1,1 +1,1 @@
-| [[Saddlegit Weapons Melee\|Saddlegit Weapons (Melee)]] | Melee | Melee | 3   | -1  | 1   | Each time the bearer fights, it makes 1 additional attack with this weapon. | 
+| [[Saddlegit Weapons Melee\|Saddlegit Weapons (Melee)]] | Melee | Melee | 3   | -1  | 1   | One bonus attack [[Each time the bearer fights, it makes 1 additional attack with this weapon.::srs]] | 
