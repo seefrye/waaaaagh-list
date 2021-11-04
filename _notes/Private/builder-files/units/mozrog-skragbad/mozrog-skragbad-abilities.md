@@ -3,4 +3,4 @@
 - **[[Ere We Go]]:** Re-roll charges [[You can re-roll charge rolls made for units with this ability.::srs]]
 - **[[Thick Hide]]:** -1 damage [[Each time an attack is allocated this model, subtract 1 from the Damage characteristic of that attack (to a minimum of 1).::srs]]
 - **[[Tougher than a Rok Squig]]:** 4++ invulnerable save
-- **[[Waaagh\|Waaagh!]]
+- **[[Waaagh\|Waaagh!]]**

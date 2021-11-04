@@ -15,7 +15,7 @@ abilities: surly-as-a-squiggoth
 - **[[Ere We Go]]:** Re-roll charges [[You can re-roll charge rolls made for units with this ability.::srs]]
 - **[[Thick Hide]]:** -1 damage [[Each time an attack is allocated this model, subtract 1 from the Damage characteristic of that attack (to a minimum of 1).::srs]]
 - **[[Tougher than a Rok Squig]]:** 4++ invulnerable save
-- **[[Waaagh\|Waaagh!]]
+- **[[Waaagh\|Waaagh!]]**
 - **[[Surly as a Squiggoth]]:** First time he dies, on a 4+ he comes back with d3 wounds [[The first time this WARLORD is destroyed, you can choose to roll one D6 at the end of the phase instead of using any rules that are triggered when a model is destroyed (e.g. the Orks is Never Beaten Stratagem). If you do so, then on a 4+, set this WARLORD back up on the battlefield as close as possible to where they were destroyed and not within Engagement Range of any enemy models, with D3 wounds remaining.::srs]]
 
 ---
