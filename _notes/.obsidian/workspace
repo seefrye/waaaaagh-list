@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Public/Rules/Units/Rukkatrukk Squigbuggies.md",
+            "file": "Lists/11-7 List/Da List!.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Public/Rules/Units/Rukkatrukk Squigbuggies.md"
+                "file": "Lists/11-7 List/Da List!.md"
               }
             }
           },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Public/Rules/Units/Rukkatrukk Squigbuggies.md",
+                "file": "Lists/11-7 List/Da List!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,15 +137,15 @@
   },
   "active": "44055a4c984210a0",
   "lastOpenFiles": [
+    "Lists/11-7 List/Da List!.md",
+    "Lists/11-7 List/Da Squigbuggy.md",
     "Public/Rules/Units/Rukkatrukk Squigbuggies.md",
     "Public/Rules/Units/Wurrboy.md",
     "Public/Rules/Units/Weirdboy.md",
     "Public/Rules/Units/Squighog Boyz.md",
     "Private/builder-files/units/squighog-boyz/squighog-boyz-abilities.md",
     "Lists/11-7 List/The Squigboyz.md",
-    "Lists/11-7 List/Da List!.md",
     "Lists/11-7 List/Mozrog Nidsmasha.md",
-    "Public/Rules/Units/Mozrog Skragbad.md",
-    "Public/Rules/Units/Burna Bommer.md"
+    "Public/Rules/Units/Mozrog Skragbad.md"
   ]
 }
