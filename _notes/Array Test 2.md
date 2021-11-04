@@ -35,12 +35,7 @@ spells: smite da-jump da-krunch
 
 ---
 
-<details open><summary><b>Open Here 3</b></summary>
-
-<h3>Wargear</h3>
-<div class="tablePlated"></div>
-
-{:.table}
+### Wargear
 
 | Weapon | Range | Type | S   | AP  | D   | Abilities |
 | ------ | ----- | ---- | --- | --- | --- | --------- |
@@ -50,8 +45,6 @@ spells: smite da-jump da-krunch
 | [[Da Pain Klaw]] | Melee | Melee | x2  | -4  | d3  | Each time an attack is made with this weapon against an INFANTRY or MONSTER unit, an unmodified hit roll of 6 inflicts 1 mortal wound on the target in addition to the normal damage. | 
 | [[Deff Rolla]] | Melee | Melee | +1  | -2  | 2   | Each time an attack is made with this weapon, treat the bearer as having a Weapon Skill characteristic of 2+. | 
 | [[Gutrippa1\|Gutrippa']] | Melee | Melee | +1  | -2  | 3   | -         | 
-
-</details>
 
 ---
 
