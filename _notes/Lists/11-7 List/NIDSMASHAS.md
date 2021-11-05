@@ -6,7 +6,7 @@ notetype: feed
 ---
 
 # Allies
-- **[[Nasty Humies\|Nasty 'umies]]
+- **[[Nasty Humies\|Nasty 'umies]]**
 
 # Klan Kultur
 **[[Snakebites1\|Snakebites]]: Da Old Ways**
