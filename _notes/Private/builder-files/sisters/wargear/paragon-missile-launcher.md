@@ -1,0 +1,2 @@
+| [[Paragon Missile Launcher\|Paragon Missile Launcher (Sanctorum)]] | 36"   | Heavy 2d6 | 4    | 0   | 1   | Blast  |   
+| [[Paragon Missile Launcher\|Paragon Missile Launcher (Prioris)]]   | 36"   | Heavy 2   | 8    | -2  | d6  | -|  

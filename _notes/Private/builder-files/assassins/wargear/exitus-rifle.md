@@ -1,0 +1,1 @@
+| [[Exitus Rifle]]  | 72"   | Heavy 1    | 5   | -3  | d3  | Denies invulnerable saves; wounds INFANTRY on 2+ [[When resolving an attack made with this weapon, an invulnerable saving throw cannot be made. Attacks made with this weapon wound INFANTRY units on a 2+.::srs]] |

@@ -1,0 +1,1 @@
+| [[Private/builder-files/orks/wargear/melee/beastchoppa]] | Melee | Melee | User | -2  | 2   | Each time the bearer fights, it makes 1 additional attack with this weapon. | 

@@ -1,0 +1,2 @@
+| [[Lance of Illumination\|Lance of Illumination (Sweeping Blow)]]   | Melee | Melee     | User | -2  | 1   | Each time an attack is made with this weapon profile, make 2 hit rolls instead of 1. | 
+| [[Lance of Illumination\|Lance of Illumination (Lunging Strike)]]  | Melee | Melee     | +3   | -3  | 3   | Each time an attack is made with this weapon profile, on an unmodified wound roll of 6, the target suffers 1 mortal wound in addition to the normal damage. | 

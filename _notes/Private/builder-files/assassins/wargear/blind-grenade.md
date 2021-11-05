@@ -1,0 +1,1 @@
+| [[Blind Grenade]] | 12"   | Grenade d6 | *   | *   | *   | Blast. No damage, affected units get -1 to hit rolls [[This weapon does not inflict any damage (do not make any wound rolls). Instead, if a unit is hit by any blind grenades, subtract 1 from all hit rolls for attacks made by that unit until the end of the turn.::srs]] | 

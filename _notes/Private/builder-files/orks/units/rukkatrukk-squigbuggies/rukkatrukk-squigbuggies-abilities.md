@@ -1,0 +1,7 @@
+- **[[Ere We Go\|'Ere We Go!]]:** Re-roll charges [[You can re-roll charge rolls made for units with this ability.::srs]]
+- **[[Explodes]]:** 3" d3 mortal wounds
+- **[[Grot Gunner]]:** +1 to hit with Heavy Squig Launcha [[Each time this model makes an attack with a Heavy Squig Launcha, add 1 to that attack’s hit roll.::srs]]
+- **[[Ramshackle]]
+- **[[Riding Shotgun]]:** Can use grenades and other weapons [[Each time a model in this unit shoots, it can shoot with Grenade and Pistol weapons in addition to any other weapon types.::srs]]
+- **[[Squig Mine]]:** One use, 6", deal mortal wounds to a VEHICLE [[Once per turn, at the end of your Movement phase, if this unit has any squig mines remaining, this unit can release one. Select one enemy VEHICLE unit that is within 6" of this unit and roll one D6: on a 3-5, that unit suffers D3 mortal wounds. On a 6, that unit suffers D6 mortal wounds instead. The number of squig mines this unit is equipped with is then reduced by 1.::srs]]
+- **[[Waaagh\|Waaagh!]]**
