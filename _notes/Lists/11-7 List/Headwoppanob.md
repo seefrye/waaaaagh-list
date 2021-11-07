@@ -3,11 +3,11 @@ title: Headwoppanob
 name: Headwoppanob
 unit: nob-on-smasha-squig
 wargearRanged: slugga
-wargearMelee: headwoppas-killchoppa smasha-squig-jaws
+wargearMelee: headwoppas-killchoppa smasha-squig-jaws big-choppa
 abilities: 
 ---
 
-# Squignob
+# Headwoppanob
 ## Nob On Smasha Squig
 ### Abilities
 - **[[Beast Snagga]]** +1 to hit VEHICLE/MONSTERs [[Each time a model with this ability makes an attack that targets a VEHICLE or MONSTER, add 1 to that attack’s hit roll; Every model in this unit has a 6++ invulnerable save::srs]]
@@ -32,5 +32,6 @@ abilities:
 | Weapon | Range | Type | S   | AP  | D   | Abilities |
 | ------ | ----- | ---- | --- | --- | --- | --------- |
 | [[Slugga1\|Slugga]] | 12"   | Pistol 1 | 4   | 0   | 1   | -         |
+| [[Big Choppa]] | Melee | Melee | +2  | -1  | 2   | -         | 
 | [[Headwoppas Killchoppa\|Headwoppa’s Killchoppa]] | Melee | Melee | x2  | -3  | 2   | Deal one extra mortal wound on 6s to wound [[Each time an attack is made with this weapon, an unmodified wound roll of 6 inflicts 1 mortal wound on the target in addition to any normal damage.::srs]] | 
 | [[Smasha Squig Jaws]] | Melee | Melee | 6   | -1  | 2   | Two free attacks [[Each time the bearer fights, it makes 2 additional attacks with this weapon and no more than 2 attacks can be made with this weapon.::srs]] | 

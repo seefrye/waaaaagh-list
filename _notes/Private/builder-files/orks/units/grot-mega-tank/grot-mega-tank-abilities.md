@@ -1,4 +1,4 @@
 - **[[Ere We Go\|'Ere We Go!]]:** Re-roll charges [[You can re-roll charge rolls made for units with this ability.::srs]]
 - **[[Explodes]]:** 6" d3 mortal wounds [[When this model is destroyed, roll one D6 before removing it from play. On a 6 it explodes, and each unit within 6" suffers D3 mortal wounds.::srs]]
 - **[[Ramshackle]]**
-- **[[Waaagh\|Waaagh!]]
+- **[[Waaagh\|Waaagh!]]**

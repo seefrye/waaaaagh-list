@@ -2,4 +2,4 @@
 - **[[Ere We Go]]:** Re-roll charges [[You can re-roll charge rolls made for units with this ability.::srs]]
 - **[[Explodes]]:** 2d6" d6 mortal wounds [[When this transport is destroyed, roll one D6 before any embarked models disembark and before removing it from play. On a 6 it explodes, and each unit within 2D6" suffers D6 mortal wounds.::srs]]
 - **Transport 6**
-- **[[Waaagh\|Waaagh!]]
+- **[[Waaagh\|Waaagh!]]**

@@ -14,22 +14,22 @@ notetype: feed
 - SQUIGs get +1 to wound if they charged [[Each time a SQUIG model with this kultur makes a melee attack, if that model’s unit made a charge move or performed a Heroic Intervention this turn, add 1 to that attack’s wound roll.::srs]]
 
 # HQ
-[[Mozrog Nidsmasha\|Mozrog 'nidsmasha]], Warlord
+- [[Mozrog Nidsmasha\|Mozrog 'nidsmasha]], Warlord
 
 # Troops
-[[Nid Snagga Boyz\|'nid Snagga Boyz]]
+- [[Nid Snagga Boyz\|'nid Snagga Boyz]]
 
 # Fast Attack
 - [[Da Squigboyz]]
 - [[Headwoppanob\|Headwoppa Squignob]]
-- [[Beasthidenob\|Beasthide Mantle Nob]]
+- [[Headwoppanob\|Squignob]]
 
 # Heavy Support
 - [[Da Kill Rig]]
 - [[Mek Gun]]
 
 # Flyer
-[[Da Burna-Bommerz]] (x2)
+- [[Da Burna-Bommerz]] (x2)
 
 # Strategy
 - Keep SQUIGs within 6" of Kill Rig to get extra damage
@@ -43,3 +43,4 @@ notetype: feed
     - Mozrog deals bonkers mortal wounds in combat, even more so if he gets buffed by the Kill Rig
 - All the BEAST SNAGGAs get +1 to hit against MONSTERs, so the deathstar will want to crash from the biggest bug to the next biggest bug
     - We may want to consider going second, if given the choice. That would have us much more likely to successfully charge turn 1
+- Squigs get +1 to wound after charging, so try to charge first

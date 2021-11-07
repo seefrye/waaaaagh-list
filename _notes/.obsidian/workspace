@@ -21,7 +21,7 @@
           "type": "markdown",
           "state": {
             "file": "Lists/11-7 List/Da Kill Rig.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -50,9 +50,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "da list!",
+                "query": "headwoppa",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -138,13 +138,13 @@
   "lastOpenFiles": [
     "Lists/11-7 List/NIDSMASHAS.md",
     "Lists/11-7 List/Da Kill Rig.md",
+    "Public/Orks/Units/Kill Rig.md",
+    "Private/builder-files/orks/units/kill-rig/kill-rig-stats.md",
+    "Private/builder-files/orks/units/kill-rig/kill-rig-abilities.md",
     "Lists/11-7 List/Headwoppanob.md",
-    "Lists/11-7 List/Mozrog Nidsmasha.md",
-    "Lists/11-7 List/Da Squigbuggy.md",
-    "Lists/11-7 List/Nid Snagga Boyz.md",
-    "Lists/11-7 List/Da Squigboyz.md",
-    "Lists/11-7 List/Beasthidenob.md",
-    "Lists/11-7 List/Mek Gun.md",
-    "Private/builder-files/orks/units/mek-gunz/mek-gunz-abilities.md"
+    "Public/Orks/Units/Weirdboy.md",
+    "Private/builder-files/orks/units/wurrboy/wurrboy-abilities.md",
+    "Public/Orks/Units/Wurrboy.md",
+    "Private/builder-files/orks/units/weirdboy/weirdboy-abilities.md"
   ]
 }

@@ -20,18 +20,18 @@ spells: bitin-jawz spirit-of-gork
 - **[[Snagged]]:** Stikka kannon snags VEHICLE/MONSTERs on 4+[[Each time this model makes an attack with its stikka kannon, if an enemy VEHICLE or MONSTER model (excluding TITANIC or AIRCRAFT models) loses any wounds as a result of that attack, roll one D6: on a 4+, that enemy model cannot finish any type of move more than 12" from this model until the start of your next turn. If this model moves for any reason, or is destroyed, this effect ends.::srs]]
 - **Transport 10**
 - **[[Waaagh\|Waaagh!]]**
-- **[[Beastgob1\|Beastgob]]:** +1 damage for Squig jaw weapons within 6" [[While a friendly \<CLAN> SQUIG unit is within 6" of this WARLORD, each time a model in that unit makes a melee attack with squighog jaws, smasha squig jaws or a squigosaur's jaws, add 1 to that attack's Damage characteristic.::srs]]
+-**[[Beastgob1\|Beastgob]]:** +1 damage for Squig jaw weapons within 6" [[While a friendly \<CLAN> SQUIG unit is within 6" of this WARLORD, each time a model in that unit makes a melee attack with squighog jaws, smasha squig jaws or a squigosaur's jaws, add 1 to that attack's Damage characteristic.::srs]]
 - **[[Scorched Gitbonez]]:** +1 to witchfire, 4+ feel no pain vs. Perils of the Warp. [[Each time the bearer attempts to manifest a Witchfire psychic power, add 1 to the Psychic test. Each time the bearer would lose a wound as a result of suffering Perils of the Warp, roll one D6: on a 4+, that wound is not lost.::srs]]
 
 ---
 
 ### Stats
 
-| Unit             | M   | WS  | BS  | S   | T   | W   | A   | Ld  | Sv  |
-|:---------------- |:--- |:--- |:--- |:--- |:--- |:--- |:--- |:--- |:--- |
-| [[Kill Rig]] 9+  | 12" | 3+  | 5+  | 6   | 8   | 16  | 6   | 7   | 3+/6++  |
-| [[Kill Rig]] 5-8 | 9"  | 3+  | 5+  | 5   | 8   | N/A | d6  | 7   | 3+/6++  |
-| [[Kill Rig]] 1-4 | 6"  | 3+  | 5+  | 4   | 8   | N/A | d3  | 7   | 3+/6++  |
+| Unit         | M   | WS  | BS  | S   | T   | W    | A   | Ld  | Sv  |
+|:------------ |:--- |:--- |:--- |:--- |:--- |:---- |:--- |:--- |:--- |
+| [[Kill Rig]] | 12" | 3+  | 5+  | 6   | 8   | 9-16 | 6   | 7   | 3+  |
+| [[Kill Rig]] | 9"  | 3+  | 5+  | 5   | 8   | 5-8  | d6  | 7   | 3+  |
+| [[Kill Rig]] | 6"  | 3+  | 5+  | 4   | 8   | 1-4  | d3  | 7   | 3+  |
 
 ---
 
