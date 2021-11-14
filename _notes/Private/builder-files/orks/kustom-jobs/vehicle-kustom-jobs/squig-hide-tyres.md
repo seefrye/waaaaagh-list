@@ -1,3 +1,1 @@
-- **[[Squig-hide Tyres]]:** VEHICLE model only (excluding WALKERS and AIRCRAFT).  
- - Add 1" to this model's Move characteristic.  
- - Each time this model Advances, add an additional 2" to this model's Move characteristic.
+- **[[Squig-hide Tyres]]:** +1" move, +3" advance **FACTOR THIS IN AND DELETE THIS NOTE** [[VEHICLE model only (excluding WALKERS and AIRCRAFT). Add 1" to this model's Move characteristic. Each time this model Advances, add an additional 2" to this model's Move characteristic.::srs]]

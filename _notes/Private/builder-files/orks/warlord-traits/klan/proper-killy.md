@@ -1,3 +1,1 @@
--**[[Proper Killy]]:** 
-- Add 1 to this WARLORD’s Attacks characteristic.
-- Each time this WARLORD makes a melee attack, improve the Armour Penetration characteristic of that attack by 1.
+-**[[Proper Killy]]:** +1 attack, +1 AP for melee attacks [[Add 1 to this WARLORD’s Attacks characteristic; Each time this WARLORD makes a melee attack, improve the Armour Penetration characteristic of that attack by 1.::srs]] FACTOR THIS INTO STATS AND DELETE THIS NOTE

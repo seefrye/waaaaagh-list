@@ -1,0 +1,5 @@
+- **[[Ere We Go\|'Ere We Go!]]:** Re-roll charges [[You can re-roll charge rolls made for units with this ability.::srs]]
+- **[[Explodes]]:** 6", d3 mortal wounds
+- **[[Open Topped]]**
+- **[[Ramshackle]]**
+- **[[Waaagh\|Waaagh!]]**

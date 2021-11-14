@@ -1,0 +1,4 @@
+- **[[Explodes]]:** 3", 1 mortal wound
+- **[[Ramshackle]]**
+- **Scrag 'em:** +1 attacks with 3+ models remaining
+- **[[Waaagh\|Waaagh!]]**

@@ -2,7 +2,6 @@
 title: Deffkilla Wartrike
 notetype: nofeed
 date: 23-10-2021
-cssclass: clean-embeds
 ---
 # Deffkilla Wartrike
 #character #vehicle #speed-freeks #speedboss #deffkilla-wartrike

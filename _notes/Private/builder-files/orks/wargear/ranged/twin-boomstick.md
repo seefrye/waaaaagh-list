@@ -1,0 +1,1 @@
+| Twin Boomstick | 12"   | Assault 2 | 5   | 0   | 1   | -         |

@@ -1,3 +1,1 @@
--**[[Supa-Cybork Body]]:** INFANTRY model only.
->-   This model has a 4+ invulnerable save.
->-   Each time an attack is allocated to this model, halve the Damage characteristic of that attack.
+- **[[Supa-Cybork Body]]:** 4++ and half damage [[INFANTRY model only. This model has a 4+ invulnerable save; Each time an attack is allocated to this model, halve the Damage characteristic of that attack.::srs]]
