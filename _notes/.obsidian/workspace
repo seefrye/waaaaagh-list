@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lists/11-14 Great Waaagh/Wartrike.md",
+            "file": "Lists/11-14 Great Waaagh/Da Great Waaagh!.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lists/11-14 Great Waaagh/Wartrike.md"
+                "file": "Lists/11-14 Great Waaagh/Da Great Waaagh!.md"
               }
             }
           },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lists/11-14 Great Waaagh/Wartrike.md",
+                "file": "Lists/11-14 Great Waaagh/Da Great Waaagh!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,6 +137,8 @@
   },
   "active": "1587282bc42331ea",
   "lastOpenFiles": [
+    "Lists/11-14 Great Waaagh/Da Great Waaagh!.md",
+    "Private/builder-files/orks/kulturs/goffs.md",
     "Lists/11-14 Great Waaagh/Wartrike.md",
     "Lists/11-14 Great Waaagh/Fing One.md",
     "Lists/11-14 Great Waaagh/Da Trukk.md",
@@ -144,8 +146,6 @@
     "Private/builder-files/orks/spells/powers-of-the-waaagh/fists-of-gork.md",
     "Private/builder-files/orks/spells/powers-of-the-waaagh/jabbin-fingerz.md",
     "Lists/11-14 Great Waaagh/Da Boyz.md",
-    "Lists/11-14 Great Waaagh/Da Great Waaagh!.md",
-    "Private/builder-files/orks/warlord-traits/klan/surly-as-a-squiggoth.md",
-    "Private/builder-files/orks/warlord-traits/klan/proper-killy.md"
+    "Private/builder-files/orks/warlord-traits/klan/surly-as-a-squiggoth.md"
   ]
 }

@@ -5,6 +5,11 @@ type: post
 notetype: feed
 ---
 
+# Kulture
+- **[[Goffs1\|Goffs]]:** No Mukkin' About
+    - Exploding 6s in melee [[Each time a model with this kultur makes a melee attack, an unmodified hit roll of 6 scores 1 additional hit.::srs]]
+    - +1 strength on the charge [[Each time a model with this kultur makes a melee attack, if that model’s unit made a charge move or performed a HeroicIntervention this turn, add 1 to the Strength characteristic of that attack.::srs]]
+
 # HQ
 - [[Ghaz\|Ghazghkull Mag Uruk Thrakka, Prophet of Gork and Mork]]
 - [[Makari, Ghazghkull's Best Bud]]
@@ -30,11 +35,3 @@ notetype: feed
 
 # Transport
 - [[Da Trukk]]
-
-# Gameplan
-- Ghaz calls a great waaagh turn one, letting core anc characters advance and charge
-- Trukk moves, trukkboyz and warboss hop out within 3", move, advance, and charge
-    - Warboss' trait gives other units +1 to charge units he's engaged with, so charge with him first
-- Bikers move 14" and advance 6", which should make it easy to get them into charge range
-- Psykers are trying to deep strike units and buff them with more/better attacks
-- _Everything_ gets +1 attacks while the waaagh is on
