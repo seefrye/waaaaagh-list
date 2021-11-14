@@ -17,7 +17,7 @@ abilities: roadkilla shokka-hull
 - **[[Fuel Mixa Grot]]:** Advance 9" token [[Once per battle, when this model Advances, do not make an Advance roll. Instead, until the end of the phase, add 9" to the Move characteristic of this model.::srs]]
 - **[[Ramshackle]]**
 - **[[Waaagh\|Waaagh!]]**
--**[[Roadkilla1\|Roadkilla]]:** Deal d3 mortal wounds on 2+ after charging [[After this WARLORD makes a charge move, you can select one enemy unit within 1" of it and roll one D6: on a 2+, that unit suffers D3 mortal wounds.::srs]]
+- **[[Roadkilla1\|Roadkilla]]:** Deal d3 mortal wounds on 2+ after charging [[After this WARLORD makes a charge move, you can select one enemy unit within 1" of it and roll one D6: on a 2+, that unit suffers D3 mortal wounds.::srs]]
 - **[[Shokka Hull]]:** Deal d3 mortal wounds on 4+ when attacked in melee [[VEHICLE model only. Each time an enemy unit selects this model as the target of any attacks in the Fight phase, after these attacks have been resolved, roll one D6; on a 4+ that unit suffers D3 mortal wounds.::srs]]
 
 ---

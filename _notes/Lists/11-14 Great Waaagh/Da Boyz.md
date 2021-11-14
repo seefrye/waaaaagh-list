@@ -3,7 +3,7 @@ title: Da Boyz
 name: Da Boyz!
 unit: boyz
 wargearRanged: slugga
-wargearMelee: choppa 
+wargearMelee: choppa big-choppa
 ---
 
 # Da Boyz!
@@ -29,4 +29,5 @@ wargearMelee: choppa
 | Weapon | Range | Type | S   | AP  | D   | Abilities |
 | ------ | ----- | ---- | --- | --- | --- | --------- |
 | [[Slugga1\|Slugga]] | 12"   | Pistol 1 | 4   | 0   | 1   | -         |
+| [[Big Choppa]] | Melee | Melee | +2  | -1  | 2   | -         | 
 | [[Choppa1\|Choppa]] | Melee | Melee | User | -1  | 1   | One extra attack [[Each time the bearer fights, it can make 1 additional attack with this weapon.::srs]] | 
