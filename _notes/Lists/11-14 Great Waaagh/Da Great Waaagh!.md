@@ -8,8 +8,8 @@ notetype: feed
 # HQ
 - [[Ghaz\|Ghazghkull Mag Uruk Thrakka, Prophet of Gork and Mork]]
 - [[Makari, Ghazghkull's Best Bud]]
-- [[\'fing One]]
-- [[\'fing Two]]
+- [[Fing One]]
+- [[Fing Two]]
 - [[Warboss in Mega Armor\|Trukkboss]]
 - [[Wartrike\|Speedboss]]
 

@@ -1,12 +1,12 @@
 ---
-title: \'fing Two
-name: \'fing Two
+title: Fing Two
+name: Fing Two
 unit: weirdboy
 wargearMelee: weirdboy-staff
 spells:  fists-of-gork jabbin-fingerz
 ---
 
-# \'fing Two
+# 'fing Two
 ## Weirdboy
 ### Abilities
 - **[[Ere We Go]]:** Re-roll charges [[You can re-roll charge rolls made for units with this ability.::srs]]

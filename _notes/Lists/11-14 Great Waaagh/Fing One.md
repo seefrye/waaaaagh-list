@@ -1,13 +1,13 @@
 ---
-title: \'fing One
-name: \'fing One
+title: Fing One
+name: Fing One
 unit: weirdboy
 wargearMelee: weirdboy-staff
 spells: da-jump warpath
 abilities: supa-cybork-body
 ---
 
-# \'fing One
+# 'fing One
 ## Weirdboy
 ### Abilities
 - **[[Ere We Go]]:** Re-roll charges [[You can re-roll charge rolls made for units with this ability.::srs]]
