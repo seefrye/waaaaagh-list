@@ -1,10 +1,9 @@
 ---
-title: Makari, Ghazghkull's Buddy
+title: Makari, Ghazghkull's Best Bud
 name: Makari, Da Bestest Grot
 unit: makari
 wargearMelee: makaris-stabba
 ---
-
 # Makari, Da Bestest Grot
 ## Makari
 ### Abilities

@@ -16,7 +16,7 @@ abilities: trukk-boyz follow-me-ladz da-irongob
 - **[[Waaagh\|Waaagh!]]**
 - **[[Warboss (Aura)]]:** 6", CORE and CHARACTER units get +1 to hit in melee [[While a friendly \<CLAN> CORE or \<CLAN> CHARACTER unit is within 6" of this model, each time a model in that unit makes a melee attack, add 1 to that attack’s hit roll.::srs]]
 - **[[Da Irongob]]:** Deal mortal wounds after melee attacks [[GOFF model only. After making close combat attacks with the bearer, before they consolidate, you can select one enemy unit within 1" of the bearer and roll one D6: on a 2+, that unit suffers D3 mortal wound::srs]]
--**[[Follow Me Ladz\|Follow me, Ladz!]]:** Other units get +1" when charging units the warlord charged [[If this WARLORD has made a charge move this turn, until the end of the turn, each time a friendly \<CLAN> ORKS unit declares a charge against an enemy unit that is within Engagement Range of this WARLORD, add 1 to the charge roll for that unit.::srs]]
+- **[[Follow Me Ladz\|Follow me, Ladz!]]:** Other units get +1" when charging units the warlord charged [[If this WARLORD has made a charge move this turn, until the end of the turn, each time a friendly \<CLAN> ORKS unit declares a charge against an enemy unit that is within Engagement Range of this WARLORD, add 1 to the charge roll for that unit.::srs]]
 - **[[Trukk Boyz]]:** Can disembark after the trukk moves, the trukk gets +1 to shooting [[A TRUKK BOYZ unit can disembark from a TRUKK even if that TRUKK has made a Normal Move this phase. While any TRUKK BOYZ units are embarked upon a TRUKK, each time that TRUKK model makes a ranged attack, add 1 to that attack’s hit roll.::srs]]
 
 ---

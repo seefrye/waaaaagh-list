@@ -1,1 +1,1 @@
--**[[Fasta Than Yooz]]:** In your Command phase, select one friendly EVIL SUNZ CORE unit within 6" of this model. That unit is eligible to declare a charge with even if they Advanced or Fell Back this turn.
+- **[[Fasta Than Yooz]]:** In your Command phase, select one friendly EVIL SUNZ CORE unit within 6" of this model. That unit is eligible to declare a charge with even if they Advanced or Fell Back this turn.

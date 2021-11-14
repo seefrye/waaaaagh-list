@@ -1,1 +1,1 @@
--**[[Kunnin but Brutal\|Kunnin' but Brutal]]:** At the start of the Fight phase, if this WARLORD is within EngagementRange of any enemy units, it can fight first that phase.
+- **[[Kunnin but Brutal\|Kunnin' but Brutal]]:** At the start of the Fight phase, if this WARLORD is within EngagementRange of any enemy units, it can fight first that phase.

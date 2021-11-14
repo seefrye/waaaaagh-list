@@ -6,12 +6,12 @@ notetype: feed
 ---
 
 # HQ
-- [[Ghaz]]
-- [[Makari, Ghazghkull's Buddy]]
-- [['fing One]]
-- [['fing Two]]
-- [[Warboss in Mega Armor]]
-- [[Wartrike\|Deffkilla Wartrike]]
+- [[Ghaz\|Ghazghkull Mag Uruk Thrakka, Prophet of Gork and Mork]]
+- [[Makari, Ghazghkull's Best Bud]]
+- [[\'fing One]]
+- [[\'fing Two]]
+- [[Warboss in Mega Armor\|Trukkboss]]
+- [[Wartrike\|Speedboss]]
 
 # Troops
 - 4x10 [[Gretchin\|Grots]]
