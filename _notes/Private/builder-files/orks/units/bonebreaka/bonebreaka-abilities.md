@@ -1,0 +1,5 @@
+- **Bonebreaka Ram:** +d6 attacks on the charge [[Each time this model fights, if it made a charge move this turn, then until that fight is resolved, add D6 to the Attacks characteristic of this model.::srs]]
+- **[[Ere We Go\|'Ere We Go!]]:** Re-roll charges [[You can re-roll charge rolls made for units with this ability.::srs]]
+- **[[Explodes]]:** 6", d6 mortal wounds
+- **[[Ramshackle]]**
+- **[[Waaagh\|Waaagh!]]**

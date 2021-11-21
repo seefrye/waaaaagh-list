@@ -1,5 +1,5 @@
 ---
-title: Da Great Waaagh!
+title: Necrowaaagh
 date: 08-11-2021
 type: post
 notetype: feed
@@ -11,27 +11,23 @@ notetype: feed
     - +1 strength on the charge [[Each time a model with this kultur makes a melee attack, if that model’s unit made a charge move or performed a HeroicIntervention this turn, add 1 to the Strength characteristic of that attack.::srs]]
 
 # HQ
-- [[Ghaz\|Ghazghkull Mag Uruk Thrakka, Prophet of Gork and Mork]]
-- [[Makari, Ghazghkull's Best Bud]]
-- [[Fing One]]
-- [[Fing Two]]
-- [[Warboss in Mega Armor\|Trukkboss]]
-- [[Wartrike\|Speedboss]]
+- **[[Da Trukkboss]]**
 
 # Troops
-- 4x10 [[Gretchin\|Grots]]
-- 2x10 [[Da Boyz]]
-- 1x10 [[Da Trukkboyz]]
+- **[[Gretchin\|Grots]]**
 
 # Elites
-- 2x5 [[Da Sneaky Boyz]]
+- **[[Da Sneaky Boyz]]**
 
 # Fast Attack
-- 3x4 [[Da Bikez]]
-- 2x5 [[Da Rokkitboyz]]
+- **[[Da Nastynob & Princess]]**
 
 # Heavy Support
-- 3x [[Da Killa Kans]]
+- **[[Da Dread Mob]]**
+- **[[Da Bonecrusha]]**
+
+# Flyer
+- **[[Sistamulcha]]**
 
 # Transport
-- [[Lists/11-14 Great Waaagh/Da Trukk]]
+- **[[Lists/11-21 Necrowaaagh/Da Trukk\|Da Trukk]]**

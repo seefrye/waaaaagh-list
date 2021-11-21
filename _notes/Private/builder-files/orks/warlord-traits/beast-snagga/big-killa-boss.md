@@ -1,0 +1,3 @@
+-**[[Bigkilla Boss\|Big Killa Boss]]**
+    -   +2 attacks when engaged with VEHICLE/MONSTER [[Each time this WARLORD fights, if it is within EngagementRange of any enemy VEHICLE or MONSTER units, then until that fight is resolved, add 2 to this WARLORD’s Attacks characteristic.::srs]]
+    -   +1 to wound against VEHICLE/MONSTER [[Each time this WARLORD makes a melee attack against a VEHICLE or MONSTER unit, add 1 to that attack’s wound roll.::srs]]

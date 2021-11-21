@@ -1,0 +1,36 @@
+---
+title: Sistamulcha
+name: Sistamulcha, Dakkajet
+unit: dakkajet
+wargearRanged: big-shoota
+abilities: more-dakka
+---
+
+# Sistamulcha, Dakkajet
+## Dakkajet
+### Abilities
+- **[[Airborne]]:** Cannot charge, can only _be_ charged by flyers [[You cannot declare a charge with this model, and it can only be chosen as a target of a charge if the unit making the charge can FLY. You can only fight with this model if it is within Engagement Range of any enemy units that can FLY, and this model can only make melee attacks against units that can FLY. Enemy units can only make melee attacks against this model if they can FLY.::srs]]
+- **[[Explodes]]:** 6" d3 moral wounds [[When this model is destroyed, roll one D6 before removing it from play. On a 6 it explodes, and each unit within 6" suffers D3 mortal wounds.::srs]]
+- **[[Hard to Hit]]:** -1 to hit rolls [[Each time a ranged attack is made against this model, subtract 1 from that attack’s hit roll.::srs]]
+- **[[Ramshackle]]**
+- **[[Supersonic]]:** Pivot & move [[Each time this model makes a Normal Move, Advances or Falls Back, first pivot it on the spot up to 90° (this does not contribute to how far the model moves), then move the model straight forwards. It cannot pivot again after the initial pivot.::srs]]
+- **[[Waaagh\|Waaagh!]]**
+- **[[More Dakka]]:** 1-2 more shots with Dakka on 4+/6+[[VEHICLE model only. Each time this model shoots, roll one D6. On a 4+, make 1 additional attack with each Dakka weapon this model is equipped with. On a 6, make 2 additional attacks with each Dakka weapon this model is equipped with instead.::srs]]
+
+---
+
+### Stats
+
+| Unit             | M      | WS  | BS  | S   | T   | W   | A   | Ld  | Sv  |
+|:---------------- |:------ |:--- |:--- |:--- |:--- |:--- |:--- |:--- |:--- |
+| [[Dakkajet]] 7+  | 20-60" | 5+  | 5+  | 6   | 6   | 12  | 3   | 6   | 4+  |
+| [[Dakkajet]] 4-6 | 20-40" | 5+  | 5+  | 6   | 6   | N/A | d3  | 6   | 4+  |
+| [[Dakkajet]] 1-3 | 20-40" | 5+  | 6+  | 6   | 6   | N/A | 1   | 6   | 4+  |
+
+---
+
+### Wargear
+
+| Weapon | Range | Type | S   | AP  | D   | Abilities |
+| ------ | ----- | ---- | --- | --- | --- | --------- |
+| [[Big Shoota]] | 36"   | Dakka 5/3 | 5   | 0   | 1   | -         |

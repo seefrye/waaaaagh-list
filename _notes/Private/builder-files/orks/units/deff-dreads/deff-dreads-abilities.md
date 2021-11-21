@@ -1,0 +1,5 @@
+- **Dread Mob:** Split up after deployment [[After this unit is set up on the battlefield for the first time, if this unit has more than 1 model, all models in this unit must be set up within 6" of another model from this unit. After they are set up for the first time, each model is treated as a separate unit.::srs]]
+- **[[Ere We Go\|'Ere We Go!]]:** Re-roll charges [[You can re-roll charge rolls made for units with this ability.::srs]]
+- **[[Explodes]]:** 3", d3 mortal wounds
+- **[[Ramshackle]]**
+- **[[Waaagh\|Waaagh!]]**
