@@ -20,7 +20,7 @@ notetype: feed
 - **[[Da Sneaky Boyz]]**
 
 # Fast Attack
-- **[[Da Nastynob \& Princess]]**
+- **[[Da Nastynob and Princess]]**
 
 # Heavy Support
 - **[[Da Dread Mob]]**

@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lists/11-21 Necrowaaagh/Necrowaaagh.md"
+                "file": "Lists/11-21 Necrowaaagh/Da Bosstrukk.md"
               }
             }
           },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lists/11-21 Necrowaaagh/Necrowaaagh.md",
+                "file": "Lists/11-21 Necrowaaagh/Da Bosstrukk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,11 +135,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d6624c856fc4a9c6",
+  "active": "1587282bc42331ea",
   "lastOpenFiles": [
-    "Lists/11-21 Necrowaaagh/Necrowaaagh.md",
     "Lists/11-21 Necrowaaagh/Da Bosstrukk.md",
-    "Lists/11-21 Necrowaaagh/Da Nastynob & Princess.md",
+    "Lists/11-21 Necrowaaagh/Da Nastynob and Princess.md",
+    "Lists/11-21 Necrowaaagh/Necrowaaagh.md",
     "Private/builder-files/orks/warlord-traits/beast-snagga/big-killa-boss.md",
     "Lists/11-21 Necrowaaagh/Da Bonecrusha.md",
     "Private/builder-files/orks/units/bonebreaka/bonebreaka-stats.md",

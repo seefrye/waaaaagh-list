@@ -15,7 +15,7 @@ abilities: squig-hide-tyres
 - **[[Open Topped]]**
 - **[[Ramshackle]]**
 - **[[Waaagh\|Waaagh!]]**
-- **[[Squig-hide Tyres]]:** +1" move, +3" advance **FACTOR THIS IN AND DELETE THIS NOTE** [[VEHICLE model only (excluding WALKERS and AIRCRAFT). Add 1" to this model's Move characteristic. Each time this model Advances, add an additional 2" to this model's Move characteristic.::srs]]
+- **[[Squig-hide Tyres]]:** +1" move, +3" advance [[VEHICLE model only (excluding WALKERS and AIRCRAFT). Add 1" to this model's Move characteristic. Each time this model Advances, add an additional 2" to this model's Move characteristic.::srs]]
 
 ---
 
@@ -23,9 +23,9 @@ abilities: squig-hide-tyres
 
 | Unit                 | M   | WS  | BS  | S   | T   | W    | A   | Ld  | Sv  |
 |:-------------------- |:--- |:--- |:--- |:--- |:--- |:---- |:--- |:--- |:--- |
-| [[Trukk\|Trukk 6+]]  | 12" | 5+  | 5+  | 6   | 6   | 6-10 | 3   | 6   | 4+  |
-| [[Trukk\|Trukk 3-5]] | 8"  | 5+  | 5+  | 5   | 6   | 3-5  | d3  | 6   | 4+  |
-| [[Trukk\|Trukk 1-2]] | 6"  | 5+  | 5+  | 4   | 6   | 1-2  | 1   | 6   | 4+  | 
+| [[Trukk\|Trukk 6+]]  | 13" | 5+  | 5+  | 6   | 6   | 6-10 | 3   | 6   | 4+  |
+| [[Trukk\|Trukk 3-5]] | 9"  | 5+  | 5+  | 5   | 6   | 3-5  | d3  | 6   | 4+  |
+| [[Trukk\|Trukk 1-2]] | 7"  | 5+  | 5+  | 4   | 6   | 1-2  | 1   | 6   | 4+  | 
 
 ---
 

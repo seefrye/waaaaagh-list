@@ -1,5 +1,5 @@
 ---
-title: Da Nastynob & Princess
+title: Da Nastynob and Princess
 name: Da Nastynob & Princess
 unit: nob-on-smasha-squig
 wargearRanged: slugga
