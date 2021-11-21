@@ -18,7 +18,7 @@ abilities: beasthide-mantle big-killa-boss
 - **[[Beasthide Mantle]]:**
     - Add 1 to the bearer’s Attacks characteristic (factored in already).
     - 5+ Feel no pain [[Each time the bearer would lose a wound, roll one D6: on a 5+, that wound is not lost.::srs]]
--**[[Bigkilla Boss\|Big Killa Boss]]**
+- **[[Bigkilla Boss\|Big Killa Boss]]**
     -   +2 attacks when engaged with VEHICLE/MONSTER [[Each time this WARLORD fights, if it is within EngagementRange of any enemy VEHICLE or MONSTER units, then until that fight is resolved, add 2 to this WARLORD’s Attacks characteristic.::srs]]
     -   +1 to wound against VEHICLE/MONSTER [[Each time this WARLORD makes a melee attack against a VEHICLE or MONSTER unit, add 1 to that attack’s wound roll.::srs]]
 
