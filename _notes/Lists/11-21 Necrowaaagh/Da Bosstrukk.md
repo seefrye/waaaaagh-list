@@ -1,13 +1,13 @@
 ---
-title: Da Trukk
-name: Da Trukk
+title: Da Bosstrukk
+name: Da Bosstrukk
 unit: trukk
 wargearRanged: big-shoota
 wargearMelee: wreckin-ball
 abilities: squig-hide-tyres
 ---
 
-# Da Trukk
+# Da Bosstrukk
 ## Trukk
 ### Abilities
 - **[[Ere We Go\|'Ere We Go!]]:** Re-roll charges [[You can re-roll charge rolls made for units with this ability.::srs]]

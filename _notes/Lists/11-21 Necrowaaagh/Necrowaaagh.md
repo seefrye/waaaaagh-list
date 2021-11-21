@@ -20,7 +20,7 @@ notetype: feed
 - **[[Da Sneaky Boyz]]**
 
 # Fast Attack
-- **[[Da Nastynob & Princess]]**
+- **[[Da Nastynob \& Princess]]**
 
 # Heavy Support
 - **[[Da Dread Mob]]**
@@ -30,4 +30,4 @@ notetype: feed
 - **[[Sistamulcha]]**
 
 # Transport
-- **[[Lists/11-21 Necrowaaagh/Da Trukk\|Da Trukk]]**
+- **[[Da Bosstrukk]]**
