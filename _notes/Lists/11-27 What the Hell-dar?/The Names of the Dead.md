@@ -45,9 +45,9 @@ created: 27-11-2021
 
 - **Cast 2. Deny 2**
 - **Runes of the Farseer:** Re-roll any psychic dice once per phase [[Once in each Psychic phase, you can re-roll any number of dice used for this model's attempt to manifest or deny a psychic power.::srs]]
-- **Doom:** Warp charge 7, 24", re-roll wounds against target unit [[Warp Charge 7|Range:24"|Details:If manifested, choose an enemy unit within 24" of the psyker. You can re-roll failed wound rolls for attacks made by Asuryani units from your army against that unit until the start of your next Psychic phase.::srs]]
-- **Guide:** Warp charge 7, 24", target friendly unit re-rolls all hits [[Warp Charge:7|Range:24"|Details:If manifested, choose a friendly ASURYANI unit within 24" of the psyker. You can re-roll failed hit rolls for that unit's ranged weapons until your next Psychic phase.::srs]]
-- **Smite:** WC 5, 18", d3 mortal wounds, d6 on 11+ [[Warp Charge:5|Range:18"|Details:Smite has a warp charge value of 5. If manifested, the closest visible enemy unit within 18" of the psyker suffers D3 mortal wounds (pg 181). If the result of the Psychic test was more than 10 the target suffers D6 mortal wounds instead.::srs]]
+- **Doom:** Warp charge 7, 24", re-roll wounds against target unit [[Warp Charge 7 Range:24" Details:If manifested, choose an enemy unit within 24" of the psyker. You can re-roll failed wound rolls for attacks made by Asuryani units from your army against that unit until the start of your next Psychic phase.::srs]]
+- **Guide:** Warp charge 7, 24", target friendly unit re-rolls all hits [[Warp Charge:7 Range:24" Details:If manifested, choose a friendly ASURYANI unit within 24" of the psyker. You can re-roll failed hit rolls for that unit's ranged weapons until your next Psychic phase.::srs]]
+- **Smite:** WC 5, 18", d3 mortal wounds, d6 on 11+
 
 ---
 
@@ -55,8 +55,8 @@ created: 27-11-2021
 ## Dire Avengers Abilities
 **Avenging Strikes:** +1 to hit and wound if Exarch is alive and unit has lost a model [[Whilst this unit contains a Dire Avenger Exarch and any models from this unit have been destroyed, when resolving an attack made by a model in this unit, add 1 to the hit roll and wound roll.::srs]]
 - **Battle Focus:** Advance and shoot non-Heavy weapons [[If this unit moves or Advances in its Movement phase, weapons (excluding Heavy weapons) are used as if the unit had remained stationary.::srs]]
-**Battle Fortune:** Exarch has 4++ [[The Dire Avenger Exarch has a 4+ invulnerable save.::srs]]
-**Defence Tactics:** Overwatch hits on 5+[[When this unit fires Overwatch, it hits successfully on a roll of 5 or 6, instead of only 6.::srs]]
+- **Battle Fortune:** Exarch has 4++ [[The Dire Avenger Exarch has a 4+ invulnerable save.::srs]]
+- **Defence Tactics:** Overwatch hits on 5+[[When this unit fires Overwatch, it hits successfully on a roll of 5 or 6, instead of only 6.::srs]]
 
 ## Dire Avengers Stats
 
