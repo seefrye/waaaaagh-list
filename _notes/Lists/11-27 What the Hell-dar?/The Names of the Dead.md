@@ -1,3 +1,9 @@
+---
+title: The Names of the Dead
+notetype: feed
+created: 27-11-2021
+---
+
 # List
 - [[The Names of the Dead#Farseer\|Farseer]]
 - [[The Names of the Dead#Dire Avengers\|Dire Avengers]]
