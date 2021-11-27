@@ -5,6 +5,7 @@ created: 27-11-2021
 ---
 
 # List
+- **Craftworld Traits:** Deny cover, vehicles heal 1 wound at start of turn
 - [[The Names of the Dead#Farseer\|Farseer]]
 - [[The Names of the Dead#Dire Avengers\|Dire Avengers]]
 - [[The Names of the Dead#Guardian Defenders\|Guardian Defenders]]
@@ -53,7 +54,7 @@ created: 27-11-2021
 
 # Dire Avengers
 ## Dire Avengers Abilities
-**Avenging Strikes:** +1 to hit and wound if Exarch is alive and unit has lost a model [[Whilst this unit contains a Dire Avenger Exarch and any models from this unit have been destroyed, when resolving an attack made by a model in this unit, add 1 to the hit roll and wound roll.::srs]]
+- **Avenging Strikes:** +1 to hit and wound if Exarch is alive and unit has lost a model [[Whilst this unit contains a Dire Avenger Exarch and any models from this unit have been destroyed, when resolving an attack made by a model in this unit, add 1 to the hit roll and wound roll.::srs]]
 - **Battle Focus:** Advance and shoot non-Heavy weapons [[If this unit moves or Advances in its Movement phase, weapons (excluding Heavy weapons) are used as if the unit had remained stationary.::srs]]
 - **Battle Fortune:** Exarch has 4++ [[The Dire Avenger Exarch has a 4+ invulnerable save.::srs]]
 - **Defence Tactics:** Overwatch hits on 5+[[When this unit fires Overwatch, it hits successfully on a roll of 5 or 6, instead of only 6.::srs]]
@@ -140,7 +141,7 @@ created: 27-11-2021
 
 # Shining Spears
 ## Shining Spear Abilities
-- **Aerobatic Grace:* 4++ vs ranged
+- **Aerobatic Grace:** 4++ vs ranged
 - **Battle Focus:** Advance and shoot non-Heavy weapons [[If this unit moves or Advances in its Movement phase, weapons (excluding Heavy weapons) are used as if the unit had remained stationary.::srs]]
 - **Expert Hunter:** Exarch re-rolls wounds against VEHICLEs
 - **Heartstrike:** Exarch melee attacks deal a mortal wound on 6s to wound
